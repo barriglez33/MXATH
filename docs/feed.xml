@@ -1,2 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"><channel><title>World Series 2026 | Beyond the Score</title><description>Feed not run yet.</description><link>https://github.com/</link></channel></rss>
+<rss version="2.0"><channel>
+<title>World Series 2026 | Beyond the Score</title>
+<link>https://REPLACE_WITH_GITHUB_USERNAME.github.io/world-series-2026-rss</link>
+<description>Editorial MLB news beyond game scores. Sources credited; external links.</description>
+<language>en-us</language>
+<lastBuildDate>Sat, 24 Oct 2026 19:32:20 +0000</lastBuildDate>
+<atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://REPLACE_WITH_GITHUB_USERNAME.github.io/world-series-2026-rss/feed.xml" rel="self" type="application/rss+xml" />
+</channel></rss>
