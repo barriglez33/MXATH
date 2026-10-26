@@ -8,6 +8,7 @@ import logging
 import os
 import re
 import time
+from collections import Counter
 from datetime import datetime, timedelta, timezone
 from email.utils import format_datetime, parsedate_to_datetime
 from pathlib import Path
@@ -53,7 +54,10 @@ def queries(config, run_number):
     extras = config['extra_queries']
     # Rotate context queries. Always include several broad series-specific searches.
     selected_extras = [extras[(run_number * 4 + i) % len(extras)] for i in range(6)]
-    return (player_queries + selected_extras)[:config['queries_per_run']]
+    # Always check broad catch-all searches; rotating player queries supplement them.
+    broad = [extras[i] for i in [-5, -4, -3, -2, -1]]
+    other = [q for q in selected_extras if q not in broad]
+    return (broad + other + player_queries)[:config['queries_per_run']]
 
 
 def google_news_url(q, edition):
@@ -83,6 +87,11 @@ def editorial_score(title, description, config):
     score = 3 * min(title_context, 2) + min(max(full_context - title_context, 0), 2) + int(teams) - 5 * negative
     if re.search(r'\b(?:beat|defeat|win|lose|top|edge|blow out|derrot[aó]|vence|gan[oó])\b', title, re.I) and title_context == 0:
         score -= 4
+    if teams and not negative and title_context == 0:
+        # Discovery fallback: potentially valuable team-specific stories without
+        # an editorial buzzword. Pure result headlines stay negative-scored.
+        if not re.search(r'\b(?:beat|defeat|wins?|loses?|top|edge|blow out|derrot[aó]|vence|gan[oó])\b', title, re.I):
+            score = max(score, 2)
     return score
 
 
@@ -101,17 +110,29 @@ def collect(config, run_number, now):
     fresh_from = now - timedelta(hours=config['window_hours'])
     output = []
     seen_links = set()
+    stats = Counter()
     query_batch = queries(config, run_number)
     for q in query_batch:
         for edition in config['language_editions']:
             url = google_news_url(q, edition)
             try:
-                resp = requests.get(url, timeout=12, headers=HEADERS)
+                resp = requests.get(url, timeout=20, headers=HEADERS)
                 resp.raise_for_status()
                 parsed = feedparser.parse(resp.content)
-                for e in parsed.entries[:25]:
+                stats['requests_ok'] += 1
+                if parsed.bozo:
+                    logging.warning('Feed parser reported issue for %s: %s', q, parsed.bozo_exception)
+                logging.info('Search %s query=%r results=%d', edition, q, len(parsed.entries))
+                if not parsed.entries:
+                    stats['empty_feeds'] += 1
+                for e in parsed.entries[:config.get('results_per_query', 75)]:
+                    stats['entries_seen'] += 1
                     dt = article_date(e)
-                    if dt is None or not (fresh_from <= dt <= now + timedelta(minutes=5)):
+                    if dt is None:
+                        stats['missing_date'] += 1
+                        continue
+                    if not (fresh_from <= dt <= now + timedelta(minutes=5)):
+                        stats['outside_window'] += 1
                         continue
                     title = html.unescape(BeautifulSoup(e.get('title', ''), 'html.parser').get_text(' ', strip=True))
                     desc = BeautifulSoup(e.get('summary', ''), 'html.parser').get_text(' ', strip=True)
@@ -119,21 +140,29 @@ def collect(config, run_number, now):
                     domain = urlparse(link).netloc.casefold()
                     src = source_name(e)
                     if not link or any(b in (domain + ' ' + src.casefold()) for b in config['blocked_domains']):
+                        stats['blocked_or_invalid'] += 1
                         continue
                     score = editorial_score(title, desc, config)
                     if score < config['min_editorial_score']:
+                        stats['editorial_rejected'] += 1
                         continue
                     key = canonical_key(title, link)
                     if key in seen_links:
+                        stats['duplicate'] += 1
                         continue
                     seen_links.add(key)
+                    stats['accepted'] += 1
                     output.append(dict(id=key, title=title, url=link, source=src,
                                        summary=desc[:1200], published=dt.isoformat(), score=score,
                                        language=edition, query=q))
             except (requests.RequestException, ValueError) as exc:
+                stats['request_failed'] += 1
                 logging.warning('Search failed: %s / %s: %s', edition, q, exc)
             time.sleep(0.15)
-    return output, len(query_batch)
+    logging.info('DISCOVERY DIAGNOSTICS: %s', json.dumps(dict(stats), sort_keys=True))
+    if stats['requests_ok'] == 0:
+        raise RuntimeError('All news searches failed: check network, Google News and query URLs')
+    return output, len(query_batch), dict(stats)
 
 
 def escape(v):
@@ -169,7 +198,7 @@ def main():
     now = datetime.now(timezone.utc)
     state = load_json(STATE, {'run_number': 0})
     n = int(state.get('run_number', 0))
-    fresh, query_count = collect(config, n, now)
+    fresh, query_count, stats = collect(config, n, now)
     prior = load_json(DATA, [])
     combined = {}
     for a in prior + fresh:
@@ -177,14 +206,14 @@ def main():
         if a['id'] not in combined or (a['score'], len(a['summary'])) > (combined[a['id']]['score'], len(combined[a['id']]['summary'])):
             combined[a['id']] = a
     # Keep a bounded archive of articles within the recent period; not just one game's reports.
-    cutoff = now - timedelta(days=4)
+    cutoff = now - timedelta(days=config.get('archive_days', 7))
     items = sorted([a for a in combined.values() if datetime.fromisoformat(a['published']) >= cutoff],
                    key=lambda a: (a['published'], a['score']), reverse=True)[:config['max_articles']]
     logging.info('Queries: %d; newly qualified: %d; RSS items: %d', query_count, len(fresh), len(items))
     if not opts.dry_run:
         DATA.parent.mkdir(exist_ok=True)
         DATA.write_text(json.dumps(items, indent=2, ensure_ascii=False) + '\n', encoding='utf-8')
-        STATE.write_text(json.dumps({'run_number': n + 1, 'last_run_utc': now.isoformat(), 'qualified': len(fresh)}, indent=2) + '\n', encoding='utf-8')
+        STATE.write_text(json.dumps({'run_number': n + 1, 'last_run_utc': now.isoformat(), 'qualified': len(fresh), 'diagnostics': stats}, indent=2) + '\n', encoding='utf-8')
         write_rss(items, config, now)
 
 

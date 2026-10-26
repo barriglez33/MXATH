@@ -46,3 +46,7 @@ Google News indexes selectively, so this cannot guarantee every article. Publish
 Rosters verified against MLB.com's October 23, 2026 official rosters:
 - https://www.mlb.com/news/rays-2026-world-series-roster
 - https://www.mlb.com/news/brewers-2026-world-series-roster
+
+## Troubleshooting zero RSS items (v3)
+
+After a run, read `scanner-run.log` and `data/state.json` for the `DISCOVERY DIAGNOSTICS` counters. `entries_seen` indicates feeds returned articles; `outside_window`, `editorial_rejected`, and `empty_feeds` explain why nothing was kept. The search window is 12 hours to avoid missing slower-published context articles, while the feed archives 7 days. The scanner scores headlines and Google News snippets (not full articles). Pure result recaps remain filtered; some borderline headlines can enter the feed for editorial review. Google News feeds may lag publication.
