@@ -45,6 +45,8 @@ jobs:
 
           echo "Syntax check:"
           python -m py_compile main.py
+
+          echo "Editorial unit tests:"
           python -m unittest discover -s tests -v
 
           echo "Config check:"
@@ -63,12 +65,12 @@ jobs:
           python - <<'PY'
           import feedparser
           import requests
-          import bs4
-          import dateutil
-          print('Feed, HTTP, HTML, and date imports OK')
+          from bs4 import BeautifulSoup
+          from dateutil.parser import parse
+          print("Core feed, HTTP, HTML, and date imports OK")
           PY
 
-      - name: Run editorial news scanner
+      - name: Run news scanner
         id: scanner
         continue-on-error: true
         env:
@@ -132,7 +134,6 @@ jobs:
             wait_seconds=$((attempt * 20))
             echo "Push failed. Waiting ${wait_seconds} seconds before retry..."
             sleep "$wait_seconds"
-            git pull --rebase origin "${GITHUB_REF_NAME}"
           done
 
       - name: Fail job when scanner failed
