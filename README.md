@@ -50,3 +50,6 @@ Rosters verified against MLB.com's October 23, 2026 official rosters:
 ## Troubleshooting zero RSS items (v3)
 
 After a run, read `scanner-run.log` and `data/state.json` for the `DISCOVERY DIAGNOSTICS` counters. `entries_seen` indicates feeds returned articles; `outside_window`, `editorial_rejected`, and `empty_feeds` explain why nothing was kept. The search window is 12 hours to avoid missing slower-published context articles, while the feed archives 7 days. The scanner scores headlines and Google News snippets (not full articles). Pure result recaps remain filtered; some borderline headlines can enter the feed for editorial review. Google News feeds may lag publication.
+
+
+Workflow v4 uses the standard Estrellas MLB Actions structure. Project-specific dependency checks and editorial unit tests are retained.
