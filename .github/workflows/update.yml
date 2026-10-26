@@ -45,6 +45,7 @@ jobs:
 
           echo "Syntax check:"
           python -m py_compile main.py
+          python -m unittest discover -s tests -v
 
           echo "Config check:"
           python - <<'PY'
