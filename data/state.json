@@ -1,1 +1,14 @@
-{"run_number": 0}
+{
+  "run_number": 1,
+  "last_run_utc": "2026-10-26T16:07:45.938065+00:00",
+  "qualified": 72,
+  "diagnostics": {
+    "requests_ok": 58,
+    "entries_seen": 3144,
+    "outside_window": 3011,
+    "accepted": 72,
+    "editorial_rejected": 26,
+    "empty_feeds": 3,
+    "duplicate": 35
+  }
+}
