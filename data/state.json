@@ -1,14 +1,13 @@
 {
-  "run_number": 7,
-  "last_run_utc": "2026-10-27T18:13:36.222167+00:00",
-  "qualified": 108,
+  "run_number": 8,
+  "last_run_utc": "2026-10-27T22:24:53.145919+00:00",
+  "qualified": 126,
   "diagnostics": {
-    "requests_ok": 58,
-    "entries_seen": 2879,
-    "outside_window": 2681,
-    "accepted": 108,
-    "editorial_rejected": 64,
-    "duplicate": 26,
-    "empty_feeds": 1
+    "requests_ok": 56,
+    "entries_seen": 2755,
+    "outside_window": 2496,
+    "editorial_rejected": 96,
+    "accepted": 126,
+    "duplicate": 37
   }
 }
