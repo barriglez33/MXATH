@@ -1,1 +1,11 @@
-{"cursor": 0}
+{
+  "cursor": 28,
+  "last_run": "2026-10-30T21:36:57.882501+00:00",
+  "last_stats": {
+    "profiles_total": 47,
+    "requests": 3,
+    "entries_seen": 215,
+    "accepted": 80,
+    "editorial_rejected": 11
+  }
+}

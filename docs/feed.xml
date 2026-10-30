@@ -1,2 +1,721 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>MXATH | Mexican Athletes Beyond the Score</title><link>https://barriglez33.github.io/MXATH/</link><description>Mexican athletes news</description><language>es-MX</language></channel></rss>
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>MXATH | Mexican Athletes Beyond the Score</title>
+    <link>https://barriglez33.github.io/MXATH/</link>
+    <description>Original reporting, interviews, analysis, injuries, contracts and human-interest stories about Mexican athletes and athletes of Mexican heritage.</description>
+    <language>es-MX</language>
+    <lastBuildDate>Fri, 30 Oct 2026 21:36:59 GMT</lastBuildDate>
+    <item>
+      <title>Saúl Canelo Álvarez retará a Christian Mbilli por el título supermediano del CMB</title>
+      <link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxNazk1eDJIWFBTQmhSLWxJOG9aeDZGZmluaEEzNTk4VjJhQWRNNTlPYmdFN1NJVUJ0eGFWQTN6cjJOd0Zta19qQlljeGRnRE9DTG5EX3Q3cllOanJaVTdxOGVTUU1BNUMybzAyaUs1MnlUeFI3TUpYcEI0cm43RDE0bGN6SUtiT1VrUklJbk9uejZPQmdYaEVVTUM4akxsVkRMRzJ5d0ZRcTZMTkZUS1Bma1Rka1hKR2x4VzV5RDMzcnR4cW9UMXd4NkFjM0ZHLUhEY09n?oc=5</link>
+      <guid isPermaLink="false">8179f7e3b4461ca977c65cad</guid>
+      <description>Saúl Canelo Álvarez retará a Christian Mbilli por el título supermediano del CMB OnceDiario</description>
+      <pubDate>Fri, 30 Oct 2026 21:33:15 GMT</pubDate>
+      <category>boxeo</category>
+      <author>OnceDiario</author>
+    </item>
+    <item>
+      <title>Canelo cumple en la báscula y está listo para destronar a Mbilli</title>
+      <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxPQTRnRnRiQlhpYUZraTBfV2tUd2tDb3FmdzE0cjlxU2sxanhrQVhmMUtzdDBOOUFTaFJSQWtXSUhSQWVOTXNzU05Wdmh3RnlrVFBOOXc1QkJNTzRYOXNsMGtmUm1DSkhNRzNuR21QU210RXY4UFJOb194YTZPaGlHQVAwMVZKT3htbnVaSGgtY21SM0dqYnNUdHB1UQ?oc=5</link>
+      <guid isPermaLink="false">860ec0436d651d49af52b605</guid>
+      <description>Canelo cumple en la báscula y está listo para destronar a Mbilli Amexi</description>
+      <pubDate>Fri, 30 Oct 2026 21:29:01 GMT</pubDate>
+      <category>boxeo</category>
+      <author>Amexi</author>
+    </item>
+    <item>
+      <title>Canelo Álvarez y Jaime Munguía cumplen en la báscula y quedan listos para sus respectivas peleas de este sábado</title>
+      <link>https://news.google.com/rss/articles/CBMi3wFBVV95cUxORXYwdHNFTUloT0JwYjJ6Z3pFOW5sVkdjY0pnM2F5ekNJdndoZ0ZNV2lRZVZSMk1uWHViNno0bGRtN0tzekxJU1pGeGdKOF9RbXdwWXFjODVCczhPT0J3MVV0UUY2djdxUjUzVDJrUnFMMzZIaU9xTjY1eU9mdXJSeXJ1cXRGSlQtb200aGJYTmY0akg4VERDcnluZ0R1Zm5IWTItQy1ZQ3ZVMDRVZ2M0V1RZcWxOa3ZwM19UMDlVZGd2aFFqVnNDZDFqZXlXbmxOZlRMWE8zQ3lfeExSLTBV?oc=5</link>
+      <guid isPermaLink="false">4c57c5fadd2109913536d902</guid>
+      <description>Canelo Álvarez y Jaime Munguía cumplen en la báscula y quedan listos para sus respectivas peleas de este sábado Baja News</description>
+      <pubDate>Fri, 30 Oct 2026 21:28:21 GMT</pubDate>
+      <category>boxeo</category>
+      <author>Baja News</author>
+    </item>
+    <item>
+      <title>¿A qué hora suben al ring Canelo Álvarez vs Christian Mbilli este 31 de octubre en Arabia Saudita?</title>
+      <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxOUTg1ejV6WGFTUFdaaTZTMXR2YkJ3X0ZPMTRjQlk0cHhIZDd6bW95REY1WVJkby1jaFA5cDR6SzFvYW5TbVRxOGNzVzBxU09oZUkyUUk4V2dmLXA1UTlicG9hci1tazdzOU9ONkJUTm12cHI3V3d4RnltUVV4SnNTNXo1UG5ud1hZUG5pZFRtS3NsN3hfYkp5UGNDQzBVZlVOVjFSS25EQU96SXFJb3hKZmcwTkRFLUg4QVhoU1dB?oc=5</link>
+      <guid isPermaLink="false">44b1a8dbea57f040a2f04d33</guid>
+      <description>¿A qué hora suben al ring Canelo Álvarez vs Christian Mbilli este 31 de octubre en Arabia Saudita? Claro Sports</description>
+      <pubDate>Fri, 30 Oct 2026 21:24:44 GMT</pubDate>
+      <category>boxeo</category>
+      <author>Claro Sports</author>
+    </item>
+    <item>
+      <title>La pesadilla de Canelo Álvarez: negoció con los secuestradores de su hermano horas antes de subir al ring</title>
+      <link>https://news.google.com/rss/articles/CBMi-wFBVV95cUxQX0lRcEYzMXp2N0piam1iUi1uNmN0UUVWcXB4dHFUNTh0RWNITXNHbDB6N0NWMmNQTjBrUENDT1FPb0IxSWVBRk1ldllOaDBQbFVNci1RdTBZbUItLVZuUGtSUm1jTnNvWUhxd0xkUDYxbldtTjIwZHRMMnNiaXMxdGsxRjZXVG5DVzlERVNoX1FhaHB1VnNnbjBJbGxFRGZDS1J4V1pQd2h0bnZCNnZFMm5JT0l1LV95a241MEVuMXM4azNYY3NNdUU3ZkJ4M29Ea3NQWXFpckszeGFYSWR4WWtQYXdFc0djWWk4TmhqenNtWWJJbE5jWmlqTQ?oc=5</link>
+      <guid isPermaLink="false">c8079db66865aef85518b3fe</guid>
+      <description>La pesadilla de Canelo Álvarez: negoció con los secuestradores de su hermano horas antes de subir al ring El Heraldo de México</description>
+      <pubDate>Fri, 30 Oct 2026 21:18:00 GMT</pubDate>
+      <category>boxeo</category>
+      <author>El Heraldo de México</author>
+    </item>
+    <item>
+      <title>Canelo Álvarez y Christian Mbilli superan la báscula previo a su pelea por el título del CMB</title>
+      <link>https://news.google.com/rss/articles/CBMi4AFBVV95cUxOS1JyNjBHQTZ4VEIzZzdYQ0ZwbW5KLXRtTzI5d0Y0S1JVR1h1WmpiSkg2cHRlVnVUSE9UcmhRbkJmMlFhMnUwTUxQcFBMR1B0WHB3ektDRU84ZnNJLUNfY2dDaDRyTDZfOHRhTnRmRXJNQzgyaDR3S1dPTkoxQ1VIYWhKT2Vsb053LVdmbkZzellWcDRySWlyUTE0TTI1TFdDLUVvUlB1QnU0SDBhZGtVaVBCaVMzUEx0aldacWstRGpYTWg4TjRFd2JnZWViYzdPWDZHSGdxaC0xbHZkc1JDTg?oc=5</link>
+      <guid isPermaLink="false">cc23baed85966c94c0d1ff5f</guid>
+      <description>Canelo Álvarez y Christian Mbilli superan la báscula previo a su pelea por el título del CMB ABC Noticias</description>
+      <pubDate>Fri, 30 Oct 2026 21:13:56 GMT</pubDate>
+      <category>boxeo</category>
+      <author>ABC Noticias</author>
+    </item>
+    <item>
+      <title>Pelea Canelo vs. Mbilli: ¿Por qué Saúl 'Canelo' Álvarez vuelve a pelear en Arabia Saudita?</title>
+      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxNUi1fdUtsbXZUdERjdE5QLVRMN3pQRGVhTTgxbUFmd2xBVHlieThaOFRYRmNfelFJQWhvUWVMUk1VTlNJazZCR0YyNzVQb09sVDhPWHpMVGQxNENReGE1a25yNFRuR0lGZDE1aVFMUm9mdGVOcUJ2MlJFcjhkS0ExVHpLZ0xDR3dxQ1VVbS03eW9PNDVaeGZhTGNXaG8tMHpvX2x1X3VsOVdJRHo1UmJ3MQ?oc=5</link>
+      <guid isPermaLink="false">7c74370fe51432b484fa17e3</guid>
+      <description>Pelea Canelo vs. Mbilli: ¿Por qué Saúl 'Canelo' Álvarez vuelve a pelear en Arabia Saudita? TUDN</description>
+      <pubDate>Fri, 30 Oct 2026 21:07:23 GMT</pubDate>
+      <category>boxeo</category>
+      <author>TUDN</author>
+    </item>
+    <item>
+      <title>Canelo Álvarez intervino en las negociaciones para que su pelea contra Mbilli se transmita gratis y en vivo por televisión abierta en México</title>
+      <link>https://news.google.com/rss/articles/CBMilwJBVV95cUxQczFBZkdsaVIxX2k2NjNJRFR5TjRwNzlHR2RiS1k0Y3RuUzNid0tqU1I4Ml9nRnVQRUFTOWR0SkdYT29MZnJBWDNNMUgtUGtLVUdaOGh1dUQzZzZSQlFKbUJHR05wTVNKLXdDUVVsNHFWNU5aYmFRMTFOY0JtUmQzUklaOE1rVmxoRDFzdzJ6T1Bib2UzblRXZmdiMTBYTEJGN21CcGdFb2liNk02cjVVSXQtTEJmcUQyRmp1OV9abHVDSDZaczJtQlNvZmpDVG0xbTlNcEZlWlRyX3o1b1lKN3NaVzNzNFlWUkdwajM2ME1TNjhaWGIzTGF1UVdHMVBrR1JMNkNta1BPb19BOVotUFZaOE5hMjTSAbICQVVfeXFMT2pOUjU4VUZFcW9BMG0zaXhEUTVESEx3cnJnSnJZS0hFcmRQeGZ4Zjc1THEteU5aa3U0UmdZYWVWVkxwTjBQblhSY28tc3E2YnUxUGRJTjVkbzI5cEFlUkRXMWItYmViRWFvSVBSclFETFdxWlVXd2pVLWRvWnZVOG9yU3BZeF9waUh6Ym5mOUlTeDNOZ1JxdEdkdEE0cnpJQXFsYm12YVdNQ1ZIcXdiVHFrQXZyN0pqbkJlVkhxekNTcTNRVVR5bEVRejJlSkk3b0JfMzROQnozZzdxSWZpRFdGTG45ek5PMVFINTVCamYwRGM3V0xfOUNHMG9iRlBRVWlrdXA5cE9vXzVqaC1UR29UZlFpYXBNbmpTdUEyNzlJSHgzY1ZadGNNNGpiQTBsNXBR?oc=5</link>
+      <guid isPermaLink="false">7fd8642ed80a0715ea3d39f3</guid>
+      <description>Canelo Álvarez intervino en las negociaciones para que su pelea contra Mbilli se transmita gratis y en vivo por televisión abierta en México El Imparcial</description>
+      <pubDate>Fri, 30 Oct 2026 21:03:23 GMT</pubDate>
+      <category>boxeo</category>
+      <author>El Imparcial</author>
+    </item>
+    <item>
+      <title>Canelo Álvarez vs Christian Mbilli: horarios y transmisiones para verlo desde México</title>
+      <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxNbFFzTkN2LUYzVk1SVGpoTGJDeldXQko3cnVRZUl5MlR1R0p1T19LZnlER053NFNpcmZoWU5POF9nSUI1ZUE2TzNVTFR6bDZWRlBqVlp2YTRVYkdrWDJVQmZBUVlDZkJuY3RLN1ZXd1JFUlRNMXh0TWsySXRkZXhVb2R6Q0Q4bndIQ2s0TGpJWGd0NERwVGhFZ21WaS1DWUlrNUtJT0c5bHRCQjY1LXB6MXBuR1M5WmJZcHc?oc=5</link>
+      <guid isPermaLink="false">ff5687bef6edc5cd8595241f</guid>
+      <description>Canelo Álvarez vs Christian Mbilli: horarios y transmisiones para verlo desde México Sin Embargo</description>
+      <pubDate>Fri, 30 Oct 2026 21:00:05 GMT</pubDate>
+      <category>boxeo</category>
+      <author>Sin Embargo</author>
+    </item>
+    <item>
+      <title>¿Y México? Por esto ‘Canelo’ vuelve a pelear en Arabia</title>
+      <link>https://news.google.com/rss/articles/CBMiSEFVX3lxTE5vSURXX3NIR3ZaeVY1SE0zV0FQQTBvWGN5azZLdUU2QldNeDd0MW1XOWhBLXplczQ2ZjNRNGxkcUNhYnlTelpVUw?oc=5</link>
+      <guid isPermaLink="false">152478e8b390a56e0b26d0ad</guid>
+      <description>¿Y México? Por esto ‘Canelo’ vuelve a pelear en Arabia TUDN</description>
+      <pubDate>Fri, 30 Oct 2026 20:45:00 GMT</pubDate>
+      <category>boxeo</category>
+      <author>TUDN</author>
+    </item>
+    <item>
+      <title>A qué hora es la pelea del Canelo Álvarez vs. Christian MBilli en Arabia Saudita</title>
+      <link>https://news.google.com/rss/articles/CBMi4AFBVV95cUxQbVoyM0lPNk4yTEl0WG5WcjBGQnVhQlJOblQzbm1TdURWZUM2dENOMDdSS1RySTZNTXVGbmp1aEpLckJCdWpNTmd4VW5sVjdoN183eHQ2Tmp6enVRUHFyLXAwRTUzSnpua2ltbS1zMUY3NU4tTzg4TUNfNU1KY3p2d1p3X0pETjVpVFVxaEtEYjJFUnhhVEJlY3d3dnk2Mi02WnppMTl6ZXJ1amhTQ080a21DaGJ4QzJhWGhfZ0plajZBYmhiUjVrN3VHbUNZUjQ3Z1RxU0g4Q2lDMnYzUEpXWdIB9AFBVV95cUxPTGRMeFBfZGJEak14RVlGNFNrN3NHZWhHLS1CSVpxblJXS1VOc2pTY19LaVVCWEhXMkIycERIWUpMenFNSUpjOWRLVnlVTUZ2YnA2SDJFWWhZOXlNTkxPdXNOVzBBSkU0aVgyNW5QVm10d3lHOVlQN0lYRUlkNTViTHJQOWFBTnh4ZnBPYVVyUV9LQ2JhNGVRZXBVMEVOcDM5QUNRdDNHTDdJYXhPNzlvLXBzVW5EYVNMdlZyRDdFb2owcEJjMGlleFA5SmJTMUJJbkp6ZEJlbmxxbno1QmhhdThKZzlmU3pjUk1xSkRyS1NPQlZE?oc=5</link>
+      <guid isPermaLink="false">ef0e900e413caa7f87a80334</guid>
+      <description>A qué hora es la pelea del Canelo Álvarez vs. Christian MBilli en Arabia Saudita El Comercio Perú</description>
+      <pubDate>Fri, 30 Oct 2026 20:41:05 GMT</pubDate>
+      <category>boxeo</category>
+      <author>El Comercio Perú</author>
+    </item>
+    <item>
+      <title>Canelo Álvarez y Christian Mbilli pasan la prueba del pesaje rumbo a su pelea</title>
+      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxOZDUxSHdfWWVlNHc1b1hEaGRpd3MyNVhNODA3cHUtTm8tR2ZUcy1TUTJtRWF6bmRYOEp5cURYdTFWZEFzZnozcHNCZ29HWVp2QmtkWENSX3ZfTnd1TW83NlJYU2NHSUdmMzJpNnd2OWppemtnaWw5SDZCTFRIN1ktNHg4bkZiZVZQQXZuQ1QyZm9mdkRuY3EweWp4TlZBZDd3YVBaYUhpamNYVWtZaElpSlRJaUw5LUnSAbcBQVVfeXFMUGE5MkY3bWtqSmNaVFVBMU5wbmwwS1AzS0xxaWNmN2tiUWRVblAybGROcWVrZkt4bFlmNWgwQ3o4XzJ5a29SUTdncExXd0Y0OVY1WndVQWlMUkZGWG5IdUpBUEVwQUxrdWl0YVZkYnN2M0JRVTJlbTlzMjI2RERTNjEzWjdsY28tOTRsZ3poNDg0VFBVNFZmREt1ci1xRHpuUWdqSVUtUk1EdUhKdlVwRVFlMFdVRWR3?oc=5</link>
+      <guid isPermaLink="false">9a7b2ab95c3639a9d23eecf9</guid>
+      <description>Canelo Álvarez y Christian Mbilli pasan la prueba del pesaje rumbo a su pelea MARCA</description>
+      <pubDate>Fri, 30 Oct 2026 20:39:39 GMT</pubDate>
+      <category>boxeo</category>
+      <author>MARCA</author>
+    </item>
+    <item>
+      <title>Pelea de ‘Canelo’ Álvarez: ¿Cuánto dinero ganaría el mexicano si le gana a Christian Mbilli este 31 de octubre</title>
+      <link>https://news.google.com/rss/articles/CBMi8wFBVV95cUxQa2lpZXU5cDZNMmViNWlWdHhPOTM0cF9KQTZkVHpzbzY0amdtWUl4NDJmWGszZ1VLckh0Zmo0QlBFbnFZNzNPWmtmbVVzMnV2aTFHeUVtcFY0bFlJSTZTZzU0OU5EN2NPMGFlZUVEUWtScEV5MzVtTjJuVnZDU1Q1Y0pXdHY1WjRwQzh6YnNQR0Q3WERnTXR2dFZPdjFsX1RkWDNxY090aWgxZmJGa3JZYmN2Q1d5VENaVjlOZExjaDgwdnRrYTY3REdTUlV2VG56dDVva3NwX1AyMGwxUFdYN24xU0NhVW9DMEFvOXhnUGhCaWc?oc=5</link>
+      <guid isPermaLink="false">4b28bdabc86b285ee721cc1c</guid>
+      <description>Pelea de ‘Canelo’ Álvarez: ¿Cuánto dinero ganaría el mexicano si le gana a Christian Mbilli este 31 de octubre Reporte Indigo</description>
+      <pubDate>Fri, 30 Oct 2026 20:35:39 GMT</pubDate>
+      <category>boxeo</category>
+      <author>Reporte Indigo</author>
+    </item>
+    <item>
+      <title>Canelo vs. Mbilli: Fecha, horario, cartelera, cómo ver y más</title>
+      <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxPb05SbTh1SldUbFFGQ052bkFYR0dVODkyeWpYVUNLd3FuNzI5REFMWHRDTUc1dnpmRHYtY0pUVEdGX2dlMTZ5X2lOLTI0ems0a0JkTjdYOFowQ1VWTHR0WDZKZmxBdkhvMjJQaVczbWhKTGlDM0RNa1hQSFl1U3ZaMFllOXYtTW80RXBJZTRuR1h5b1FRY0hvYU54bGIzd2ZiS1E?oc=5</link>
+      <guid isPermaLink="false">5ce35cd078ecc83fe4e56730</guid>
+      <description>Canelo vs. Mbilli: Fecha, horario, cartelera, cómo ver y más ESPN México</description>
+      <pubDate>Fri, 30 Oct 2026 20:30:20 GMT</pubDate>
+      <category>boxeo</category>
+      <author>ESPN México</author>
+    </item>
+    <item>
+      <title>Equipo de Christian Mbilli protesta por los guantes de Canelo Álvarez a horas de la pelea</title>
+      <link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxQX0cyMHVzbWtoZF80S3ZZanVjTmF5U2JOcVg2TlN0czNxaGdmVkxqSlFFZ045bk1uVlU3V1Z0UjhrbHNFc1MwcmpVM0JlelZxNVJpbmhIUEhoU2MtempUUUx2VFpaajAzT3dwOXZMVDZDOUE4VG5zUGpoOE41QTRRWDNaa2p0QjhBODhJVHlCd1RSSkdoZkxza1lVMDljMU9nZW1nUy1OZlBvMzJ5RG9DUVI2UkhGWXpxZVp0c0JnMldZci03SFFUVThGQzY3U25EMzNJ0gHuAUFVX3lxTFBnZ3RxUUM1ZzJkWllmOW44NkJjRUVBazRNUk02UW1PVzg5cndSOVJQWTlKQkNveGRFcm5MRHlLekZVbmFLd0VMYmRyODNoV1ROV3NZeHlKYTl4SUowYk5lQk1YRHA2UDJWQWgySUwxWklralUybTFlc2g1ZW10YVQwMWRQTXVYTkt3YWlqd2tWQVNJdUxtUkxBQTl5NjdhOGJBUDVjbFotVmxycTFuTTd1LUgweWZTWUNGMUdtZXZqbzZWUVZEVEFsdXItQWJtWjAyRE82ekRhRzIyRDcydHAyZ0tjR1JoNGZFY3Jhb1E?oc=5</link>
+      <guid isPermaLink="false">dfce874cbae562f3fad2b8ff</guid>
+      <description>Equipo de Christian Mbilli protesta por los guantes de Canelo Álvarez a horas de la pelea El Imparcial</description>
+      <pubDate>Fri, 30 Oct 2026 20:27:55 GMT</pubDate>
+      <category>boxeo</category>
+      <author>El Imparcial</author>
+    </item>
+    <item>
+      <title>Edgar Berlanga, rival del "Canelo" Álvarez, es arrestado por presunta violencia doméstica</title>
+      <link>https://news.google.com/rss/articles/CBMixgFBVV95cUxPMVVYV0cxVW93ZHpVb1l0dzRybzljWEN4RVFNZzR2aGZJSElIOWtVdVVlRDJXcnp3MHRzVFVYX1ZCTjBLTkpSd0JKWHBvOG5NY2E4TS10cld3ZllRWGZrdEFkN3lpaWs3alEzWl9nQzc0RXpFeUdodE5Sb3pKTGd6WmVSZlc3VGVJYjZjbXl1Umo0MDhtNmNRZGJGclo3Z2VIWGstZFkzVGJEVmFTYkQ3U3JLbkY1UVp1T1BjdHRZRnZDSkRyN3c?oc=5</link>
+      <guid isPermaLink="false">a20431a49141adb5ab1662b7</guid>
+      <description>Edgar Berlanga, rival del "Canelo" Álvarez, es arrestado por presunta violencia doméstica Diario del Yaqui</description>
+      <pubDate>Fri, 30 Oct 2026 20:20:15 GMT</pubDate>
+      <category>boxeo</category>
+      <author>Diario del Yaqui</author>
+    </item>
+    <item>
+      <title>Tres pilotos con malestares previo al GP de la Ciudad de México, entre ellos ‘Checo’ Pérez</title>
+      <link>https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQy1CeDRtRDFEMUJJYXR2VEx1VFFLUVgwYWxfU0U1OXRHYmdvRXFCUXcycUdXWTJIUDFyZXE0aDRWd05mekd2MnlxWVA2c3lRSzlnWWZvN3pvVlNRLUM1XzJVR0xXcUJmel96bmZlSmY1Qk5lbWw2dGp5V1o5STk3aU9DbU5yRmVzQUFuMTdfb01LOTV0bFZleGx3QVFuamZMWlRndTJ1MkVfTl9aajRyNndmNEN2T29SM183QnV4eEg0WUpmdmJZNUR5ZmcxUUtROWZjbmpCQXJyZw?oc=5</link>
+      <guid isPermaLink="false">a190d97f0fe9ba266611b4df</guid>
+      <description>Tres pilotos con malestares previo al GP de la Ciudad de México, entre ellos ‘Checo’ Pérez La Jornada</description>
+      <pubDate>Fri, 30 Oct 2026 20:13:00 GMT</pubDate>
+      <category>formula_1</category>
+      <author>La Jornada</author>
+    </item>
+    <item>
+      <title>Canelo Álvarez y Christian M’billi superaron sin problemas el pesaje del CMB</title>
+      <link>https://news.google.com/rss/articles/CBMizwFBVV95cUxPMlNiNDFmREFyeGVFcDFOTnd6WVpSSC12VVZzRHg0eVJVZ21reXBnUzBxdE1kY2VsdzQ0TFVSXzFYcVJBVjV0NDhMcVlhMGtPOERjS3RaTVFVMU1ZYTVDUzc1cmVXcmRUUmc0T3Zpekh3VG1nek16MmxlQXdud0VVNnF5RVZuYWMzWVd6M2ZCc1JqNndNVVhLSWZfUjFMN2xkTnhPcV9zOThvQlUydFVPWmhES2c5WHZVenoteTFEbnhSWGY2ekI4S2dWbDAyVFE?oc=5</link>
+      <guid isPermaLink="false">a03f8cd8e17bd547f7313497</guid>
+      <description>Canelo Álvarez y Christian M’billi superaron sin problemas el pesaje del CMB OnceDiario</description>
+      <pubDate>Fri, 30 Oct 2026 20:08:18 GMT</pubDate>
+      <category>boxeo</category>
+      <author>OnceDiario</author>
+    </item>
+    <item>
+      <title>Sergio Pérez se pierde la práctica libre 1 del Gran Premio de México por problemas de salud - esto</title>
+      <link>https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNm56RkpaaktLZnNubzZkamhoSjNERXJQWGxkM3ljTWh3UG1wTXhGTnZNNHk0ZWIxVmJHZjJjazEwVm5OVllwUjdjYjd1UjFfQllxSnJ4R0JpZkU2WC1wYzRsNFhSb3AxdVdnQVAzWm93MU96UnRrd0pkR09qZU80WVVlSDlnaVJ0TnN3TVRpV2FPRDFrY0xvQ0ZrY1pSUDBEWVNtTmtlTUR2WWczXzVCOHhxUHhEYjIxaHppZzIxRW51eGRQOFk3NzJGajBia3dHNGVrdg?oc=5</link>
+      <guid isPermaLink="false">3df47b7fd2bc90cbb8c8c0ec</guid>
+      <description>Sergio Pérez se pierde la práctica libre 1 del Gran Premio de México por problemas de salud - esto El Sol de México</description>
+      <pubDate>Fri, 30 Oct 2026 20:08:05 GMT</pubDate>
+      <category>formula_1</category>
+      <author>El Sol de México</author>
+    </item>
+    <item>
+      <title>Checo Pérez cancela evento con aficionados en el Autódromo</title>
+      <link>https://news.google.com/rss/articles/CBMiygFBVV95cUxPXzRmM25wSDZNdjdlM1NHV3VNUy1WU0Q3RjdtOGg0dnJSX2luOWhsNDBUMGNTalUtX1Etc3A0a09fS05maVBhd0dYcl9yUk16YU5zYTRjZ3JIcl9DTkczck1sbVI4Z2RWbzJlV1NlbzQ4eXdlc01DLVd3QmVOM3Y2b09oc2VxWi04d3JLbDZSaDV2SUozVDRscDZmZWxQcmtyZDVybE01UFJHUGVFNlp2MTY2S05EcnhJV3BNM25vRFpaSmJzOFduU0dB0gHPAUFVX3lxTE5QQV9yMWlINDFkd1EwRG1nU2JHTEIzbnpMbXRHeElhUUg3bk1GT2ZtSVdKbER5VXhhOXgxZzNEQ3FQMks2bl9Ld1NPTVNyOHM1YjFsdTJtUzdMNVhWOEotcFh5NUJIX2ZyaVB5TXFHTnlxM3hPaGUtenU1UTNqS0thTUtkakZiUk9QV0Nra3NrTEotajQyZktzZDg3UlhUM09NVnRSYU4wa09UQVZCRmVoVU9wLVNzRmNOU05tXzBuYjFjSVhXTUQyLXZMVk1Pdw?oc=5</link>
+      <guid isPermaLink="false">9bb861095efb3817b98ed936</guid>
+      <description>Checo Pérez cancela evento con aficionados en el Autódromo El Informador</description>
+      <pubDate>Fri, 30 Oct 2026 20:07:37 GMT</pubDate>
+      <category>formula_1</category>
+      <author>El Informador</author>
+    </item>
+    <item>
+      <title>Fecha y hora EXACTA de inicio de la pelea de Saúl ‘Canelo’ Álvarez vs. Christian Mbilli, paso a paso para verl</title>
+      <link>https://news.google.com/rss/articles/CBMizwFBVV95cUxQUzZDcEdNLXNTU1NfbVVOcTRjdkYxdUFib2VRY3pXeGZzckhZQkluMml6SU9hR29LU3U4c1BqbzhlMVlHUWFXamNDZlkzM0hxS3lBZmdKZmdBSlRKOUxLSnR0clhIeXdNNGlRRWN0c1BES1lMenI5UHVTX1d6NTl2SGhTNDZxNVpWN0p6bmNMOHBJSTR5MGRfTW5HRHZTV0VVVXZlR281a0F1b09kRFA1Mkt6OEV1T25sWVJEN0YyaGZDeW1pbTgxQ3d3UTl6RlHSAdwBQVVfeXFMTmtPeUZOV3JlUVRCd2NOX2NzU2p3MnhjQzJGUVU3enIxSFV5U2Y2eHVLR3p4X1htOGdBOHZ1c1BJTDBJY0x2VlUzNmVRd3djQ05pN0xZOG9QSlZFNkQ4YmNnemN4MUF0aUpqTGhlZVBqdGJvRHhObHBYZDIzUGwyQXFwNnlJZzlrbXFuUWNMU1JiRnZGUHoybDhEa2lnTXhzQmh2Q1FoUWtXRkZfSm5EZW9Odnc3cVpNRVE4a2kxZlIxX0ZBSkJ1UGFtZTh4UVQzMWNiSk41d3Rkb0FiZg?oc=5</link>
+      <guid isPermaLink="false">de4dcf3ec5e7e5a563076f8c</guid>
+      <description>Fecha y hora EXACTA de inicio de la pelea de Saúl ‘Canelo’ Álvarez vs. Christian Mbilli, paso a paso para verl TV Azteca</description>
+      <pubDate>Fri, 30 Oct 2026 20:06:29 GMT</pubDate>
+      <category>boxeo</category>
+      <author>TV Azteca</author>
+    </item>
+    <item>
+      <title>Checo Pérez se luce con Cadillac tras problemas estomacales: Resultados Práctica 1 GP México</title>
+      <link>https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZmVFSTNYcXkwT1JsTjFFS25sQlZBbjd5a0o2aXp5M3JoOG0xc29Fa2wzeTVnNVVqdlBOd2RKTDZOQ3dCcUEzLUkyY0d1NUJZZ0xHejVsTExsMy1pMURNZkVGaGplbVpTclNrUVdLN0VyekI5NkM0MXh5M3VhY1ZjWGxwSk5WX1F3V3AzSnBVVXp3V3duVWlXM1pYT3FzZEZ2UnUycGNidDlYSFR1XzcyeXVGekw3Sm51dkplUDg0YTdpWVpQZURRMDF5WGFQc01JTkHSAdIBQVVfeXFMTnJYTWo3RUhTVUxMM3RQdFExcThHNkM2b1pmWkRRUC01dWpFalVXa3pSZi1mQTBDcG9IZFZzOHUzdnhGVW1nQng1UXlvLU5FWEkyOHNNaG95OWI4ZFA3WHJ0RUJLaVZiSlVmRDJ4Q0M4TEN2bFl4Y3dnX203X1V2eFAwRUlWaGJpUVFYcEtTS1RmNWgzd0JDSkVkdDVubVpuNEdEemZyWkpGT2NISHhGZkhHQ21MSGpFR1gzeEpaeFNwdmZxWkxrb2kxRGxuSmV4ZGh3?oc=5</link>
+      <guid isPermaLink="false">d7bbfb6451f7a18c9c311f35</guid>
+      <description>Checo Pérez se luce con Cadillac tras problemas estomacales: Resultados Práctica 1 GP México MARCA</description>
+      <pubDate>Fri, 30 Oct 2026 20:05:52 GMT</pubDate>
+      <category>formula_1</category>
+      <author>MARCA</author>
+    </item>
+    <item>
+      <title>¡Checo llega a 300! Los números que lo ponen entre leyendas de la F1</title>
+      <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxQM2s5MWJ5V3dfQ2RzRnF3eE5WM1RTVzRXTUZtRklzcnN4SENQZElXQlEtemVNQXhFQWhmcHZLRExPbDFPSnpPdnl4cTlTbXdJb2kzUnp2LTA0SmRSQmcxMEVVUnQwOGduTHgzMXMtZFFQQWlUZHhXX2xsVlg4cjhXWmFQVTNmWUU0OHRWRkpoYUZlVlpWYWV6Nzh3?oc=5</link>
+      <guid isPermaLink="false">3371b96d82e16ab6c04d9eb9</guid>
+      <description>¡Checo llega a 300! Los números que lo ponen entre leyendas de la F1 TUDN</description>
+      <pubDate>Fri, 30 Oct 2026 19:58:23 GMT</pubDate>
+      <category>formula_1</category>
+      <author>TUDN</author>
+    </item>
+    <item>
+      <title>Checo Pérez lidia con problemas de salud en la Práctica Libre 1 del GP de México</title>
+      <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxOc2tseXBSSkRTQm9UUm00b0lLazBsWjY1MUpXOF9WVWxTZnZFSllGa1U0TmRpNjZDNG40VFY2YkU5aU53b1RYb1JPdkMxc0RSemVtYXJtUGI5MEU4ajA2S2JBb3dWSGx0VmFsY1c4ZnNPMnE1bExfcmk3TmpxY1Q3dzc1V2QwZ2QycG94bWlpcldvbFJmRHVlV2lYNkptUG9rS0FwN2tBM3g5Mk9sdlFHbUJMejBsREVOdVY40gHPAUFVX3lxTFBVbGxUYWJTREt1Q0FMOE9wNFFTVUFkS2ZCZE9aZ1ctckRvd2xMV0JSdmZ2djRjUUZSRUdNN09zeWNpMUZBakhwdkRHMXphdjBmMWFVMHhuZGZxZWFJeWJsZGFMeEx0YU16Z0JXNG95QnBNbEtRc3EyUWg5LW82M0xFYlpMbzlrSE5UZEVpbWpsTGd1RmpkU3lYRnF6cEpmV0F0UzJidWxkLVpMUmZpUDhHenh5WG5qSjUwX0pwRzBJWVdydWQwZDk1LVZnT3FmNA?oc=5</link>
+      <guid isPermaLink="false">c36d0f1cacd901abc9e0deda</guid>
+      <description>Checo Pérez lidia con problemas de salud en la Práctica Libre 1 del GP de México AS México</description>
+      <pubDate>Fri, 30 Oct 2026 19:54:06 GMT</pubDate>
+      <category>formula_1</category>
+      <author>AS México</author>
+    </item>
+    <item>
+      <title>Canelo Álvarez y Mbilli superan la báscula y lanzan promesas de cara 'México contra el mundo'</title>
+      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxNclR4ZWh5cWFpLTlTUkVOd2diNUo4RkRZQUtMY1I3UWpCYnJNSXRxYXZsamZxekt2VjIxamYxSXk0bDZwNFRFeHRfVk1pVU9TYTUyejFQLUdicE1waHhjb2FyTnFCRU1fTGJWbHVLM3QyRVRlaDhuRVFlc2JOa3RIWmdlaWVuQ25Ga0Z5b004eWtEbHp3UXFZZnRFU1hadkZEb0lPTFdpTXdiV1RuSkJmWkRvMjRxeWPSAbcBQVVfeXFMUDBMQ0lzLXhQVXIzNVlnUUE0RkpUMVdkV2dJT3d0UjdJY1VQbE9peVhnR1FYTVVhQ3lzbUhMYmFYOVQ1SXFIM1NsZUt3T2ZfQUVYa3pha3ZLN0RUZktqN1ZLOFF1amdiVUluVFNBa2l5RDA4eGRwVTJid2Q2RFpka25mSnlBeHpYbUxyVlRiaW44LXd0UjFiQ05EQkNVUmF6Mkd3ZWFkNEJSTzhnRzB0WS1HS0ZHczdn?oc=5</link>
+      <guid isPermaLink="false">a9230679d26a3e463274e26e</guid>
+      <description>Canelo Álvarez y Mbilli superan la báscula y lanzan promesas de cara 'México contra el mundo' Mediotiempo</description>
+      <pubDate>Fri, 30 Oct 2026 19:42:13 GMT</pubDate>
+      <category>boxeo</category>
+      <author>Mediotiempo</author>
+    </item>
+    <item>
+      <title>Conoce a Christian M’billi, el boxeador invicto que enfrentará al Canelo Álvarez</title>
+      <link>https://news.google.com/rss/articles/CBMixgFBVV95cUxOR0NxbGpleGU1bXJ6eXEwXzRxb1dPOGNOa0M4UGxyNWlfZFlfNmNJQjBrWGsyRTl0RERaMmxweENaRTA3bDFJdWl0RFRKNEktdDh5TmVMckxpMzdOTmw0bjBxX0QwbmJkbFlYVktDXzM4MzJEWjRRQkxTNTdHQ05QVHc0aC1zZkNoT0E4UDlHbzNxUVZWVUJqdm5DTElFVzhDbzdGWXhTVHZfUTFyR0Q1SnVqc3lFQlkzQ2ZRWmNoVHpMY3dRSlE?oc=5</link>
+      <guid isPermaLink="false">58f731718372a75c1204c2af</guid>
+      <description>Conoce a Christian M’billi, el boxeador invicto que enfrentará al Canelo Álvarez OnceDiario</description>
+      <pubDate>Fri, 30 Oct 2026 19:25:58 GMT</pubDate>
+      <category>boxeo</category>
+      <author>OnceDiario</author>
+    </item>
+    <item>
+      <title>"Checo" Pérez en prácticas libres del GP México 2026</title>
+      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxQSlhhTVJoaDNKNjR5cTBLbHZnbjVzT0FYd2FjME5xQ3R2azdTQy1JNmpWZV9mTDBLNlQxb29McG9tbU84TjZKT3FQd3R6eFRWZ21QZ2lWZW9SUUFOTVlMVF9jQ2gtbTNaOW9EbGphRlJiaGNkNFdjbEs4OHpMZnFKQ0k0MVlLRnJYNW1KYk130gGTAUFVX3lxTE8wUVpjcEtHSnVlRnhDb3Q3ZDNnLWRTSTNFclJvaUFEM1UyLTdySTdaek1aN0g2bDhRZUJWMnpIc3dBWmtvbG9DSjloV2llamtkZDdYRXpIM0xGMVRhUkQxQUwyNy1xZGJrWTlHZ19qc3N6dU1OUzVjY1pHUGxjSEtZQWpna1kzckJ1TFBSbWNpY1ZkSQ?oc=5</link>
+      <guid isPermaLink="false">3c80955e788629621e508a84</guid>
+      <description>"Checo" Pérez en prácticas libres del GP México 2026 Pulso Diario San Luis</description>
+      <pubDate>Fri, 30 Oct 2026 19:24:00 GMT</pubDate>
+      <category>formula_1</category>
+      <author>Pulso Diario San Luis</author>
+    </item>
+    <item>
+      <title>Canelo Álvarez y Christian Mbilli cumplen con la báscula: todo listo para la pelea por el cinturón del CMB</title>
+      <link>https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbGpqU1o5elN0d0c0a1NBSDBRZEJyMVFXUmxqRWhhOHpya25tZDRKeXA2eW40UUpCQnVKMC1VQnFzQlhLS09CWjhNRTZveS1MYmk1Sll1Z0p4akJBcGNZTDMyWEpweFlwMGV5czR1U2NuT2NjSy1uNm9DOWFVMEliMm9LWFExbEtRTzFDSGxHTFlCMWlkWVh6SHBsMjdwMzVuVGV4bG91V3NEdlNMdERyLWV2TzZBampSTW1MQWhMVERyUURNNjc3czRkbzlpRzVtUkNNcWN2QQ?oc=5</link>
+      <guid isPermaLink="false">1a4af2a2688fd28b5869e223</guid>
+      <description>Canelo Álvarez y Christian Mbilli cumplen con la báscula: todo listo para la pelea por el cinturón del CMB Claro Sports</description>
+      <pubDate>Fri, 30 Oct 2026 19:21:22 GMT</pubDate>
+      <category>boxeo</category>
+      <author>Claro Sports</author>
+    </item>
+    <item>
+      <title>Canelo Álvarez y Mbilli cumplen con el peso por el título del CMB</title>
+      <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNkw4VlcxWWRLVE5UQWI0Ri1Zckdnb3NNbUxlMy1aMktmUnUyYkhjZlFPU090Q0Y3YWI0OXd1bFIwY2FBQkZOYmJBUGF0eDZ6b25WM1lEeU5CNzJzX1pBNkVtd045QkxobHRVSXRxQnBFVENhOXJ1LUhWUFdGMnZNdjhNMXZLQXhpSGYwWWFQZFhOeUs2R0d6SDNVc3ZURThaSy1NWWRGREfSAa4BQVVfeXFMTUhkN0FJM3NqdGphdXI5ZVpXbmtCZjdmYURVVlducVplSkMtMEJVaUtFc1ZFXzV4eXdnMVNSc2t5RGZWei1kVG1UajJ1cTFxNU0wVjlvMUtwWnBMMEpzQW9TY1RjZ3d3RDY4VkhSY0x6TGJoTHdTekRDN19FVHJqLVVWTEVNdXRJdFpGdHAyb2Z3czkxRkxJSnh2VDZQdkViYVVCVVVTWjN4Sk44T293?oc=5</link>
+      <guid isPermaLink="false">7dc7ddf86c15bbcbd3e9f416</guid>
+      <description>Canelo Álvarez y Mbilli cumplen con el peso por el título del CMB Expreso</description>
+      <pubDate>Fri, 30 Oct 2026 19:20:00 GMT</pubDate>
+      <category>boxeo</category>
+      <author>Expreso</author>
+    </item>
+    <item>
+      <title>Canelo Álvarez y Christian Mbilli superan la báscula y quedan listos para disputar el título mundial del CMB en Arabia Saudita</title>
+      <link>https://news.google.com/rss/articles/CBMiigJBVV95cUxPdzRRTVlKTFhjSUM1VnFXLUFTNjJjZ3dOZzZub05XVmRNb2VzSU80Z3Bxaks4cTRvbUg4X1RrUk9TMVRLTzRUTmlFcS0wUURhbUQ4LVA5VlE3YUJ2cHFmdTFmM3k4TzQ1R3FIdWZ0czFCem9GZFdkTGwzOXdEUElUWmlRZENOQ2pFbjlUbi1FcUpfYm1sTVMzeXJNWkl0enBiOU43QlRGZkdjc0dlUnpNNGFYeUp6WmFnSXRKS1F0aGNtVUVrQlBGbFhLOU91bUpQR1pXNkNxSUU5MU5iVXZUbVdwTzJMVTc2UmVuMGpncWVRdHgtY2RDdHE3QTAyNkd5NHAyZ1dkMGh3d9IBpAJBVV95cUxNS3hOa2p4STV5cUVoeDltYk0tR3g2LVBsM1VOU0VuMWVQNTdPRUV5RldXZEp0WXdpNzc0bUExZFZ4UzFwRzhLY2c3Mm0zTHBEWHQwUzM2aXIyZDdzeVpPSEsxVHRMQWd4ZWp3OXBMZXA2SnI3NGpxQnpmMjB6MzVHNENOU01IbV9uTktXVUpJTUlHeVhmOWFnTzd5VzVlT1VtQUpwcmZPeUVGOEw0dFB3bFdqRHZJNE95Y2xzdVgzWmpPTE5CYXZZUmpCSDEzNWtRdk94NFhvQWlyTHJlekxIeU9wWS14ekVvc0FnTnVGRmhYNy0tVzI3R2xmdEJqdE0zUDlZcDJtbHA0Wl9qZDNBTmJkMkUwQXNRYVJGaFFYeFBVRUpo?oc=5</link>
+      <guid isPermaLink="false">601af640ef2094c75d465cb5</guid>
+      <description>Canelo Álvarez y Christian Mbilli superan la báscula y quedan listos para disputar el título mundial del CMB en Arabia Saudita Infobae</description>
+      <pubDate>Fri, 30 Oct 2026 19:14:11 GMT</pubDate>
+      <category>boxeo</category>
+      <author>Infobae</author>
+    </item>
+    <item>
+      <title>Canelo vuelve a Arabia Saudita para reconquistar su trono ante Mbilli</title>
+      <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxQckxKUjdwcktBODdaSmVhN2ljakhadFpMd3hiUXlCd2RraFJrSjBCblltNHhiTHVVZ1pUOHVLdGt2eTc2VTJPM2s2b1dibFk3Zk1MclZoM1BZcVZnRWVoeF8wbFU1OG1QYnJwTl83azNQNmtwbDNiRmM1YjRmQi1fdGZtUzAzdGsyQ0QtdDBvTVlBdw?oc=5</link>
+      <guid isPermaLink="false">483cc4253d3fa2f7c3f12325</guid>
+      <description>Canelo vuelve a Arabia Saudita para reconquistar su trono ante Mbilli UDG TV</description>
+      <pubDate>Fri, 30 Oct 2026 19:13:00 GMT</pubDate>
+      <category>boxeo</category>
+      <author>UDG TV</author>
+    </item>
+    <item>
+      <title>Cadillac F1 Team: el proyecto con el que "Checo" Pérez va a cerrar su carrera en el automovilismo</title>
+      <link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSTNKMGlNZEVva3o3a0czdFgzLVNMeUhyTndDWS12MWhJV0ttbF9leDF1c21SRVpIVG9YbUdUbzZvVFp3MG1sRVozMWNaX043UkNKZTU1UnoxRzBYcXBEbElzN3ZfVmZYd043Y2pZODd3YllLRTRyVVRjME41NzFBVmtPZ013dWw5OGY2S3ZQRFNYb0tYS1JIbkMzbmJPTkExdVZOU0QxenVZUkZqM0RMeHE0MGNzTmNITFhmNTFsVmZ5Q0xSVlFZdUF0MkZnalR1U0JB0gHYAUFVX3lxTE5JMmUtblItM1VDdlZsVEN2M0dQQi1BZXozcnFMS21iNDZRTl9wTnZ0WC1UdDBBSDZNbmFZSnR3SkMwSGk3Zmg2a0cxdHl2ZjQ2NGRLVkRRWHltVXVsQktvR294UW9zMWN0M0dRNXRodndCaGVZLXN3bTNzcDdzZTlFeXBKUE9ZNFc1OWVLRk01dkI0Uzh6SmdpNk1ZUldpM01xblRRYUo0YjZJY2tvWWdZYkk2TEVYUEFDc1d5akFWUmpzWk1OYTZZS0s5V3VvQ0lqUmV1TmpSbw?oc=5</link>
+      <guid isPermaLink="false">58b4c6e0ac4d7936ac47175f</guid>
+      <description>Cadillac F1 Team: el proyecto con el que "Checo" Pérez va a cerrar su carrera en el automovilismo Diario Las Américas</description>
+      <pubDate>Fri, 30 Oct 2026 19:05:00 GMT</pubDate>
+      <category>formula_1</category>
+      <author>Diario Las Américas</author>
+    </item>
+    <item>
+      <title>A 21 años de su debut, Canelo Álvarez va por la gloria ante Mbilli en Arabia Saudita</title>
+      <link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTzI1MFRGQ3RFTlFHOEo0S3NuVS0zNmtSM2VHbEJwOEpqNWRjTGI1X0V2Y0E5OXRYem9PRno1LXdLOTR4OWZ5bEpKNzdMVU55S1V2M0NMQ1gzSnA1NVVFZHYwUnhGbWFraEpPSTJYNTlGOVZrOTRELVNRRnNVZmN6N2VZOEI1WDNHc0VRRXR3b19fYzR2cGlSSkhMelpwNWVxVVA5UG5EbGZoNUZnT0VFeTdLamprMlpVaHo3NzBxYWs5blNna1VWZWszemwyV0pvb1FV0gHYAUFVX3lxTFBZeTFRM1V6OWppM3dVN0FGQkg1bWtOZHVvYlpVUUNXQUFhcXY2TEtXVGc3V3NZSVVSMUpGRmVKQVBLMmpndndGMmNiOTY3UlcyQUl3anlUMERjTXRnMG50QVg0SDJLZWppTFpRSVc4M010VTl0WTlEV291V2t2bDl3TE1FWDdsdVRYcjJfUFl1aU9aZlNWS1NCQU1JQ1l4WFBRY0RMWFZ1ajg5ZWNXaEN6M0VybEh4RzdiMTJEMVVoc3RtdDVFNmZrb0ZsdGlJODg2S2tUT2I3dQ?oc=5</link>
+      <guid isPermaLink="false">6c86901f6b97812d82fc4181</guid>
+      <description>A 21 años de su debut, Canelo Álvarez va por la gloria ante Mbilli en Arabia Saudita El Informador</description>
+      <pubDate>Fri, 30 Oct 2026 18:58:39 GMT</pubDate>
+      <category>boxeo</category>
+      <author>El Informador</author>
+    </item>
+    <item>
+      <title>Canelo Álvarez y Mbilli dominan la báscula en Riad: así fue su último careo previo a la pelea</title>
+      <link>https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQ180alNLSmpEc3Rmb3pGMjJZblJKUVlKMzIteHN2OWhXMEJZSklpSlAzQmhFTDVuLTZkNzZTQWNxZjNjYkJfS1JrY2xvQVgxanNlRUNxeXJpWkJUMWdJR2dVTm43V0M2Wk5HbEs1d0dyZlV6U1E4c04xZk1vV2tCNjhfM19Ybkg5TVI1cTVSQ0pZSnVBMzlQYXQwd2JESEhEeDdCcmFzSFVxTGZlSTgxeEtpb0tUdkVMclVUdk1IUnI4MGRhSTVMbEE1Q2g4N2ZSaDljcmtlSEJndnVoTXlZeHhaajFtUQ?oc=5</link>
+      <guid isPermaLink="false">25dba5534f1761e9b3eecb5b</guid>
+      <description>Canelo Álvarez y Mbilli dominan la báscula en Riad: así fue su último careo previo a la pelea El Heraldo de México</description>
+      <pubDate>Fri, 30 Oct 2026 18:58:00 GMT</pubDate>
+      <category>boxeo</category>
+      <author>El Heraldo de México</author>
+    </item>
+    <item>
+      <title>¡Cumplen con la báscula! 'Canelo' Álvarez y Christian Mbilli dan el peso y se declaran listos para su pelea</title>
+      <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxOc3Z1WktfbDV0SkU1RmNrM3M5V0F4OE5udktvN0o0VUJmYVlLdUhoNmw5cmY5NnVxSkVIREI4YmdpSzNueEJ5M19zc0JxOEJMOFlwcVBacy1JVUxtQVhob1Q3WkI0bDNBTk9XaDNGOG54TEV1Z0ZuRW5JUTd5UmlaQk1ndTAzQ015a3pMZ0dsS2ZxbGNESnJWMEN4QzVHUkhoMGfSAaIBQVVfeXFMTnN2dVpLX2w1dEpFNUZjazNzOVdBeDhObnZLbzdKNFVCZmFZS3VIaDZsOXJmOTZ1cUpFSERCOGJnaUszbnhCeTNfc3NCcThCTDhZcHFQWnMtSVVMbUFYaG9UN1pCNGwzQU5PV2gzRjhueExFdWdGbkVuSVE3eVJpWkJNZ3UwM0NNeWt6TGdHbEtmcWxjREpyVjBDeEM1R1JIaDBn?oc=5</link>
+      <guid isPermaLink="false">dd9819b8f2e0ff7f2dbd1653</guid>
+      <description>¡Cumplen con la báscula! 'Canelo' Álvarez y Christian Mbilli dan el peso y se declaran listos para su pelea Milenio</description>
+      <pubDate>Fri, 30 Oct 2026 18:53:00 GMT</pubDate>
+      <category>boxeo</category>
+      <author>Milenio</author>
+    </item>
+    <item>
+      <title>Far from home, Mexican star Canelo Álvarez pushes to reclaim his title</title>
+      <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxQbzZyTjdqNnBVRzlsLXBqS21uWFpIZFJMODI4LWFERFVma1BxTlZKeFBvc1FsNzZ1UWFYbzAyMkQtM3VOTjVQejRYUHlwZ3E2MXdYZG5mNWt3Smt5eHNNSVRSeWY3SExtZFYxbFRYenZTTW90VkpPUDVJTjduTHphd0k5OWgwd3hyaElEN2R0X1c4VDVkRHVyNjNsY3VVU1ZPcjFFNXc4MA?oc=5</link>
+      <guid isPermaLink="false">97c8204a29610aba74465d95</guid>
+      <description>Far from home, Mexican star Canelo Álvarez pushes to reclaim his title Los Angeles Times</description>
+      <pubDate>Fri, 30 Oct 2026 18:42:39 GMT</pubDate>
+      <category>boxeo</category>
+      <author>Los Angeles Times</author>
+    </item>
+    <item>
+      <title>Canelo Álvarez revela lo que vivió antes de pelear con Crawford: “No me voy a victimizar, pero me pasaron much</title>
+      <link>https://news.google.com/rss/articles/CBMiiwJBVV95cUxQZEVxTlhlYy1VQThieEt1X2lsTkhkZ3UyeWpNNEhINjFVM2dXbGExaWF4eUN4Yi1DakRnRVpVYUdndnFYU1dRb1E2ZDhMcFRJWDh2QTZCOFhteGEzbmFjdmVNQWttVkxsLXlHNnVnNWZVc1YwY2llS1JWOVhKY2RxNFpuQm5CMWhkRnh4eW5zZFowaTNYc2FVNWo1bS1VLV81TnNoOUFFeXFxSnhTQmRrTzZRMEFDUG9WTmRRR2JpQlJBaWRJSURybkpIZ3pQU1pGbV85UXBHOW5wY3JaNHl1cURxaEFCYUdZZlpSR1g5dXVXWEs5X3lVLXc3dWt5VmtXcHJnQlM4OVA4N1nSAZ8CQVVfeXFMTy1fTzM1VXRuelBleDk4THZUOTYxcHBiQ3huSzlCTnlSVkZvMEcwYXVTWG5CQ0w1OUdUUUJfa1Z5cU93ZnJ6XzNaXzZRbmdsbHNHaDVsRURPR3hWSkpsVU9lOGF6VndJM0JKT0l0UW5KNlhsVHBUR2NFQzI4UkFsaWI0NmJpaXFLRHFGOFEtSUlrWjA1amo5LU5ZUE81S2tmUzQ2dnB1Vk94Tmp0V2hqcF9GVm1KSmxPU29aWEl3RFdXNlRRbUR2M0pzeHNQMW1Vbm9ULWV4TmRvTml3YlYwXzRpZUh3NEZXUkc3bXFfWi1HbFFfaGhJOXNscXA2cDVkN09TZ05MQ3lIbDdtNnQ2VGVUaEpwdlN0Y001blBTRTQ?oc=5</link>
+      <guid isPermaLink="false">bc1749fa6a131979551932bd</guid>
+      <description>Canelo Álvarez revela lo que vivió antes de pelear con Crawford: “No me voy a victimizar, pero me pasaron much AS México</description>
+      <pubDate>Fri, 30 Oct 2026 17:54:40 GMT</pubDate>
+      <category>boxeo</category>
+      <author>AS México</author>
+    </item>
+    <item>
+      <title>Cumplen Canelo Álvarez y Mbilli con el pesaje</title>
+      <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxNdC1fY3RYV3dLM0NpTjN3Sy1uM2pfZ2VtWTZlLW1aY3dRUXFVaDNXV0J6UmFUY210TVBFTzhPbnpBMjNKWWlqSUFoTS1FUDFVLWJaTmJkeENBY2JJa1N6Y1FSV2FWckN1cmVKWmhZbms4aDRBdTRsNTN5VWdwU2pSbWNMa1Y0VUFCX3ZHOQ?oc=5</link>
+      <guid isPermaLink="false">1a86eaa48d77f6032792bfe2</guid>
+      <description>Cumplen Canelo Álvarez y Mbilli con el pesaje El Porvenir - Portada</description>
+      <pubDate>Fri, 30 Oct 2026 17:32:00 GMT</pubDate>
+      <category>boxeo</category>
+      <author>El Porvenir - Portada</author>
+    </item>
+    <item>
+      <title>Christian Mbilli: cuánto mide, cuánto pesa... todo sobre el rival de Canelo Álvarez</title>
+      <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxNUWhTUXNyMVZ2VHVKamg2NnlkYVk1OEw4T3ZHejRxcE12TW52SG1MWTlJUFJ6eGJqWWJ0VlJVMUpraXZPX2M5SklRS18tSUl0UFNYc1RtRU5FRFhwYXRDYnpvaDBkbDc1bFZobWRXUjdUSFVfRnNhdERSUml1QUNMbDNmUHNkd1VTZVQtemxoQ0otQlZVQ2lPT2hWZ9IBqAFBVV95cUxQamh0MFdqZ2FoUFloR2xaYmxzNlNCdVQ5OTZoc3NnMjhqbGN0TGhKMmhSTzhJNXJBUFJZdk9IaEpSQ09EanFuYjQyRmFiSUN0V2RYV21hWFZ5Zm82eW5IazVNZFdCUjN6LW13c1dKWDI5QlFJRXNJcnBNcGluSGd2SklRS2NBYlM2dFpMWlNmZGNsWjNXUm9XeWlUQnNTZHcyWkpTNURfcUY?oc=5</link>
+      <guid isPermaLink="false">76c04efadd5ad8c0bd36b965</guid>
+      <description>Christian Mbilli: cuánto mide, cuánto pesa... todo sobre el rival de Canelo Álvarez TV Azteca</description>
+      <pubDate>Fri, 30 Oct 2026 17:27:52 GMT</pubDate>
+      <category>boxeo</category>
+      <author>TV Azteca</author>
+    </item>
+    <item>
+      <title>Canelo Álvarez’s return to the ring in jeopardy after air raid alert in Saudi Arabia</title>
+      <link>https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWVU4SnZ1V2E2bGsyTEtla1lJNDBvMjRJczAtZ0hRZ2kzT21jVHJjX3FXYU91OXZYUHRRMm4xNmF5VS1RdU9fc0xEaWIzdmZLQ2Zsa2UzYjZhWEdPd3BSQkdicEpxS0cta0dRVHlXd3FXcWdISGNWdXZGN3IxcXZjTDRzMnFjemcxVTYtdWRYbUZiS1VCZjJQajhsZEhiSnhMYm9CNmcxa09NVWQ1ZERWMEQxVFE4YmNjQzV5ZWZGX0w2QTZ3bjJrcE4zVGh1bEdneWRnaDVRWdIB1wFBVV95cUxQWVU4SnZ1V2E2bGsyTEtla1lJNDBvMjRJczAtZ0hRZ2kzT21jVHJjX3FXYU91OXZYUHRRMm4xNmF5VS1RdU9fc0xEaWIzdmZLQ2Zsa2UzYjZhWEdPd3BSQkdicEpxS0cta0dRVHlXd3FXcWdISGNWdXZGN3IxcXZjTDRzMnFjemcxVTYtdWRYbUZiS1VCZjJQajhsZEhiSnhMYm9CNmcxa09NVWQ1ZERWMEQxVFE4YmNjQzV5ZWZGX0w2QTZ3bjJrcE4zVGh1bEdneWRnaDVRWQ?oc=5</link>
+      <guid isPermaLink="false">bc37d992d6352995cdd986da</guid>
+      <description>Canelo Álvarez’s return to the ring in jeopardy after air raid alert in Saudi Arabia Diario AS</description>
+      <pubDate>Fri, 30 Oct 2026 17:27:29 GMT</pubDate>
+      <category>boxeo</category>
+      <author>Diario AS</author>
+    </item>
+    <item>
+      <title>David Benavidez pronostica nocaut de Canelo Álvarez sobre Mbilli: “Es un gran boxeador, pero no está al nivel”</title>
+      <link>https://news.google.com/rss/articles/CBMi7wFBVV95cUxNd1JoVElhcnpyWWRSZGxZbzByZU9kMERpMUpuSDhpOFJtNnlZZmV6UEROQURZckN3R3FOR0lOdDllOEMyZzYyYlVMN19kMElqNEtyV3FCMmltUlJ4eEdDYi1wWEUyV0UwRHgxeXhyNlZJZnJtOUU1OFhyTUZmZHVDLVM0U3NGZDVIZF90dTNPUFctRlNDRkNtb194SmdPdF8zQU16UHo4cW8wUTl3OFAtdjREekd0XzJnR00xOUhPcnNycV8tNHg4X19jNlVaVTFjekl4cDc3LXZhQm5fTkU2YUFSRjdNMmhDemJGYm5ib9IBigJBVV95cUxOVV9QcEh0OWNTNlZvZTBDUHVQMXhYUHBnQmVnSmtSdTd5a2ZLdGJ1Y2FIV2NzbmtNdC1xNTRJTFdadUF1aFl6bm1vTmowSzlBbWdVMG5Kb0ZwSjljYVIzRGNPYnRTTV9GZUtnZ3hpVmNkaEdtYXNjNzhMakYtbW9OYjhmWGNrYVpkQ0xHVFQ3T0JLalFFNFZrcjl1blVPSm1xY0lqdFd5M09WbllNZGdWb3FwVWZVTUVxeTBhQ3JOcDBvdl9feUxXbExLS0JCZXUwNWp1WDJOcUxVZTY3dkViTm9pbFQ5cmtuYWFOelhFRnJmUVRDMVRMX2tuRlI2RFhaS2R3cWdHdFA4QQ?oc=5</link>
+      <guid isPermaLink="false">d836bd7060db3bc410073c91</guid>
+      <description>David Benavidez pronostica nocaut de Canelo Álvarez sobre Mbilli: “Es un gran boxeador, pero no está al nivel” Infobae</description>
+      <pubDate>Fri, 30 Oct 2026 16:59:41 GMT</pubDate>
+      <category>boxeo</category>
+      <author>Infobae</author>
+    </item>
+    <item>
+      <title>Canelo Álvarez sobre la derrota, “En la mentalidad de un ganador no debe existir esa palabra”</title>
+      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxPRDJERWxZVnBmTE8zazQ0SHpESXBSMHFEQlpHR0gzUWRVLTdSOEtXM0tpdDVqRmZFTlh6SU9uZ05PcFZlOWZaVG9KRmdJcl82SlROMjBHcEk2RTBQQWl2U2NFMm1rLTlRTGc2VTZoNWFCZ3BMbXNJQU5IM21MX0paVFJ0Y1M2NjFNQ3BadC1faWNDS3ZtRmpnZ0lvY0g3TVZZSHEtQlQ1WVhOTUcycFMzMkU1ZTl0QQ?oc=5</link>
+      <guid isPermaLink="false">9524c443efedd13dbbb1c321</guid>
+      <description>Canelo Álvarez sobre la derrota, “En la mentalidad de un ganador no debe existir esa palabra” Revista Merca2.0</description>
+      <pubDate>Fri, 30 Oct 2026 16:52:26 GMT</pubDate>
+      <category>boxeo</category>
+      <author>Revista Merca2.0</author>
+    </item>
+    <item>
+      <title>Cuánto mide realmente el Canelo Álvarez hoy y cuál es el peso con el que pelea</title>
+      <link>https://news.google.com/rss/articles/CBMikwFBVV95cUxObWxQbEVSdGtVUjV2NzRfRG13VTA4akJWdFRUUl85QnFSQ0FOTGkxQzFJRUl1cncyT1lpNmlCdUFLZmFSWEJNX0R6QXZ4NmZ0NlpMeV9jNzEtT3VucWVyMkJGRml5VGFxTFB4MDVNejRBaHR1bUhKXzVjN1Iybmd1UG1vUWFuQzNWamR2SGpPR2xLek3SAaABQVVfeXFMUHRMcHZZaF9tRHJQN2ZERzBrdEJLQWNkX1BrcTQ5QkF5YjZXSmNlRkhaNVRuRDREdnZxMUdlQ2dPQ09CSFpwT2RyRk9vZk1FQ2d0RDRGbFlxVV9IY3ZZUldlSHlMcFpFZ0JSUGZzb19xdXhCVVBVQWFfT25VaTdqSE01TmtQeGcwX29hb3d6Qkl3V0paR1lmT3N6M1ZCVzRaaQ?oc=5</link>
+      <guid isPermaLink="false">28e111a2e9da07595c052041</guid>
+      <description>Cuánto mide realmente el Canelo Álvarez hoy y cuál es el peso con el que pelea TV Azteca</description>
+      <pubDate>Fri, 30 Oct 2026 16:51:04 GMT</pubDate>
+      <category>boxeo</category>
+      <author>TV Azteca</author>
+    </item>
+    <item>
+      <title>¿Canelo Álvarez peleará por un título contra Christian Mbilli?</title>
+      <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxOazNMUHZrUWExN09RNk1oa2RRdkp5SUF2VXVlcUw3dmpfMmFvN2xCcTctYWtINmdLVFM3RmcwMjNxOEoyc3lXdFI1ZjlpTVBvNFM3ZFFtZEtJR042X2xMd2ZIaVhsTGpZbDJoRTlNc2o1am16ZHp0eGxZTm85VzNTWGQ1eXpzdkVmNjJSQzRJemtQVG9GaUVYa0pkaGs5MDk4SENZMDR4azN5V0Z40gHHAUFVX3lxTFBfb0ZFNndBcU5Kb0xrbDFYTzNjLXM5WGQ0VlZQaW0tZjVCblY4c3RCcFpNV19hcDhGTzhJYzlSQWI3Wjk2WkhrUjJLVU56NTlxckw1YjFSWmtaUGlrNGxLbUpuQ2NHZWZSN3cwblFLSkF5OVN4ZENuM08zYlR4M3FOd18xY3VmV1c1NVU4TU1ZU2hNdHVmalh4RDRIZ2JqaV9SdWRaMG54UUs1bDd0OVZZMjFvdG02ZFRhVXA3RGJNaWxNSnhadU0?oc=5</link>
+      <guid isPermaLink="false">9202efa99ca7f7a0af6c2e0a</guid>
+      <description>¿Canelo Álvarez peleará por un título contra Christian Mbilli? El Imparcial</description>
+      <pubDate>Fri, 30 Oct 2026 16:43:27 GMT</pubDate>
+      <category>boxeo</category>
+      <author>El Imparcial</author>
+    </item>
+    <item>
+      <title>Canelo Álvarez confirma dónde quiere retirarse del boxeo y no sería en el Estadio Azteca</title>
+      <link>https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTlB1clRUcEpIaDZTRnZ5WmxVMG1WYmV0RDNvcVc5Q0FQVFB3emY3bkxOUTNFWVhCQlhRSmhBeXI5dE9iMV9ERVM5LVJZS2E4anpRWGZFVmZNZUNoMHFCQWpKeE5aR1YwV3l0SUJfUEVxM09JTnJuSHJYUS1EM0FDRjR0aWxrVE56S2FRQWpiVHc0RjdiV1J6d0lnRFd3YldYN1I4VHVXWU1KZnlkc3lfSFlZSEdJaURHNExTMGs3VVlINHltQTd6Q2NuMEQ0aWc0QkhRdUJIcw?oc=5</link>
+      <guid isPermaLink="false">e6c90fe2a2eded26eb688329</guid>
+      <description>Canelo Álvarez confirma dónde quiere retirarse del boxeo y no sería en el Estadio Azteca Infobae</description>
+      <pubDate>Fri, 30 Oct 2026 16:43:26 GMT</pubDate>
+      <category>boxeo</category>
+      <author>Infobae</author>
+    </item>
+    <item>
+      <title>F1 México: Checo Pérez está enfermo: ¿correrá el GP de México 2026? Esto se sabe</title>
+      <link>https://news.google.com/rss/articles/CBMikwFBVV95cUxOTXhHSkgydkI1ZXRHS3VOamY5R1lESmNOY0FpTldYSXdYU0czSEJELU94TFMtNHBPRURQY3NuOW56YWk2TkVyQWdXT3lHaDlmQV93NEJEWC1GLUpsQkhRQ195ZzZNaUx4M3QxMmpCcUJjdV80alN4ckJCSElHWFJqNk5jNmZrU2haZFF4R05LQW14V0U?oc=5</link>
+      <guid isPermaLink="false">dce3d8ea130aaad5ef051017</guid>
+      <description>F1 México: Checo Pérez está enfermo: ¿correrá el GP de México 2026? Esto se sabe Grupo Animal</description>
+      <pubDate>Fri, 30 Oct 2026 16:42:52 GMT</pubDate>
+      <category>formula_1</category>
+      <author>Grupo Animal</author>
+    </item>
+    <item>
+      <title>¿Cuándo es Canelo vs M'Billi? Horarios de los grandes combates del fin de semana en DAZN</title>
+      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxNVElvai1meGttVThqM0FMcHBLbFVfekF2QjhrXzdMeHF5SlZ2c18xMnRpTk1FM1l1OExmaTBXWlc0aC1jaWJQa3JqVVBIZ0JoR1MtV1Y3UkZsWUFGWk45T0lrRjNrZEMzTzdOZzFiMVUwbk5oVjhqNGR3Z3BHdjBEOW9PSkl2eUo2UFF6SmpEN05mTGJnNGF0UlhzaFNSbkxRUnNzTEFBZXRGUUFiZ1F5XzNza3RpQQ?oc=5</link>
+      <guid isPermaLink="false">94b84155326d49045a616b19</guid>
+      <description>¿Cuándo es Canelo vs M'Billi? Horarios de los grandes combates del fin de semana en DAZN DAZN</description>
+      <pubDate>Fri, 30 Oct 2026 16:34:39 GMT</pubDate>
+      <category>boxeo</category>
+      <author>DAZN</author>
+    </item>
+    <item>
+      <title>Canelo Álvarez y Mbilli protagonizaron un tenso cara a cara antes de su pelea: qué se dijeron</title>
+      <link>https://news.google.com/rss/articles/CBMi0AFBVV95cUxQT0I4dmZkRWtrdjRKQXN6VlpjRUUzUG5RNExoNS1YMEJxMmdLRDVzdnNRaFpoNk9PNWFHVk9RVkZKNGxsU3Q0aGJCaXQ4QWhUTGt0bVZoNVpIZHFXVXBfdHlVOFZnY1hCZ1FkeVhoSzBWRVFOX3VUSGEyLTlnMmZub0o1cjhLcWRRLWJPLXhRVGxraGpld0M0LUFlZEJtWktBUzEtazg2NzZGelZ6RDJidkdxZ2xqQXdtSENLLXV0VFNLeVdJWDNWdEZXQUlBSEw40gHWAUFVX3lxTFA4dG05Z2VocmZjS2pQOE5EMWo4YjB5WWJMQ1ZOeVVRZFhXWVA4QXh6dW10TUcxNnZOdkRGNExlQzRwQ3A3bENyYk45bFA3eVFVR3Vid3BHdXpEdGRFT3FZWXpHSmVjVGlCcWxnaE0yU2d1N3J6VE01akZlcFBtRmVWSkJwTTFjQ2VCd2RhdXBJM1VqbXMzVl84Wk5vRS16SnFGbkRTZzlVSmVUNXp1R2R5QWloazNtWHI1VGFYcFJHaEhzbXAzVkxQSVd1RVh5bFBFTkdGdnc?oc=5</link>
+      <guid isPermaLink="false">e590ecaa17ac07e1a26ab0a7</guid>
+      <description>Canelo Álvarez y Mbilli protagonizaron un tenso cara a cara antes de su pelea: qué se dijeron Ambito</description>
+      <pubDate>Fri, 30 Oct 2026 16:22:00 GMT</pubDate>
+      <category>boxeo</category>
+      <author>Ambito</author>
+    </item>
+    <item>
+      <title>Canelo Álvarez elige al nuevo estadio del Atlas para retirarse; ¿cuándo sería la fecha?</title>
+      <link>https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRi1ueFNuZDNNeDRHbmtuekRfWEJ0d18zcE1WZE9Ib3ZFNVhWdFpLMS13ODZ5R0RPRndUaXBFNEZETldDMXBORGlzNVlIOEIwcU43WUYzblpwTlphN3FZcEVDTDd4QzRMM2s4QmlqUUZGVmJab29QTUQtQTFmMDRITy1FWGkxQTJzcTU0UEJSWmxQQkJkaU5NSUQ2ZzdVOGQ2a20yTkJjMTlGRDYtV2toY01yUXFoY1NBaS1CSlVjeElJTHllYk5WdXJaZkdLYklRbWMtaGJGbjVLXzZMV2lEcw?oc=5</link>
+      <guid isPermaLink="false">3e4f6ff9f363c394cf02d032</guid>
+      <description>Canelo Álvarez elige al nuevo estadio del Atlas para retirarse; ¿cuándo sería la fecha? El Heraldo de México</description>
+      <pubDate>Fri, 30 Oct 2026 16:18:00 GMT</pubDate>
+      <category>boxeo</category>
+      <author>El Heraldo de México</author>
+    </item>
+    <item>
+      <title>Checo Pérez se ausenta del Fan Forum de Cadillac en México al reportarse "indispuesto"</title>
+      <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxPSjFxSkQ2T0dBQjRLeEdQV2JESlVJd3hJZ1lDWk16NE9KYmxjdHYxUERyNGVDVkFyRzJLZ0NmUm95TkZVYVV5TmpaMFk5WXVrX2QtX29nYXk4SHptS2MtM3FXM1dzbUpubUZGZTRpSUpseGthTFgtQ2JBQUtvQk9pZWU5V0hYRnduMlh1TFdGSC1ZZ1E1a1F1UFd4ZmJTUWFkWWtPNg?oc=5</link>
+      <guid isPermaLink="false">a1cfa06fb6f24d7193ded6e2</guid>
+      <description>Checo Pérez se ausenta del Fan Forum de Cadillac en México al reportarse "indispuesto" Motorsport.com Latinoamérica | F1, MotoGP, Nascar, Rally</description>
+      <pubDate>Fri, 30 Oct 2026 16:17:28 GMT</pubDate>
+      <category>formula_1</category>
+      <author>Motorsport.com Latinoamérica | F1, MotoGP, Nascar, Rally</author>
+    </item>
+    <item>
+      <title>Mauricio Sulaimán garantiza la pelea Canelo Álvarez vs Mbille en Riad, solo con "pequeños cambios"</title>
+      <link>https://news.google.com/rss/articles/CBMixgFBVV95cUxPaHhIaHJCRkhOU244M2ZIa0NfS1djLWlWbUV6a2hxWUMtenhCRXlMUkZTZk04XzJEbktrY0cyUGxXZnI0cTlzc2M2N1MxWTVvdFpMUUlyQVZwTllMX20wOF9EbGNsbFU4cUdrN3NCaDRKSjVwR0l2bHhELTJsMlpYaVdOdDdsNVpscTRuU25pLWpJNC01dWRibnFvTmVzcjRON2FhOUU0eFU1UHQwNC01OVV0eHg0ZGtJaDF5WW9NdEsxNFhXWHfSAcYBQVVfeXFMTVNmdTY5UDA4cXd2SDROaHZlX05lMXdUQzRUM19zc0IwYWtlRjNPTWNLV2xrdEVwdjY5Q3BEQTRNWWRwSk5RWE9LdGxkTEhrSjJHOXhQN25fODVjN3U3ZTk5bjNFbFpzblJqQ0dGLWs5YVd2WjJseE4zQ2NRNjZaa1FfMkRVQ2ZaTExYbkU5aHJJLUZLcTJrWFpYbklxY0MyMldDeldRaGVlaUlvRmo1RWVTUDdwRDlNNWlKLUZyNEFYVW5INmlB?oc=5</link>
+      <guid isPermaLink="false">8e12432694ceddc880edb3ad</guid>
+      <description>Mauricio Sulaimán garantiza la pelea Canelo Álvarez vs Mbille en Riad, solo con "pequeños cambios" MARCA</description>
+      <pubDate>Fri, 30 Oct 2026 15:56:06 GMT</pubDate>
+      <category>boxeo</category>
+      <author>MARCA</author>
+    </item>
+    <item>
+      <title>De Muhammad Ali a Canelo Álvarez: Arabia Saudita como nuevo paraíso exótico del boxeo</title>
+      <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxNakdjZzNCSFRORjJRamFNRDk5UkJLVy1SWlhLZEJLaEI2S3M1U1JINXJ2SmhFZ09RekJHRTFNNkN2aTg2YkpKYlQ3TGVxMmhRdDAzNkVzTHhoaVpyUkJQTjFzeDdoZmRubHo0a2w2SW9WRFZTOURXMzlqeG9rQ212U3o3TG5OY29aX2FveUg0MnVyaW9tdTJHV2xqN0l0b3JrZW1XYlItTl9FdXF6d2lMRWhZMDNjUHhaWkxj?oc=5</link>
+      <guid isPermaLink="false">dead7a7d4e2c472ecefc27cf</guid>
+      <description>De Muhammad Ali a Canelo Álvarez: Arabia Saudita como nuevo paraíso exótico del boxeo Claro Sports</description>
+      <pubDate>Fri, 30 Oct 2026 15:14:48 GMT</pubDate>
+      <category>boxeo</category>
+      <author>Claro Sports</author>
+    </item>
+    <item>
+      <title>Checo Pérez anuncia sus últimos años en la F1</title>
+      <link>https://news.google.com/rss/articles/CBMieEFVX3lxTE9YNFJDbElNLU96TV82bWdiTGhaV2FFZjZBeHRlWGdTU2ViNFVDeW1CekVwNG5URnJwZU5UcEVDSVl2OVVQVDJDUEM1MXJrWHliQndValRyLUxHdUh4cHlmY2NXLU5zZkxtdmZ3VnBiVFdnUWlwZnJFTA?oc=5</link>
+      <guid isPermaLink="false">d0b23831e55d30a17426a306</guid>
+      <description>Checo Pérez anuncia sus últimos años en la F1 El Sur Acapulco suracapulco I Noticias Acapulco Guerrero</description>
+      <pubDate>Fri, 30 Oct 2026 15:14:00 GMT</pubDate>
+      <category>formula_1</category>
+      <author>El Sur Acapulco suracapulco I Noticias Acapulco Guerrero</author>
+    </item>
+    <item>
+      <title>¿Quién es el boxeador mexicano con más títulos en la historia? Los números de Julio César Chávez, Canelo Álvarez y los más ganadores</title>
+      <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxOYnY1LUNUQlhQMkw0ZU42VXBKdXpKSXBLWWl2bEo2OElaMkdhcjdOdkZYaE12OEpkTlpHQ213Yi1pUXZ1VG16RUlBcTd0SFZiWDU1c3o1NE5SQUdlTTNHXzNJRzRsNFVzUVQtOHhjbFgxSUIwLXB3aHFoakJ1ZjFDSnkwOTJ0QQ?oc=5</link>
+      <guid isPermaLink="false">7aa9002d62fa26fabc6fbc05</guid>
+      <description>¿Quién es el boxeador mexicano con más títulos en la historia? Los números de Julio César Chávez, Canelo Álvarez y los más ganadores Olympics</description>
+      <pubDate>Fri, 30 Oct 2026 15:00:00 GMT</pubDate>
+      <category>boxeo</category>
+      <author>Olympics</author>
+    </item>
+    <item>
+      <title>Canelo Álvarez: Hasta qué edad y cuándo quiere boxear, y qué ha dicho sobre su posible retiro</title>
+      <link>https://news.google.com/rss/articles/CBMic0FVX3lxTE9Ic1VWS3c0UnRTSWt5WXV3UmZEdnNpejZNRms2NHdVVS1JVXR4amtSSGxjVTNXbkhESU5oa0hFcnBKcWZQYS1hUnJoc0ZBbDVldFRCMkZVS3I3TWRHNzgyYmdXbHBKMVc0cUlVVEczRHppUkU?oc=5</link>
+      <guid isPermaLink="false">a2e40fab57b640afd36cd4cc</guid>
+      <description>Canelo Álvarez: Hasta qué edad y cuándo quiere boxear, y qué ha dicho sobre su posible retiro Olympics</description>
+      <pubDate>Fri, 30 Oct 2026 15:00:00 GMT</pubDate>
+      <category>boxeo</category>
+      <author>Olympics</author>
+    </item>
+    <item>
+      <title>Canelo Álvarez vs. Mibilli: ¿Quiénes pelean antes y a qué hora son las preliminares?</title>
+      <link>https://news.google.com/rss/articles/CBMigAFBVV95cUxPS3JwalBUVDlyZU92Vmt1WXRid1ozMWg2dUZtdU5qUW5pTER0NTQzel9scldGZVkxT3laUVJVVFNXelRiaG1IS0FTMTBITXkzaURTbmpvQXhOZFhZYkhETV9ZdGpxaG9WVkxjci15M25paVFkTllvekZmdkEwQy1oRg?oc=5</link>
+      <guid isPermaLink="false">1592c38356a2ef47209e0240</guid>
+      <description>Canelo Álvarez vs. Mibilli: ¿Quiénes pelean antes y a qué hora son las preliminares? Olympics</description>
+      <pubDate>Fri, 30 Oct 2026 15:00:00 GMT</pubDate>
+      <category>boxeo</category>
+      <author>Olympics</author>
+    </item>
+    <item>
+      <title>La cifra multimillonaria que recibirá Canelo Álvarez por pelear con Mbilli</title>
+      <link>https://news.google.com/rss/articles/CBMixwFBVV95cUxPQ0F1TkRSTTU2aTEwQkd3cThjUHVsQUlOSHZUNzdLSVhtTmdwN2tQUzRxMEdPb1AzR2VmZWgyMzQwQWRrNko5QWM4cWszY1lTenFBVkp3ZDhzNzd3LWJzZ2o5cVZqZGNsMzcwMHVXeXFpVERzNnk2dDc2R2gxMThMOE1hanI5S3FfMWp3UWlhYnlKYmdqUFJrOGZCWjc5azl1NE5pQ0lzOHl3Zzd1aGZOYjNGaUc2bFRrTUxNbTFGZ0ZkUjAwNVpj0gHMAUFVX3lxTE90N1A5OW9uNjluelRkcEVJVkk2RExhR3g0U3ZPTUY4aTZ1d2Rta1BBZ21tLUVYVmhLcVVISmlDV05UTndCbWxSSGZoa3FJWVpMaGstTlVTNW5iZjdZV1Y3d3lXQkJ3ekhHWXkzR3JtQzBmWXVreGhtOXY3T09ubjFvUi1rSHhpc3haZTFVendMeW9WN3AyU3NNelUwMUVCR3lmVUxWd2kyNUlQcmphS1JYbWRCUFo0MFJoTEdadkY0cllESVQ5UVZVVG1Rag?oc=5</link>
+      <guid isPermaLink="false">d25f074d4cff393956cb42f0</guid>
+      <description>La cifra multimillonaria que recibirá Canelo Álvarez por pelear con Mbilli El Informador</description>
+      <pubDate>Fri, 30 Oct 2026 14:52:54 GMT</pubDate>
+      <category>boxeo</category>
+      <author>El Informador</author>
+    </item>
+    <item>
+      <title>'Canelo' Álvarez manda mensaje claro: "Quiero volver a ser el campeón"</title>
+      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxOdTFNNzJibXg4cGlyTFVSZnZ3dTdqa3J1WjZGNjhTSF94NVJnX2FmMXFBUWRMY2s1MG9US3lPYUdzODF6TGt0SWh0Y0VqYjVId1hBVXRYOFhXejFLYWxPdnltTWNjTzAzSjNoRHNaQ0NmNGxpZE1ZSWRSb2w3cDh2TjNqb0lfTmN3TWpzNmpzUnZ6Z2hyeXpzOGwxaTE4RzhZSXpuUk1zYS03WDdnenc2ZGhPUHRsd9IBuwFBVV95cUxNWXNrLUVOWWNySUVyZWJhVWlhc1JBc3EtTUVsQmRqU3JHdGJYQjVmM0pURlpxM2Q3VkxpMEhuV0VFU0hNUXpfNXpKd2ZHeVgzN0xMS3h2aHh3Ukh5YzROd0NnN1NfSnJyRUdTbnJGNmNNVlU3YTJIOG1mTFBVOXhUV2RjczN4ZGprakdqR1Nad2RWbnRlLUJEbmFqT2FnSmZZRjRsNWJHMThVSXV2YUViNVhzMlpnbFg5b29v?oc=5</link>
+      <guid isPermaLink="false">c0021df4e5e254aa18ad4159</guid>
+      <description>'Canelo' Álvarez manda mensaje claro: "Quiero volver a ser el campeón" Diario Las Américas</description>
+      <pubDate>Fri, 30 Oct 2026 14:50:00 GMT</pubDate>
+      <category>boxeo</category>
+      <author>Diario Las Américas</author>
+    </item>
+    <item>
+      <title>EN VIVO: Pesaje de Canelo Álvarez vs. Christian Mbilli</title>
+      <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxQMTVCSjFOWUhXVUNfOU8zWWl1d1ZLOFIyekw5dDNMSTF3TjhvTnF5c1NNNmQ0aHVWZTBxMlQ1UE9qcHZtY2pGLUJqNTd4RGZUYWZWUHFVZ0FzZFRkRG5sazBER2FXREpob0ppOUc1X09OVVRyMk5yemE4d1VMdVlkLXkwSFlxZkxvS0Zua1RRQWlKaW9WTlc4RjRPRGg?oc=5</link>
+      <guid isPermaLink="false">eebdf796a7179be1d4cce7dd</guid>
+      <description>EN VIVO: Pesaje de Canelo Álvarez vs. Christian Mbilli UNANIMO Deportes</description>
+      <pubDate>Fri, 30 Oct 2026 14:48:41 GMT</pubDate>
+      <category>boxeo</category>
+      <author>UNANIMO Deportes</author>
+    </item>
+    <item>
+      <title>Pelea de Canelo Álvarez vs Mbilli tiene veredicto: “Será una masacre"</title>
+      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ3dYM0U1NEJGLWkwQUx2aG9hanNBZlNhWDNiYXF0MmFQNUhhRGRTTVVSaGp5RHVmWmtacWhmdldtWDBfcm5OTVB0MVlReVpkbnVYZGd5UVJIY21LeEVnWE9hS0pJTE96Tkd1bzhZT1F4MFlxUjhMS2dtVFhiSUU2cy1USTQyeWxTODFLa055ek1qMm5DZ0tNSUh1OGtaYmRNQmtwRXMxYWRaUQ?oc=5</link>
+      <guid isPermaLink="false">91eca83c0a32bfea0d12fc03</guid>
+      <description>Pelea de Canelo Álvarez vs Mbilli tiene veredicto: “Será una masacre" Tiempo La Noticia Digital</description>
+      <pubDate>Fri, 30 Oct 2026 13:32:00 GMT</pubDate>
+      <category>boxeo</category>
+      <author>Tiempo La Noticia Digital</author>
+    </item>
+    <item>
+      <title>"Canelo" quiere celebrar los 21 años con el cinturón</title>
+      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcGpsQWllVHdNdmFfMTNrVW9FRnRGanMtbXdTOHVkbVBvX3QwZjJuT3BraTNoWl8zUHctSjN2U1NOZHdrXy1tTWliZ0lyOVhOM1hoY1pyQWpGci1QN1NhNW9RZE02amdRTXRLbTctNnB0cjNyTWNFTHNDeFJJTjdwNDh2LWVfQ0ZNUFJV0gGQAUFVX3lxTE92WlByZGo2VDhseUpDMnZuVFBjTHljQUZ5ck9ha091UUl2d1dKQk5JVHZBTGZfNzR6UTN4VTgxNjhQTUpYbW5XS3VEX3pNd2pUMzVxU0VDVFA5VFFSVmhvT1k3UmdPMFFYX2h2dmhSMnFhY1JVSVRrWF9ncFJ1VE1rNDh4QVpwam54SFFhMkJxSQ?oc=5</link>
+      <guid isPermaLink="false">0ecc4a035beb58a27bc1217d</guid>
+      <description>"Canelo" quiere celebrar los 21 años con el cinturón Pulso Diario San Luis</description>
+      <pubDate>Fri, 30 Oct 2026 13:18:00 GMT</pubDate>
+      <category>boxeo</category>
+      <author>Pulso Diario San Luis</author>
+    </item>
+    <item>
+      <title>Precio PPV de Canelo Álvarez vs. Christian M'billi: ¿cuánto cuesta verlo en DAZN?</title>
+      <link>https://news.google.com/rss/articles/CBMixAFBVV95cUxQRmdVQ3dDLTlfbkxzRldkTW5jcFp5VVJCWk91U0c1ZmpuVUE3eTF0MThLdEFndmdZMk5LN2tSSzFYWGZ0Vnk0NTg2WGVtV1pYRGg5di1lYmpJaTNyeGo1bmN6Y3hJc0JEdGVFRjNQX1FqTU13bGRjOU02VmRjbzFONFVkSnktVFpxdGY5cjJkMnFwYVpiellJSTZZZWRKSXhFaHdUSVZPVHROOGEwLXU1TXRMWXRqQ1VOZzVTcVdaRmpicTV1?oc=5</link>
+      <guid isPermaLink="false">e1ac956ed5c4938b17ed20a7</guid>
+      <description>Precio PPV de Canelo Álvarez vs. Christian M'billi: ¿cuánto cuesta verlo en DAZN? DAZN</description>
+      <pubDate>Fri, 30 Oct 2026 12:00:00 GMT</pubDate>
+      <category>boxeo</category>
+      <author>DAZN</author>
+    </item>
+    <item>
+      <title>"Canelo" Álvarez persigue título entre alarmas en Arabia Saudita</title>
+      <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxNdFBlY2QzbHNSNThQRUlVVmNCbXQtVHN2MlJia2hBSjlfazEzZThnb3ZXMEZDNHRnSVR1Zl9zaU9JdWc2SzRrY0NMYXQtb2RNcTFESGl4eVQ3SjR6ZGw5WXRRUGYtakZvWkltSEcwU3NQWmc5eThBVDZRUGFYc1p2aTlJV2xObWZfSkpYNkU2SmFQb1JRWW1kbWVoSlo?oc=5</link>
+      <guid isPermaLink="false">eb2d333897d38da676b39ad7</guid>
+      <description>"Canelo" Álvarez persigue título entre alarmas en Arabia Saudita Yahoo</description>
+      <pubDate>Fri, 30 Oct 2026 11:59:45 GMT</pubDate>
+      <category>boxeo</category>
+      <author>Yahoo</author>
+    </item>
+    <item>
+      <title>Canelo Álvarez feels no pressure carrying Mexico into the ring every fight</title>
+      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ1RQOGI2U3RXZXl3U1B3LTVELUJmaGpvcWNXY2JWRlFKUWxhT3Q2TGNiVnNwOFZxTkw2MGdLcFVIZG9kRTJ3NkZiMEh1SXhLSG8tYzNKZmhQb1lxUVF3RDhZZEh0UDc5N0VXQnd5aUdVWVo3WHBidjhHQ2I5bUVJdzNCbGVkczh5b0ZEMWcwVHhqRUtrRWdiR3ljT0Nhdm10ekM4RmtrQkZlM3pDbVgwR2loSWtRUDA?oc=5</link>
+      <guid isPermaLink="false">a48e43c6523b95069780b65d</guid>
+      <description>Canelo Álvarez feels no pressure carrying Mexico into the ring every fight USA Today</description>
+      <pubDate>Fri, 30 Oct 2026 10:04:05 GMT</pubDate>
+      <category>boxeo</category>
+      <author>USA Today</author>
+    </item>
+    <item>
+      <title>Saúl ‘Canelo’ Álvarez Vs Christian Mbilli… ¡prueba de fuego!</title>
+      <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ0N6aTlLQlVkVXNYUGtUM3l0dzFuZnpwX0FRZklucEFsUV9BMEdmRXJCRWNnRzFnQWJYdGtvakt2NVNtcUc0NVNZbUs4QlFFMUxJSUdLY3ZwLTJFd2NhblI5WEoxVzRSRGFLUWxFWFYybktRb0RoSWV3eVU0UTM3TUdDQWZJNzN4dmlncTJReXJZRG8wMXh6TGJNVTR2eGRoTnMxMQ?oc=5</link>
+      <guid isPermaLink="false">a18f9a8c8b1808ba68dc05be</guid>
+      <description>Saúl ‘Canelo’ Álvarez Vs Christian Mbilli… ¡prueba de fuego! El Horizonte</description>
+      <pubDate>Fri, 30 Oct 2026 08:02:16 GMT</pubDate>
+      <category>boxeo</category>
+      <author>El Horizonte</author>
+    </item>
+    <item>
+      <title>532 asaltos y ni una sola caída: la increíble resistencia de Canelo Álvarez que Christian Mbilli quiere poner a prueba</title>
+      <link>https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM2R5S2tQX0RWUmJ3LXBnTFNGWTZqQnZZU1dtdlB1VlBHRFVGc1V4TXJJM0Z4ZVhIWWFEYkk1Qkh2T0U1bFo5ajVuSm9vNGVXZ3VIWVp2RW56a0d6a2E1WXFSOGJybGVENHVQMkNVZFRUV0ZaMDlWUENITms4bC1SZzN5YUpNWUhBdmZTd3Y0QnBiZEQ0eG9TbndRRUI1Y3F1X1Bid0NSTy0xRXNLVFdJTFBxa3ZERTdTRF9KSU5lNC0zLVprZzIxMlNhRFpEOExfYS1MZzJ4TjhidTRGNEVhag?oc=5</link>
+      <guid isPermaLink="false">14e38d2ff179f6844a214b5b</guid>
+      <description>532 asaltos y ni una sola caída: la increíble resistencia de Canelo Álvarez que Christian Mbilli quiere poner a prueba DAZN</description>
+      <pubDate>Fri, 30 Oct 2026 07:25:22 GMT</pubDate>
+      <category>boxeo</category>
+      <author>DAZN</author>
+    </item>
+    <item>
+      <title>Boxing: Canelo Álvarez Fires Back at Doubters Ahead of His Explosive Comeback</title>
+      <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT2tKUUZ3VlJ2eFBhSU9nbTVTZ0VNUllkd2JtZ2I5Uy1EbDZ5SXBMUGxhOFB0eVBaUzZnVTdnV0s4Rnp3LXlma3pjMWlQNzRLSGNpV3U0NjhlX3ctVHNUbDVWanlqeWNWMHRULUtrRDJTNnRwdjMzdVFFTTZrVHRkand4ZERQWkd6bGdULVhQUW1JazNqSF9KdXVRUXhkQ05uMm9kOVp1cWIzMEJxNmNQdXNZR1VBVGVQS0w1QzBaMlpEQ0XSAcgBQVVfeXFMT3hoRVp1VGlHUjlBOUxkLVozbDkzQUVMa082empicE1Nd29BMlpvc0pDU3Y0RXZzUFVCNUxHamZld0pJUXVobXA4ejd1dXJiTDM2UGhkcExHTGhmSGs5bGxoMzI5SEtBaFh2XzZiTTJqMkNxQzlUbjUtWGpLVkREWmtJNnQtbFplY0FETzFuZkVBMjdKMExKWWVoRDJzVHNmVDF3bXdZd2FTVVdKVE10Y1QzYVphV0JuMlRzcWFSZ2J5S2JxVHpNa3g?oc=5</link>
+      <guid isPermaLink="false">92e282901185791439f37bc6</guid>
+      <description>Boxing: Canelo Álvarez Fires Back at Doubters Ahead of His Explosive Comeback Al Bat</description>
+      <pubDate>Fri, 30 Oct 2026 06:21:34 GMT</pubDate>
+      <category>boxeo</category>
+      <author>Al Bat</author>
+    </item>
+    <item>
+      <title>De vender helados en autobuses a comprar la empresa: la increíble historia de Canelo Álvarez que pocos conocen</title>
+      <link>https://news.google.com/rss/articles/CBMingFBVV95cUxNLUN3NVpJaGE5UVBiZW5kaGRsdFJTaWhFQjZONWpFZ1UzQVVTWXpRU09naUV2ZjZ5Qi1hdjE3WXFpN2F3VDZHVVgybjFwQ205eUNvZGpiSU5jVUJHc21LZGFya3hWcmY3cEM3ZGNOLUZxdHZUY1U5Zm15TDYzaVBWM2pnTWdZRGhJTm15dzY0eUhBN0E1bG5UMlJ4UUJnZw?oc=5</link>
+      <guid isPermaLink="false">4ba981c0e0f90b4d1bcd3c93</guid>
+      <description>De vender helados en autobuses a comprar la empresa: la increíble historia de Canelo Álvarez que pocos conocen DAZN</description>
+      <pubDate>Fri, 30 Oct 2026 06:05:26 GMT</pubDate>
+      <category>boxeo</category>
+      <author>DAZN</author>
+    </item>
+    <item>
+      <title>Canelo Álvarez retrasa su retiro del boxeo y revela momento clave para decir adiós</title>
+      <link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQ2RBLUtPY01BRHJieHdEd1VkWU1MVGFhVl81elBCUHhTN0FsXzEzSTRzOE9vSG1kMUVqVU9Vb0R0dFByZUhwWktUZ3RTQWFKTnh3am8ybk9YQzVaUGFDNFZSYWxtS0lZRndLcjBzS3NrZlhtWWhhR2J3aDhITnItWTliYWhXUXN6Y1VlV2lMbkNka2ZISFo3Y0xYTjhvN0dCYkRHbTltWVZ6Y0ROeW12clZlUWJINkx1SFV0NUF4d3FscW9fU0FDSG1Ka29yZ1hSX09B?oc=5</link>
+      <guid isPermaLink="false">c3558a980062f4280783bf3d</guid>
+      <description>Canelo Álvarez retrasa su retiro del boxeo y revela momento clave para decir adiós Récord</description>
+      <pubDate>Fri, 30 Oct 2026 06:02:00 GMT</pubDate>
+      <category>boxeo</category>
+      <author>Récord</author>
+    </item>
+    <item>
+      <title>Saudi Arabia is under attack. And yet Canelo Álvarez vs Christian M’Billi goes on</title>
+      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxNWGlZajBoZndIWGZoWmlJS2xIcmMwdmFVVW5QZmM4VVF5VmN1QjcwbGo4bmh0VWstTTVMQnVZUnp1Rm1XV0RWaDNaSHNEeTM4XzV1MFFUZXJHdExIMWV4NVdCa21DdEhhVmRlQXFxRnNJUkp0TUtjWTVUUUIwVzJ6THFDazNxYndYXzJySi1UdklhWFNaNkVBSnNtRHFtaHlNZjlrVVJB?oc=5</link>
+      <guid isPermaLink="false">e956ba42bacc69e841d06d74</guid>
+      <description>Saudi Arabia is under attack. And yet Canelo Álvarez vs Christian M’Billi goes on The New York Times</description>
+      <pubDate>Fri, 30 Oct 2026 05:20:59 GMT</pubDate>
+      <category>boxeo</category>
+      <author>The New York Times</author>
+    </item>
+    <item>
+      <title>Canelo Álvarez alista homenaje a su padre previo a la pelea contra Christian Mbilli</title>
+      <link>https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUlVKMkxHX2pTSFhaQ3hYU0ZiNnpEaWx4TkVOcEZZazdfdGhWc2tjVERZLTJVTXhzRkFvbUI0RHVrNllBTTVUNkRGLVFLSlJpdU03emNpenBZOVZPRFd2S1VNU3o4b0tFOW5ZZkJ5TXJWME9HV1J5R25jR3Q0Sndxcy1EaU9TTDVQYmpMczVjeEdYZWxxbUZmWk91aXNwNlNaalF1aWdKNVdaMHRDcl9qWDZKS19aUEYyQXZMeTM5eHFUcmFoNklqQXNzSzlOc0lf0gHrAUFVX3lxTFBNMGtOa1hHNW1pLUJVYTlvY2pCY0owXzU3TWM4czF4eXdCTG90YzM5VnE3X0tqQTg5S3dKSHcxOUZwd2UyYW9scXZIU2hoM09hSm8wQV9NNzh0V3ppSlEtdUVVRjhGYU82SXIzdi1SLWtZMmY3U3pYUUhnZ2dJQU5IeGtUNEg2NGZWcTA2UG81SkQ2ekE3TTRORHhjdlhpMWZUWFhXOXpFVXJZWEdjQmVYd0M5WDZ4alNsZnFBdUNQQ0lpNThtZGt3V2ZkeGtWLXFJN2tBRHVqLXRRNmN5SWJnMXgyeFJOMjdtQzA?oc=5</link>
+      <guid isPermaLink="false">49b415cccc3fb2caaea33952</guid>
+      <description>Canelo Álvarez alista homenaje a su padre previo a la pelea contra Christian Mbilli Infobae</description>
+      <pubDate>Fri, 30 Oct 2026 05:08:00 GMT</pubDate>
+      <category>boxeo</category>
+      <author>Infobae</author>
+    </item>
+    <item>
+      <title>Cuándo vuelve a pelear Canelo Álvarez: Fecha y próximo rival del mexicano</title>
+      <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxOZUx1UG5qNmFPX29ob3Y1VzdNRHhnck4tYzVDbzRqXzNYMDBGM05iSEJoU3FCLTBHV3JaZ2tIcXdKeTVpcXNxNkNISjJiTTlQZlVndGczNE9RTzJXbnBucGp0aFRLdUNiZkNGczhXYTBIQWZpb19PTGVtX2lHYXlPSjN6eW5rNEFoM0RPOE12OWZRb2FQOVNqdTN3aVo2ZUYxcXZ0dA?oc=5</link>
+      <guid isPermaLink="false">f39dcc1d6c948a054b1f3e11</guid>
+      <description>Cuándo vuelve a pelear Canelo Álvarez: Fecha y próximo rival del mexicano Yahoo</description>
+      <pubDate>Fri, 30 Oct 2026 04:50:00 GMT</pubDate>
+      <category>boxeo</category>
+      <author>Yahoo</author>
+    </item>
+    <item>
+      <title>Happy Halloween: Canelo Álvarez Moves Fight Time Due to Holiday</title>
+      <link>https://news.google.com/rss/articles/CBMilgFBVV95cUxOS0FYR3lUVTl5TVdoamMxdFhxaEFad29JSlZjMU5hTWZEb3NEMnI5bEZCakVCa3BuUFdJRWVWVGJydDZkREhQSHdCV0M3dll4VXQtMVhVWEpKWUhIT2VUaW5hak1hcDBmNXRtYjM1bUZDVnViV2VpRFdJWlhteENKTjFYZ1pzSEw5d1ZrUjVpeXdGS20zOHc?oc=5</link>
+      <guid isPermaLink="false">ad5544616e8a4c53fbef7994</guid>
+      <description>Happy Halloween: Canelo Álvarez Moves Fight Time Due to Holiday NY Fights</description>
+      <pubDate>Fri, 30 Oct 2026 00:50:43 GMT</pubDate>
+      <category>boxeo</category>
+      <author>NY Fights</author>
+    </item>
+    <item>
+      <title>Canelo Álvarez Reveals Why He Agreed to Fight Christian Mbilli in Saudi Arabia</title>
+      <link>https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRTJxVTgxallQRjB6bWdMR1QxTEpqd3hiM2U1SlJfb3ByeTdyaWtoMlgzdDdmY0QxNk5NeGgwN0x3emFRNk9ZcHUwYXN0Y0lNLVZJUzkzM3RpOEduSFVIZUtfQUFmQURaMThkcWpKTG10SWMwRTNEWV9nTXl4UVhaeUtrV2w3a0Nyb2dRS1NNdC1Bd1NGOTNzMVZMVW5aSWpucUE1RXg5TlhkM0RhWmN3Vm9WN0xHazY0U1ZmcWM0YWVUV09uZE1kckR2cWptUnJzcUF1TVMtWVlHTVU?oc=5</link>
+      <guid isPermaLink="false">167f08597bb729c485d18517</guid>
+      <description>Canelo Álvarez Reveals Why He Agreed to Fight Christian Mbilli in Saudi Arabia beIN SPORTS</description>
+      <pubDate>Thu, 29 Oct 2026 18:04:27 GMT</pubDate>
+      <category>boxeo</category>
+      <author>beIN SPORTS</author>
+    </item>
+    <item>
+      <title>Canelo Alvarez vs Christian Mbilli Card: Order and complete list of fights for this Sunday's fight</title>
+      <link>https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSDlrTm1maEhTRG9XbEJRRENpVGt0OVZKa1BPSmNoUU5SUks3VjZCZlJtanR0Nl9JbHpGTUFCd2UxNHRzem9tUEFaNXh2RmNXblM4d3A1akVSQUhGNmloZWdqQUlsSk45NXdHMTNJUUxDR2FMMmI0cXlUZ0VlOUxOMUM5cENCN2w1bURDTEc1Tjk2QnB2TEozOG9ZWllBX0dmNTFDc1dxd0dld3BHZmp1N1pHd0lzZDBGREdGSVB1dzV6czJPWXRQZjlNVWt1ODMxSm0xZW5pcTZoUmFLWnfSAd4BQVVfeXFMUEg5a05tZmhIU0RvV2xCUURDaVRrdDlWSmtQT0pjaFFOUlJLN1Y2QmZSbWp0dDZfSWx6Rk1BQndlMTR0c3pvbVBBWjV4dkZjV25TOHdwNWpFUkFIRjZpaGVnakFJbEpOOTV3RzEzSVFMQ0dhTDJiNHF5VGdFZTlMTjFDOXBDQjdsNW1EQ0xHNU45NkJwdkxKMzhvWVpZQV9HZjUxQ3NXcXdHZXdwR2ZqdTdaR3dJc2QwRkRHRklQdXc1enMyT1l0UGY5TVVrdTgzMUptMWVuaXE2aFJhS1p3?oc=5</link>
+      <guid isPermaLink="false">5eedb84114f6767a754b0a15</guid>
+      <description>Canelo Alvarez vs Christian Mbilli Card: Order and complete list of fights for this Sunday's fight MARCA</description>
+      <pubDate>Thu, 29 Oct 2026 17:41:28 GMT</pubDate>
+      <category>boxeo</category>
+      <author>MARCA</author>
+    </item>
+    <item>
+      <title>Canelo Álvarez’s weight limit revealed ahead of Christian Mbilli showdown for WBC Super Middleweight title</title>
+      <link>https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRUZVYU84YTJvbHAwRGdUaTZqaUpkQnBjSzJPVGlpNjZ3V0VYZHM0YWtwTHAyR3pHeEVodTN6cmVPOEdibi12bTVhMG8wOFhscEdLN2YwM3JhRDZ3UXd4NmNZY3F2SFQ2c2hfVjdlZTFxSDh3R21FODlxazFPN2VkM05fenJ4NE5FbHlYMFprQmtmbEc4STY1SFZaZEg5aGFqX0Jyd1czS0lJRldOSHh2NEd3cHdoTjJ3SkF3ZklFMVNPQ241d2pkejFLQlFqRXJiTmVRc0taa1A3a0dzN3ktbdIB9AFBVV95cUxQbnNCc2kzeUZDZjZ3bExwZU9Vb01GV2JQVHVHRjZRQ1A2Rm5zeTZZckd1NlZGZ1NwbG9xUWowTngxM040Rkp5YnFxNkNoc3VXT3FIU0tGQm02YkJPb1lwVmZ0N2ZDclF5azF4MGpjT1hVdXc5MlRzNElrNEhCMXgtMkFhUThoTERJYkkyZmIxOE1kelJGTkJLd2sxbmtOYXFyTkJpUV9DZWxXaDdEajNncU9fYlVNdlIyR2M5THZnbk9ua1ZCejRNQllwdTJiM19VTlhqLWlhNVNLV3czOUhBeGxDZm4tZ2RxRVduN0lkOEI1M284?oc=5</link>
+      <guid isPermaLink="false">a2162cbaf11e46718d71f33e</guid>
+      <description>Canelo Álvarez’s weight limit revealed ahead of Christian Mbilli showdown for WBC Super Middleweight title Diario AS</description>
+      <pubDate>Thu, 29 Oct 2026 12:44:07 GMT</pubDate>
+      <category>boxeo</category>
+      <author>Diario AS</author>
+    </item>
+    <item>
+      <title>FORECAST | Surge Of Storms Starts Tomorrow Canelo álvarez (OeoVwmrjfQ)</title>
+      <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxQT0VmV3N2aTdhNTBhNV9nWWw4UjR5TEpWaGZIV0VxSGFjYmFZckQ3dHlNR21FTmxqTkxJWFBpaVk1dGlWTHM0bWhMUVNsU2FsOS00UW5NZ0JpQm1Oa3VTYm90d09HLTdQSEpZUzdBTWRMVVBUTmwyZkdRNzFKNmtvbWRn?oc=5</link>
+      <guid isPermaLink="false">db729e1b5ebde7c03ba78d6d</guid>
+      <description>FORECAST | Surge Of Storms Starts Tomorrow Canelo álvarez (OeoVwmrjfQ) Unisba Media</description>
+      <pubDate>Thu, 29 Oct 2026 03:46:54 GMT</pubDate>
+      <category>boxeo</category>
+      <author>Unisba Media</author>
+    </item>
+    <item>
+      <title>Canelo vs Mbilli Purse: How much will both fighters earn for this championship fight?</title>
+      <link>https://news.google.com/rss/articles/CBMiywFBVV95cUxNenNzT2lBTGRZTTI3RjRCNVNQaFh0R0JvWmNyMm9UQ21IVnpJV21mRnZ4TjhLLUd3SEFYeC1QcWpELTRGbEN2Vzc5cTRnSFVqazA1eXBqR2gxUmNkSVZoMGlFdGFkNlg3R3lhM09Md1BTMHZYY3ZQelVRc0ZNVHQ5WVNBaFVMNnBLckxBemFseHYxbGE1RjNocGlTN3RHSHJ1RDhaZFZfblJwWV9mbWNvV1lWbVBEckdLQkJLbTE3eGJoWG5qRFl0TUc3Y9IBywFBVV95cUxNenNzT2lBTGRZTTI3RjRCNVNQaFh0R0JvWmNyMm9UQ21IVnpJV21mRnZ4TjhLLUd3SEFYeC1QcWpELTRGbEN2Vzc5cTRnSFVqazA1eXBqR2gxUmNkSVZoMGlFdGFkNlg3R3lhM09Md1BTMHZYY3ZQelVRc0ZNVHQ5WVNBaFVMNnBLckxBemFseHYxbGE1RjNocGlTN3RHSHJ1RDhaZFZfblJwWV9mbWNvV1lWbVBEckdLQkJLbTE3eGJoWG5qRFl0TUc3Yw?oc=5</link>
+      <guid isPermaLink="false">986a4c20bc1df0c829c1608b</guid>
+      <description>Canelo vs Mbilli Purse: How much will both fighters earn for this championship fight? MARCA</description>
+      <pubDate>Wed, 28 Oct 2026 23:19:30 GMT</pubDate>
+      <category>boxeo</category>
+      <author>MARCA</author>
+    </item>
+    <item>
+      <title>Christian Mbilli vows to beat Canelo Álvarez in honor of his late mother</title>
+      <link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVnRHUHZReTQ2T3ZBSXNIU3NMS0ZIVURQcVNqQnFEM2hfdnBpbGdna1RENHRvWTlxT3RwOXprZkYxSUxmeXpEdm1uUVI1WVJnR3lUSF9XVEJLWHpicmlRdnVsNVV5dFV1OThsQTd6VzEtWXhFWXp5YzhSR2p1dGIwYjVzZzZJcU13YW43cmEya0dtOW5HdHBROHFjaGFrY2trT2xXTnY0bzRvUWpUWEdNS1NiekFQU0xJUlFqMUREcjdzckprTEViUNIByAFBVV95cUxNVnRHUHZReTQ2T3ZBSXNIU3NMS0ZIVURQcVNqQnFEM2hfdnBpbGdna1RENHRvWTlxT3RwOXprZkYxSUxmeXpEdm1uUVI1WVJnR3lUSF9XVEJLWHpicmlRdnVsNVV5dFV1OThsQTd6VzEtWXhFWXp5YzhSR2p1dGIwYjVzZzZJcU13YW43cmEya0dtOW5HdHBROHFjaGFrY2trT2xXTnY0bzRvUWpUWEdNS1NiekFQU0xJUlFqMUREcjdzckprTEViUA?oc=5</link>
+      <guid isPermaLink="false">9f49d3672201f1501d04144c</guid>
+      <description>Christian Mbilli vows to beat Canelo Álvarez in honor of his late mother Diario AS</description>
+      <pubDate>Wed, 28 Oct 2026 21:52:12 GMT</pubDate>
+      <category>boxeo</category>
+      <author>Diario AS</author>
+    </item>
+  </channel>
+</rss>
