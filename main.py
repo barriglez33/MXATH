@@ -1,221 +1,197 @@
-"""World Series 2026 editorial RSS collector. Public Google News RSS, no API key."""
+"""MXATH: news discovery and editorial RSS, Python 3.12."""
 from __future__ import annotations
-import argparse
+import calendar
+from collections import Counter
+from datetime import datetime, timedelta, timezone
+from email.utils import parsedate_to_datetime
 import hashlib
 import html
 import json
 import logging
-import os
-import re
-import time
-from collections import Counter
-from datetime import datetime, timedelta, timezone
-from email.utils import format_datetime, parsedate_to_datetime
 from pathlib import Path
-from urllib.parse import quote, urlparse
+import re
+import sys
+import time
+from urllib.parse import urlencode, urlparse
+import xml.etree.ElementTree as ET
 
 import feedparser
 import requests
 from bs4 import BeautifulSoup
-from dateutil.parser import parse as parse_date
+from dateutil import parser as date_parser
 
 ROOT = Path(__file__).resolve().parent
-CONFIG = ROOT / 'config.json'
-DATA = ROOT / 'data' / 'articles.json'
-STATE = ROOT / 'data' / 'state.json'
-FEED = ROOT / 'docs' / 'feed.xml'
-HEADERS = {'User-Agent': 'WorldSeriesEditorialRSS/1.0 (+https://github.com; news aggregation)'}
-EDITORIAL = re.compile(r'\b(interview|reaction|reacts?|reveal(?:s|ed)?|explain(?:s|ed)?|decision|controvers(?:y|ial)|critic(?:ize|ism|s)|injur(?:y|ies|ed)|clubhouse|family|journey|record|historic|contract|free agen(?:t|cy)|rumo[u]?r|strateg(?:y|ic)|adjust(?:ment|s)|bullpen|velocity|bat speed|future|behind.the.scenes|analysis|says?|statement|comments?|struggle|comeback|emotion|argument|dispute|investigation|suspension|entrevista|declaraci[oó]n|reacci[oó]n|revela|explica|decisi[oó]n|pol[eé]mica|cr[ií]tica|lesi[oó]n|vestidor|historia|familia|r[eé]cord|contrato|agencia libre|rumor|estrategia|ajuste|velocidad|futuro|an[aá]lisis)\b', re.I)
-TEAM = re.compile(r'\b(rays|brewers|tampa bay|milwaukee|cerveceros|serie mundial|world series|fall classic)\b', re.I)
-
+LOG = logging.getLogger('mxath')
+logging.basicConfig(level=logging.INFO, format='%(asctime)s %(levelname)s %(message)s', stream=sys.stdout)
+MARKETS = [('es-MX','MX','MX:es-419'), ('en-US','US','US:en')]
+# Editorial keywords affect ranking, NOT whether an athlete's article is discoverable.
+POSITIVE = {'interview':3,'entrevista':3,'reveals':3,'revela':3,'confirms':2,'confirma':2,'injury':3,'lesión':3,'lesion':3,'recovery':2,'recuperación':2,'contract':3,'contrato':3,'trade':3,'traspaso':3,'transfer':3,'fichaje':3,'controversy':3,'polémica':3,'controversia':3,'explains':2,'explica':2,'future':2,'futuro':2,'reaction':2,'reacción':2,'decision':2,'decisión':2,'statement':2,'declaraciones':2,'suspension':3,'suspensión':3,'coach':2,'entrenador':2,'training':1,'entrenamiento':1,'family':2,'familia':2,'story':2,'historia':2,'record':2,'récord':2,'extension':2,'renovación':2,'rumor':2,'rumores':2,'breaks silence':3,'rompe el silencio':3,'free agent':2,'agente libre':2}
+RESULT_ONLY = ('final score','box score','live score','live updates','play by play','minute by minute','minuto a minuto','resultado en vivo','marcador final','dónde ver','donde ver','how to watch','odds','apuestas','betting odds','pronóstico','pronostico','horario y canal','schedule and results')
+HEADERS={'User-Agent':'Mozilla/5.0 (compatible; MXATH-Editorial-RSS/1.0; +https://github.com/barriglez33/MXATH)','Accept':'application/rss+xml,application/xml;q=0.9,*/*;q=0.8'}
 
 def load_json(path, default):
-    try:
-        return json.loads(path.read_text(encoding='utf-8'))
-    except (FileNotFoundError, json.JSONDecodeError):
-        return default
+    try: return json.loads(path.read_text(encoding='utf-8'))
+    except (FileNotFoundError, ValueError): return default
 
+def save_json(path, obj):
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(json.dumps(obj, ensure_ascii=False, indent=2)+'\n',encoding='utf-8')
 
-def normalized(s):
+def normalize(value):
     import unicodedata
-    s = ''.join(ch for ch in unicodedata.normalize('NFKD', s) if not unicodedata.combining(ch))
-    return re.sub(r'[^a-z0-9]+', ' ', s.casefold()).strip()
+    value=unicodedata.normalize('NFKD',value or '')
+    value=''.join(c for c in value if not unicodedata.combining(c))
+    return re.sub(r'\s+',' ',re.sub('[^a-z0-9]+',' ',value.lower())).strip()
 
-
-def queries(config, run_number):
-    # Cycle through every player across three runs, while scanning multiple editorial angles.
-    all_players = [(team, person) for team, players in config['teams'].items() for person in players]
-    rotation = run_number % 3
-    player_queries = []
-    for idx, (team, person) in enumerate(all_players):
-        if idx % 3 == rotation:
-            short_team = 'Rays' if 'Rays' in team else 'Brewers'
-            player_queries.append(f'"{person}" "{short_team}"')
-    extras = config['extra_queries']
-    # Rotate context queries. Always include several broad series-specific searches.
-    selected_extras = [extras[(run_number * 4 + i) % len(extras)] for i in range(6)]
-    # Always check broad catch-all searches; rotating player queries supplement them.
-    broad = [extras[i] for i in [-5, -4, -3, -2, -1]]
-    other = [q for q in selected_extras if q not in broad]
-    return (broad + other + player_queries)[:config['queries_per_run']]
-
-
-def google_news_url(q, edition):
-    if edition == 'es-419':
-        return f'https://news.google.com/rss/search?q={quote(q)}&hl=es-419&gl=MX&ceid=MX:es-419'
-    return f'https://news.google.com/rss/search?q={quote(q)}&hl=en-US&gl=US&ceid=US:en'
-
-
-def article_date(entry):
-    try:
-        if entry.get('published_parsed'):
-            return datetime(*entry.published_parsed[:6], tzinfo=timezone.utc)
-        return parsedate_to_datetime(entry.get('published', '')).astimezone(timezone.utc)
-    except (ValueError, TypeError, OverflowError):
-        return None
-
-
-def editorial_score(title, description, config):
-    title = BeautifulSoup(title or '', 'html.parser').get_text(' ', strip=True)
-    description = BeautifulSoup(description or '', 'html.parser').get_text(' ', strip=True)
-    joined = f'{title} {description}'
-    title_context = len(EDITORIAL.findall(title))
-    full_context = len(EDITORIAL.findall(joined))
-    teams = bool(TEAM.search(joined))
-    negative = sum(p.casefold() in title.casefold() for p in config['negative_phrases'])
-    # Result-only headlines normally get zero editorial points.
-    score = 3 * min(title_context, 2) + min(max(full_context - title_context, 0), 2) + int(teams) - 5 * negative
-    if re.search(r'\b(?:beat|defeat|win|lose|top|edge|blow out|derrot[aó]|vence|gan[oó])\b', title, re.I) and title_context == 0:
-        score -= 4
-    if teams and not negative and title_context == 0:
-        # Discovery fallback: potentially valuable team-specific stories without
-        # an editorial buzzword. Pure result headlines stay negative-scored.
-        if not re.search(r'\b(?:beat|defeat|wins?|loses?|top|edge|blow out|derrot[aó]|vence|gan[oó])\b', title, re.I):
-            score = max(score, 2)
+def editorial_score(title, summary):
+    text=normalize((title or '')+' '+(summary or ''))
+    score=sum(points for word,points in POSITIVE.items() if normalize(word) in text)
+    if any(normalize(word) in normalize(title) for word in RESULT_ONLY): score-=8
+    if re.search(r'\b\d{1,3}\s*[-–]\s*\d{1,3}\b', title or '') and not any(normalize(w) in text for w in POSITIVE): score-=4
     return score
 
+def make_queries(athletes, cursor, budget):
+    # Always cover the high-volume names; rotate through everyone else over successive runs.
+    priority=['Canelo Álvarez','Sergio Pérez','Javier Hernández','Hirving Lozano','Karim López','Isaac del Toro']
+    by_name={a['name']:a for a in athletes}
+    def phrase(a):
+        primary='"'+a['name']+'"'
+        if a['aliases']:
+            alias='"'+a['aliases'][0]+'"'
+            if normalize(a['name']) != normalize(a['aliases'][0]):
+                return '('+primary+' OR '+alias+')'
+        return primary
+    fixed=[]
+    for name in priority:
+        a=by_name.get(name)
+        if a: fixed.append((a,phrase(a)))
+    roster=[a for a in athletes if a['name'] not in priority]
+    slots=max(1,budget-len(fixed))
+    rotate=[roster[(cursor+i)%len(roster)] for i in range(min(slots,len(roster)))] if roster else []
+    rotating=[(a,phrase(a)) for a in rotate]
+    next_cursor=(cursor+len(rotate)) % len(roster) if roster else 0
+    # Two locales per name; capped by budget of *people* not total network requests.
+    return fixed+rotating,next_cursor
 
-def canonical_key(title, link):
-    # Google News links can differ between searches; fall back to headline deduplication.
-    clean_title = re.sub(r'\s+[-|]\s+[^-|]{2,70}$', '', title).strip()
-    return hashlib.sha256(normalized(clean_title).encode()).hexdigest()[:22]
+def query_url(query, market, lookback):
+    hl,gl,ceid=market
+    search=query+' when:'+str(max(1,(int(lookback)+23)//24))+'d'
+    return 'https://news.google.com/rss/search?'+urlencode({'q':search,'hl':hl,'gl':gl,'ceid':ceid})
 
+def parse_time(entry):
+    for key in ('published_parsed','updated_parsed'):
+        if entry.get(key):
+            try:return datetime.fromtimestamp(calendar.timegm(entry[key]),timezone.utc)
+            except (TypeError, ValueError, OverflowError):pass
+    for key in ('published','updated'):
+        if entry.get(key):
+            try:return date_parser.parse(entry[key]).astimezone(timezone.utc)
+            except (ValueError,TypeError,OverflowError):pass
+    return None
 
-def source_name(entry):
-    src = entry.get('source') or {}
-    return src.get('title', '') if isinstance(src, dict) else getattr(src, 'title', '')
+def extract_source(entry):
+    source=entry.get('source') or {}
+    return source.get('title','') if isinstance(source,dict) else getattr(source,'title','')
 
+def clean_title(title,source):
+    title=html.unescape(BeautifulSoup(title or '','html.parser').get_text(' ',strip=True))
+    if source and title.lower().endswith(' - '+source.lower()): return title[:-(len(source)+3)].strip()
+    return title
 
-def collect(config, run_number, now):
-    fresh_from = now - timedelta(hours=config['window_hours'])
-    output = []
-    seen_links = set()
-    stats = Counter()
-    query_batch = queries(config, run_number)
-    for q in query_batch:
-        for edition in config['language_editions']:
-            url = google_news_url(q, edition)
+def key_for(entry, title):
+    link=entry.get('link','')
+    key=entry.get('id') or link or normalize(title)
+    return hashlib.sha256(key.encode('utf-8')).hexdigest()[:24]
+
+def title_is_noise(title,score):
+    return score < 0 and any(normalize(phrase) in normalize(title) for phrase in RESULT_ONLY)
+
+def build_rss(articles, feed):
+    ET.register_namespace('atom','http://www.w3.org/2005/Atom')
+    rss=ET.Element('rss',{'version':'2.0','xmlns:content':'http://purl.org/rss/1.0/modules/content/'})
+    channel=ET.SubElement(rss,'channel')
+    for tag,value in [('title',feed['title']),('link',feed['link']),('description',feed['description']),('language',feed['language'])]: ET.SubElement(channel,tag).text=value
+    ET.SubElement(channel,'lastBuildDate').text=datetime.now(timezone.utc).strftime('%a, %d %b %Y %H:%M:%S GMT')
+    for item in sorted(articles,key=lambda x:x['published'],reverse=True):
+        node=ET.SubElement(channel,'item')
+        for tag,key in [('title','title'),('link','link'),('guid','id'),('description','description')]:
+            el=ET.SubElement(node,tag)
+            if tag=='guid':el.set('isPermaLink','false')
+            el.text=item.get(key,'')
+        ET.SubElement(node,'pubDate').text=datetime.fromisoformat(item['published']).strftime('%a, %d %b %Y %H:%M:%S GMT')
+        ET.SubElement(node,'category').text=item.get('category','')
+        ET.SubElement(node,'author').text=item.get('source','')
+    tree=ET.ElementTree(rss)
+    ET.indent(tree,space='  ')
+    destination=ROOT/'docs/feed.xml'; destination.parent.mkdir(parents=True,exist_ok=True)
+    tree.write(destination,encoding='utf-8',xml_declaration=True)
+    ET.parse(destination)
+
+def run():
+    cfg=load_json(ROOT/'config.json',{})
+    if not cfg.get('athletes') or not cfg.get('scanner'):raise RuntimeError('Missing config.json athletes/scanner')
+    opts=cfg['scanner']; athletes=cfg['athletes']; state=load_json(ROOT/'data/state.json',{'cursor':0})
+    existing=load_json(ROOT/'data/articles.json',[])
+    now=datetime.now(timezone.utc); cutoff=now-timedelta(hours=opts['lookback_hours'])
+    expire=now-timedelta(days=opts['retain_days'])
+    existing=[x for x in existing if x.get('published') and datetime.fromisoformat(x['published'])>=expire]
+    seen={x['id'] for x in existing}
+    searches,new_cursor=make_queries(athletes,int(state.get('cursor',0)),opts['queries_per_run'])
+    stats=Counter(); stats['profiles_total']=len(athletes)
+    session=requests.Session(); session.headers.update(HEADERS)
+    started=time.monotonic(); new=[]
+    for athlete,query in searches:
+        for market in MARKETS:
+            stats['requests']+=1
+            url=query_url(query,market,opts['lookback_hours'])
             try:
-                resp = requests.get(url, timeout=20, headers=HEADERS)
-                resp.raise_for_status()
-                parsed = feedparser.parse(resp.content)
-                stats['requests_ok'] += 1
-                if parsed.bozo:
-                    logging.warning('Feed parser reported issue for %s: %s', q, parsed.bozo_exception)
-                logging.info('Search %s query=%r results=%d', edition, q, len(parsed.entries))
-                if not parsed.entries:
-                    stats['empty_feeds'] += 1
-                for e in parsed.entries[:config.get('results_per_query', 75)]:
-                    stats['entries_seen'] += 1
-                    dt = article_date(e)
-                    if dt is None:
-                        stats['missing_date'] += 1
-                        continue
-                    if not (fresh_from <= dt <= now + timedelta(minutes=5)):
-                        stats['outside_window'] += 1
-                        continue
-                    title = html.unescape(BeautifulSoup(e.get('title', ''), 'html.parser').get_text(' ', strip=True))
-                    desc = BeautifulSoup(e.get('summary', ''), 'html.parser').get_text(' ', strip=True)
-                    link = e.get('link', '')
-                    domain = urlparse(link).netloc.casefold()
-                    src = source_name(e)
-                    if not link or any(b in (domain + ' ' + src.casefold()) for b in config['blocked_domains']):
-                        stats['blocked_or_invalid'] += 1
-                        continue
-                    score = editorial_score(title, desc, config)
-                    if score < config['min_editorial_score']:
-                        stats['editorial_rejected'] += 1
-                        continue
-                    key = canonical_key(title, link)
-                    if key in seen_links:
-                        stats['duplicate'] += 1
-                        continue
-                    seen_links.add(key)
-                    stats['accepted'] += 1
-                    output.append(dict(id=key, title=title, url=link, source=src,
-                                       summary=desc[:1200], published=dt.isoformat(), score=score,
-                                       language=edition, query=q))
-            except (requests.RequestException, ValueError) as exc:
-                stats['request_failed'] += 1
-                logging.warning('Search failed: %s / %s: %s', edition, q, exc)
-            time.sleep(0.15)
-    logging.info('DISCOVERY DIAGNOSTICS: %s', json.dumps(dict(stats), sort_keys=True))
-    if stats['requests_ok'] == 0:
-        raise RuntimeError('All news searches failed: check network, Google News and query URLs')
-    return output, len(query_batch), dict(stats)
+                response=session.get(url,timeout=opts['request_timeout_seconds']);response.raise_for_status()
+                feed=feedparser.parse(response.content)
+                if feed.bozo and not feed.entries: raise RuntimeError(str(feed.bozo_exception))
+            except (requests.RequestException,RuntimeError) as exc:
+                stats['request_failed']+=1;LOG.warning('FETCH FAILED athlete=%s locale=%s error=%s',athlete['name'],market[0],exc);continue
+            if not feed.entries:stats['empty_feeds']+=1
+            stats['entries_seen']+=len(feed.entries)
+            for entry in feed.entries[:opts['max_entries_per_query']]:
+                pub=parse_time(entry)
+                if not pub:stats['undated']+=1;continue
+                if pub<cutoff or pub>now+timedelta(hours=1):stats['outside_window']+=1;continue
+                source=extract_source(entry)
+                title=clean_title(entry.get('title',''),source)
+                link=entry.get('link','')
+                if not link or not title:stats['invalid']+=1;continue
+                if any(ex in (urlparse(link).hostname or '').lower() or ex in source.lower() for ex in opts.get('exclude_domains',[])):
+                    stats['excluded_source']+=1;continue
+                kid=key_for(entry,title)
+                if kid in seen:stats['duplicates']+=1;continue
+                snippet=BeautifulSoup(entry.get('summary',''),'html.parser').get_text(' ',strip=True)
+                score=editorial_score(title,snippet)
+                if title_is_noise(title,score) or score<int(opts.get('min_score',0)):
+                    stats['editorial_rejected']+=1;continue
+                seen.add(kid)
+                item={'id':kid,'title':title,'link':link,'published':pub.isoformat(),'description':snippet[:1300], 'source':source,'category':athlete['category'],'athlete':athlete['name'],'score':score}
+                new.append(item);stats['accepted']+=1
+                if len(new)>=opts['max_new_per_run']:break
+            LOG.info('SEARCH %s %s entries=%d total_accepted=%d',athlete['name'],market[0],len(feed.entries),stats['accepted'])
+            if len(new)>=opts['max_new_per_run']:break
+        if len(new)>=opts['max_new_per_run']:break
+    # Persist cursor even on empty results, so the next scheduled run covers different athletes.
+    state['cursor']=new_cursor
+    state['last_run']=now.isoformat()
+    state['last_stats']=dict(stats)
+    save_json(ROOT/'data/state.json',state)
+    articles=existing+new
+    # Cross-query/cross-run duplicate headlines (different Google News URLs).
+    unique={}
+    for item in sorted(articles,key=lambda x:(x.get('score',0),x['published']),reverse=True):
+        title_key=normalize(item['title'])
+        if title_key not in unique:unique[title_key]=item
+    articles=sorted(unique.values(),key=lambda x:x['published'],reverse=True)
+    save_json(ROOT/'data/articles.json',articles)
+    build_rss(articles,cfg['feed'])
+    LOG.info('DIAGNOSTICS %s',json.dumps(dict(stats),ensure_ascii=False,sort_keys=True))
+    LOG.info('OUTPUT total=%s new=%s elapsed=%.1fs docs/feed.xml',len(articles),len(new),time.monotonic()-started)
+    if stats['requests'] and stats['request_failed']/stats['requests']>=float(opts['max_requests_fail_ratio']):
+        raise RuntimeError('Nearly all Google News requests failed; see FETCH FAILED logs')
 
-
-def escape(v):
-    return html.escape(str(v or ''), quote=True)
-
-
-def write_rss(items, config, now):
-    link = config['base_url'].rstrip('/')
-    parts = ['<?xml version="1.0" encoding="UTF-8"?>', '<rss version="2.0"><channel>',
-             f'<title>{escape(config["name"])}</title>', f'<link>{escape(link)}</link>',
-             '<description>Editorial MLB news beyond game scores. Sources credited; external links.</description>',
-             '<language>en-us</language>', f'<lastBuildDate>{format_datetime(now)}</lastBuildDate>',
-             '<atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="' + escape(link + '/feed.xml') + '" rel="self" type="application/rss+xml" />']
-    for item in items:
-        dt = datetime.fromisoformat(item['published'])
-        parts.extend(['<item>', f'<title>{escape(item["title"])}</title>',
-                      f'<link>{escape(item["url"])}</link>',
-                      f'<guid isPermaLink="false">ws2026-{escape(item["id"])}</guid>',
-                      f'<pubDate>{format_datetime(dt)}</pubDate>',
-                      f'<description>{escape(item["summary"])}</description>',
-                      f'<source>{escape(item["source"])}</source>', '</item>'])
-    parts.append('</channel></rss>')
-    FEED.parent.mkdir(parents=True, exist_ok=True)
-    FEED.write_text('\n'.join(parts) + '\n', encoding='utf-8')
-
-
-def main():
-    parser = argparse.ArgumentParser()
-    parser.add_argument('--dry-run', action='store_true')
-    opts = parser.parse_args()
-    logging.basicConfig(level=logging.INFO, format='%(levelname)s %(message)s')
-    config = load_json(CONFIG, {})
-    now = datetime.now(timezone.utc)
-    state = load_json(STATE, {'run_number': 0})
-    n = int(state.get('run_number', 0))
-    fresh, query_count, stats = collect(config, n, now)
-    prior = load_json(DATA, [])
-    combined = {}
-    for a in prior + fresh:
-        # Keep more informative version of duplicate headline.
-        if a['id'] not in combined or (a['score'], len(a['summary'])) > (combined[a['id']]['score'], len(combined[a['id']]['summary'])):
-            combined[a['id']] = a
-    # Keep a bounded archive of articles within the recent period; not just one game's reports.
-    cutoff = now - timedelta(days=config.get('archive_days', 7))
-    items = sorted([a for a in combined.values() if datetime.fromisoformat(a['published']) >= cutoff],
-                   key=lambda a: (a['published'], a['score']), reverse=True)[:config['max_articles']]
-    logging.info('Queries: %d; newly qualified: %d; RSS items: %d', query_count, len(fresh), len(items))
-    if not opts.dry_run:
-        DATA.parent.mkdir(exist_ok=True)
-        DATA.write_text(json.dumps(items, indent=2, ensure_ascii=False) + '\n', encoding='utf-8')
-        STATE.write_text(json.dumps({'run_number': n + 1, 'last_run_utc': now.isoformat(), 'qualified': len(fresh), 'diagnostics': stats}, indent=2) + '\n', encoding='utf-8')
-        write_rss(items, config, now)
-
-
-if __name__ == '__main__':
-    main()
+if __name__=='__main__':run()

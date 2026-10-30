@@ -1,55 +1,41 @@
-# World Series 2026 – Beyond the Score RSS
+# MXATH — Mexican Athletes RSS
 
-Editorial news discovery for the 2026 Tampa Bay Rays vs. Milwaukee Brewers World Series. **No API key needed.**
+Automated English/Spanish Google News discovery across **47 Mexican athletes and athletes of Mexican heritage**, covering boxing, MMA/UFC, F1, soccer, basketball, cycling, NFL and MLB.
 
-## What it does
+## What gets published?
 
-- Searches **all 52 official World Series roster players** (26 Rays + 26 Brewers), plus both managers and topical World Series searches.
-- Rotates player queries over **three runs** so that all names are checked within ~45 minutes when GitHub Actions executes every 15 minutes (GitHub schedules can be delayed).
-- Searches US English and Mexican Spanish Google News RSS editions; expands with controversies, player interviews, injuries, clubhouse, contracts, analytics, human stories, historic records, etc.
-- Uses a headline- and snippet-based editorial scoring filter to exclude most routine scores, highlights, viewing guides, betting odds and recaps, while allowing genuinely newsworthy articles mentioning a result.
-- Checks a **rolling 2-hour discovery window**, deduplicates headlines and keeps up to 250 accepted items published within the past 4 days.
-- Publishes `docs/feed.xml` as an RSS 2.0 feed on GitHub Pages.
-- Excludes `albat.com` when detectable from the source. Links point to the original publisher or Google News canonical redirects; no copyrighted full-text scraping.
+Articles focusing on interviews, injuries, transfers, contracts, analysis, controversies, records and human-interest reporting. Pure box scores, live updates, odds, schedules and score-only items are filtered. Every relevant article can still be included even when it has no predefined editorial keyword, so we avoid the empty-feed failure seen with overly restrictive scoring.
 
-## Quick start
+## Setup
 
-1. Create an empty public GitHub repository named `world-series-2026-rss` and upload these files at its root (including `.github/workflows/update.yml`).
-2. Edit `config.json` and replace `REPLACE_WITH_GITHUB_USERNAME` in `base_url` with your actual GitHub username.
-3. In GitHub, enable **Settings → Pages → Deploy from a branch → main → /docs**.
-4. Under **Settings → Actions → General**, give GitHub Actions **Read and write permissions** if workflow commits are blocked by repository policy.
-5. Open **Actions → Update World Series Editorial RSS → Run workflow** to launch it manually. The schedule then aims to run every 15 minutes.
-6. Feed URL: `https://YOUR_USERNAME.github.io/world-series-2026-rss/feed.xml` (once Pages is published).
-
-## Local setup
-
-```bash
-python -m pip install -r requirements.txt
-python -m unittest discover -s tests -v
-python main.py                 # live collection and feed creation
-python main.py --dry-run       # preview query results without writing files
-```
+1. Create a public GitHub repository **`MXATH`**.
+2. Upload **the CONTENTS of this folder to the repository root** (not as a nested `MXATH` directory). Include the hidden `.github` folder.
+3. GitHub → **Settings → Actions → General** → allow Actions to read and write repository content if your repository settings require it. Workflow `permissions: contents: write` must also be permitted by repository settings.
+4. GitHub → **Settings → Pages** → **Deploy from a branch**, branch **main**, folder **/docs** → Save.
+5. GitHub → **Actions → Update MXATH News RSS → Run workflow**. Open the scanner diagnostics; verify `entries_seen` and `accepted`.
+6. Once Pages publishes the repository, the feed should appear at **https://barriglez33.github.io/MXATH/feed.xml** (assuming the repository owner is `barriglez33` and the repository is named exactly `MXATH`).
 
 ## Configuration
 
-- `window_hours`: how far back to search (default 2 hours).
-- `min_editorial_score`: increase for higher precision; decrease to surface more candidates.
-- `queries_per_run`: upper bound on per-run distinct searches (each in two languages).
-- `extra_queries`: contextual searches; rotate across runs.
-- `teams`: official roster-based searches; update after any roster replacements.
-- `negative_phrases`: editorial deprioritization, not a hard blanket ban.
+- The 47 athletes, aliases, sport categories and editorial scoring are stored in `config.json` and `main.py`.
+- Every 30 minutes (`9,39 * * * *`). Change cron if desired; GitHub Actions schedules can be delayed.
+- Six high-profile athlete queries are checked each run; the other 41 profiles rotate through the remaining search budget across runs. Searches run in both `es-MX` and `en-US` editions.
+- Lookback is 48 hours, archive retention 10 days; deduplication is by stable item ID and normalized headline.
+- Freshness is determined from Google News publication metadata, not article page scraping.
+- The feed contains original URLs (often Google News URLs), original news headlines, source and excerpt; **no full text is republished or automatically translated**.
+- No guarantee of coverage: Google News indexing, ambiguous names, editorial heuristics, query limits and news availability affect discovery.
 
-## Limitations
+## Troubleshooting
 
-Google News indexes selectively, so this cannot guarantee every article. Published timestamps and RSS snippets can be missing or misleading. Scheduled Actions may run later than 15 minutes. This feed **preserves publishers' original languages**, rather than claiming translation without a translation service. Headline-based article classification is heuristic and may generate false positives or false negatives. Source blocking is best effort when the Google News link hides the final publisher domain.
+Read `Show scanner diagnostics` for `requests`, `request_failed`, `entries_seen`, `outside_window`, `editorial_rejected`, `accepted`, `empty_feeds`, `duplicates`. If RSS URL 404s, check `docs/feed.xml` exists on `main`, verify Pages is set to `main /docs`, and check `pages build and deployment` Actions.
 
-Rosters verified against MLB.com's October 23, 2026 official rosters:
-- https://www.mlb.com/news/rays-2026-world-series-roster
-- https://www.mlb.com/news/brewers-2026-world-series-roster
+Local check: `pip install -r requirements.txt && python -m unittest discover -s tests -v && python main.py`
 
-## Troubleshooting zero RSS items (v3)
+## Project structure
 
-After a run, read `scanner-run.log` and `data/state.json` for the `DISCOVERY DIAGNOSTICS` counters. `entries_seen` indicates feeds returned articles; `outside_window`, `editorial_rejected`, and `empty_feeds` explain why nothing was kept. The search window is 12 hours to avoid missing slower-published context articles, while the feed archives 7 days. The scanner scores headlines and Google News snippets (not full articles). Pure result recaps remain filtered; some borderline headlines can enter the feed for editorial review. Google News feeds may lag publication.
-
-
-Workflow v4 uses the standard Estrellas MLB Actions structure. Project-specific dependency checks and editorial unit tests are retained.
+- `main.py`: scanner, editor, RSS generator, diagnostics
+- `config.json`: athlete profiles and parameters
+- `.github/workflows/update.yml`: robust GitHub Actions job, logs, checks and retrying commits
+- `data/articles.json`: retained items; `data/state.json`: rotation cursor / diagnostics
+- `docs/feed.xml`: public RSS for GitHub Pages
+- `tests/test_scanner.py`: validation tests

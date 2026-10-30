@@ -1,181 +1,414 @@
 {
-  "name": "World Series 2026 | Beyond the Score",
-  "base_url": "https://REPLACE_WITH_GITHUB_USERNAME.github.io/world-series-2026-rss",
-  "window_hours": 12,
-  "max_articles": 250,
-  "queries_per_run": 30,
-  "min_editorial_score": 2,
-  "language_editions": [
-    "en-US",
-    "es-419"
-  ],
-  "teams": {
-    "Tampa Bay Rays": [
-      "Drew Rasmussen",
-      "Freddy Peralta",
-      "Nick Martinez",
-      "Griffin Jax",
-      "Ian Seymour",
-      "Bryan Baker",
-      "Tyler Wells",
-      "Kevin Kelly",
-      "Cam Booser",
-      "Cole Sulser",
-      "Steven Matz",
-      "Garrett Cleavinger",
-      "Liam Hicks",
-      "Nick Fortes",
-      "Jonathan Aranda",
-      "Richie Palacios",
-      "Taylor Walls",
-      "Junior Caminero",
-      "Ben Williamson",
-      "Jorge Mateo",
-      "Chandler Simpson",
-      "Cedric Mullins",
-      "Victor Mesa Jr.",
-      "Jonny DeLuca",
-      "Ryan Vilade",
-      "Yandy Diaz"
-    ],
-    "Milwaukee Brewers": [
-      "Aaron Ashby",
-      "Shane Drohan",
-      "Robert Gasser",
-      "DL Hall",
-      "Kyle Harrison",
-      "Logan Henderson",
-      "Dustin May",
-      "Trevor Megill",
-      "Jacob Misiorowski",
-      "JoJo Romero",
-      "Antonio Senzatela",
-      "Abner Uribe",
-      "Brandon Woodruff",
-      "William Contreras",
-      "Gary Sanchez",
-      "Jake Bauers",
-      "David Hamilton",
-      "Joey Ortiz",
-      "Cooper Pratt",
-      "Brice Turang",
-      "Andrew Vaughn",
-      "Jackson Chourio",
-      "Sal Frelick",
-      "Luis Lara",
-      "Garrett Mitchell",
-      "Christian Yelich"
-    ]
+  "project_name": "MXATH — Mexican Athletes News RSS",
+  "feed": {
+    "title": "MXATH | Mexican Athletes Beyond the Score",
+    "description": "Original reporting, interviews, analysis, injuries, contracts and human-interest stories about Mexican athletes and athletes of Mexican heritage.",
+    "language": "es-MX",
+    "link": "https://barriglez33.github.io/MXATH/"
   },
-  "coaches": [
-    "Kevin Cash",
-    "Pat Murphy",
-    "Matt Arnold"
-  ],
-  "context_keywords": [
-    "interview",
-    "reaction",
-    "said",
-    "comments",
-    "reveals",
-    "explains",
-    "decision",
-    "controversy",
-    "criticism",
-    "injury",
-    "health",
-    "clubhouse",
-    "behind the scenes",
-    "family",
-    "journey",
-    "record",
-    "historic",
-    "contract",
-    "free agency",
-    "rumor",
-    "strategy",
-    "adjustment",
-    "bullpen",
-    "pitch mix",
-    "velocity",
-    "bat speed",
-    "investigation",
-    "suspension",
-    "emotion",
-    "future",
-    "analysis",
-    "entrevista",
-    "declaraciones",
-    "reacción",
-    "revela",
-    "explica",
-    "decisión",
-    "polémica",
-    "críticas",
-    "lesión",
-    "vestidor",
-    "historia",
-    "familia",
-    "récord",
-    "contrato",
-    "agencia libre",
-    "rumor",
-    "estrategia",
-    "ajuste",
-    "velocidad",
-    "futuro",
-    "análisis"
-  ],
-  "negative_phrases": [
-    "final score",
-    "box score",
-    "live score",
-    "live updates",
-    "play by play",
-    "play-by-play",
-    "game recap",
-    "game summary",
-    "how to watch",
-    "start time",
-    "odds",
-    "betting picks",
-    "prediction",
-    "where to watch",
-    "schedule",
-    "highlights",
-    "resultado final",
-    "marcador final",
-    "minuto a minuto",
-    "en vivo",
-    "dónde ver",
-    "pronóstico de apuestas",
-    "resumen del partido"
-  ],
-  "blocked_domains": [
-    "albat.com"
-  ],
-  "extra_queries": [
-    "\"World Series\" \"Rays\" \"Brewers\" interview OR reaction OR controversy OR injury",
-    "\"World Series 2026\" clubhouse OR manager OR reaction OR decisions",
-    "\"Rays\" \"Brewers\" strategy OR bullpen OR adjustments",
-    "\"Fall Classic\" Tampa Milwaukee players behind the scenes",
-    "\"Serie Mundial 2026\" Rays Cerveceros declaraciones OR polémica OR lesión",
-    "\"Serie Mundial\" Tampa Milwaukee historias OR entrevistas OR récord",
-    "\"Kevin Cash\" \"World Series\" decision OR reaction",
-    "\"Pat Murphy\" \"World Series\" comments OR strategy",
-    "\"Jacob Misiorowski\" \"Junior Caminero\"",
-    "\"Jonathan Aranda\" \"World Series\" interview OR story",
-    "\"Brandon Woodruff\" \"World Series\" shoulder OR comeback",
-    "\"Rays\" \"Brewers\" umpire OR controversy OR disputed",
-    "\"Tampa Bay\" \"Milwaukee\" contracts OR free agency",
-    "\"World Series\" television ratings OR business OR fans",
-    "\"#WorldSeries\" \"#Rays\" OR \"#Brewers\"",
-    "\"World Series\" \"Rays\" \"Brewers\"",
-    "\"Serie Mundial\" \"Rays\" \"Cerveceros\"",
-    "\"Milwaukee Brewers\" \"Tampa Bay Rays\"",
-    "\"Brewers\" \"Rays\" players",
-    "\"World Series 2026\" MLB news"
-  ],
-  "results_per_query": 75,
-  "archive_days": 7
+  "scanner": {
+    "queries_per_run": 34,
+    "max_entries_per_query": 65,
+    "lookback_hours": 48,
+    "retain_days": 10,
+    "request_timeout_seconds": 15,
+    "max_new_per_run": 80,
+    "min_score": 0,
+    "exclude_domains": [
+      "albat.com"
+    ],
+    "max_requests_fail_ratio": 0.9
+  },
+  "athletes": [
+    {
+      "name": "Canelo Álvarez",
+      "aliases": [
+        "Saúl Álvarez",
+        "Saul Alvarez",
+        "Canelo Alvarez",
+        "Canelo"
+      ],
+      "sport": "boxing",
+      "category": "boxeo"
+    },
+    {
+      "name": "Jaime Munguía",
+      "aliases": [
+        "Jaime Munguia"
+      ],
+      "sport": "boxing",
+      "category": "boxeo"
+    },
+    {
+      "name": "Isaac Pitbull Cruz",
+      "aliases": [
+        "Isaac Cruz",
+        "Pitbull Cruz",
+        "Isaac \"Pitbull\" Cruz"
+      ],
+      "sport": "boxing",
+      "category": "boxeo"
+    },
+    {
+      "name": "Emanuel Navarrete",
+      "aliases": [
+        "Vaquero Navarrete",
+        "Emanuel \"Vaquero\" Navarrete"
+      ],
+      "sport": "boxing",
+      "category": "boxeo"
+    },
+    {
+      "name": "William Zepeda",
+      "aliases": [
+        "Camaron Zepeda",
+        "Camarón Zepeda"
+      ],
+      "sport": "boxing",
+      "category": "boxeo"
+    },
+    {
+      "name": "Rafael Espinoza",
+      "aliases": [
+        "Rafael El Divino Espinoza",
+        "El Divino Espinoza"
+      ],
+      "sport": "boxing",
+      "category": "boxeo"
+    },
+    {
+      "name": "Marco Verde",
+      "aliases": [
+        "Marco Alonso Verde"
+      ],
+      "sport": "boxing",
+      "category": "boxeo"
+    },
+    {
+      "name": "Sergio Pérez",
+      "aliases": [
+        "Checo Perez",
+        "Checo Pérez",
+        "Sergio Perez",
+        "Sergio Checo Pérez"
+      ],
+      "sport": "f1",
+      "category": "formula_1"
+    },
+    {
+      "name": "Javier Hernández",
+      "aliases": [
+        "Chicharito",
+        "Chicharito Hernandez",
+        "Javier Chicharito Hernández"
+      ],
+      "sport": "soccer",
+      "category": "futbol"
+    },
+    {
+      "name": "Hirving Lozano",
+      "aliases": [
+        "Chucky Lozano",
+        "Hirving Chucky Lozano"
+      ],
+      "sport": "soccer",
+      "category": "futbol"
+    },
+    {
+      "name": "Karim López",
+      "aliases": [
+        "Karim Lopez",
+        "Karim López basketball",
+        "Karim Lopez basketball"
+      ],
+      "sport": "basketball",
+      "category": "basquetbol"
+    },
+    {
+      "name": "Isaac del Toro",
+      "aliases": [
+        "Isaac Del Toro",
+        "Isaac del Toro Romero"
+      ],
+      "sport": "cycling",
+      "category": "ciclismo"
+    },
+    {
+      "name": "Brandon Moreno",
+      "aliases": [
+        "The Assassin Baby",
+        "Brandon Assassin Baby Moreno"
+      ],
+      "sport": "mma",
+      "category": "ufc_mma"
+    },
+    {
+      "name": "Alexa Grasso",
+      "aliases": [],
+      "sport": "mma",
+      "category": "ufc_mma"
+    },
+    {
+      "name": "Yair Rodríguez",
+      "aliases": [
+        "Yair Rodriguez",
+        "Pantera Rodriguez",
+        "El Pantera Rodríguez"
+      ],
+      "sport": "mma",
+      "category": "ufc_mma"
+    },
+    {
+      "name": "Ronaldo Rodríguez",
+      "aliases": [
+        "Ronaldo Rodriguez",
+        "Lazy Boy Rodríguez",
+        "Lazy Boy Rodriguez"
+      ],
+      "sport": "mma",
+      "category": "ufc_mma"
+    },
+    {
+      "name": "Raúl Rosas Jr.",
+      "aliases": [
+        "Raul Rosas Jr",
+        "Raul Rosas Junior",
+        "El Niño Problema"
+      ],
+      "sport": "mma",
+      "category": "ufc_mma"
+    },
+    {
+      "name": "Manuel Torres",
+      "aliases": [
+        "Manuel El Loco Torres",
+        "El Loco Torres UFC"
+      ],
+      "sport": "mma",
+      "category": "ufc_mma"
+    },
+    {
+      "name": "Daniel Zellhuber",
+      "aliases": [
+        "Golden Boy Zellhuber"
+      ],
+      "sport": "mma",
+      "category": "ufc_mma"
+    },
+    {
+      "name": "Irene Aldana",
+      "aliases": [],
+      "sport": "mma",
+      "category": "ufc_mma"
+    },
+    {
+      "name": "Lupita Godínez",
+      "aliases": [
+        "Loopy Godinez",
+        "Loopy Godínez",
+        "Guadalupe Godinez"
+      ],
+      "sport": "mma",
+      "category": "ufc_mma"
+    },
+    {
+      "name": "David Martínez",
+      "aliases": [
+        "David Martinez UFC",
+        "Doctor Martinez UFC",
+        "David Doctor Martínez"
+      ],
+      "sport": "mma",
+      "category": "ufc_mma"
+    },
+    {
+      "name": "Fred Warner",
+      "aliases": [],
+      "sport": "nfl",
+      "category": "nfl"
+    },
+    {
+      "name": "Julian Love",
+      "aliases": [
+        "Julian Love NFL"
+      ],
+      "sport": "nfl",
+      "category": "nfl"
+    },
+    {
+      "name": "Malcolm Rodriguez",
+      "aliases": [
+        "Malcolm Rodríguez",
+        "Malcolm Rodrigo Rodriguez",
+        "The Rodrigo Lions"
+      ],
+      "sport": "nfl",
+      "category": "nfl"
+    },
+    {
+      "name": "Elijah Arroyo",
+      "aliases": [],
+      "sport": "nfl",
+      "category": "nfl"
+    },
+    {
+      "name": "Jacob Rodriguez",
+      "aliases": [
+        "Jacob Rodríguez linebacker",
+        "Jacob Rodriguez NFL"
+      ],
+      "sport": "nfl",
+      "category": "nfl"
+    },
+    {
+      "name": "Josh Cuevas",
+      "aliases": [
+        "Josh Cuevas tight end"
+      ],
+      "sport": "nfl",
+      "category": "nfl"
+    },
+    {
+      "name": "Gabriel Rubio",
+      "aliases": [
+        "Gabriel Rubio defensive tackle"
+      ],
+      "sport": "nfl",
+      "category": "nfl"
+    },
+    {
+      "name": "Isaac Alarcón",
+      "aliases": [
+        "Isaac Alarcon",
+        "Isaac Alarcon NFL"
+      ],
+      "sport": "nfl",
+      "category": "nfl"
+    },
+    {
+      "name": "Damián Ramos",
+      "aliases": [
+        "Damian Ramos NFL",
+        "Damián Ramos football"
+      ],
+      "sport": "nfl",
+      "category": "nfl"
+    },
+    {
+      "name": "Alejandro Kirk",
+      "aliases": [],
+      "sport": "mlb",
+      "category": "mlb"
+    },
+    {
+      "name": "Andrés Muñoz",
+      "aliases": [
+        "Andres Munoz",
+        "Andres Muñoz Mariners"
+      ],
+      "sport": "mlb",
+      "category": "mlb"
+    },
+    {
+      "name": "Isaac Paredes",
+      "aliases": [],
+      "sport": "mlb",
+      "category": "mlb"
+    },
+    {
+      "name": "Jonathan Aranda",
+      "aliases": [],
+      "sport": "mlb",
+      "category": "mlb"
+    },
+    {
+      "name": "Joey Ortiz",
+      "aliases": [
+        "Joey Ortiz Brewers"
+      ],
+      "sport": "mlb",
+      "category": "mlb"
+    },
+    {
+      "name": "Manuel Rodríguez",
+      "aliases": [
+        "Manuel Rodriguez Rays",
+        "Manuel Rodríguez pitcher"
+      ],
+      "sport": "mlb",
+      "category": "mlb"
+    },
+    {
+      "name": "Javier Assad",
+      "aliases": [],
+      "sport": "mlb",
+      "category": "mlb"
+    },
+    {
+      "name": "Ramón Urías",
+      "aliases": [
+        "Ramon Urias",
+        "Ramon Urías"
+      ],
+      "sport": "mlb",
+      "category": "mlb"
+    },
+    {
+      "name": "Luis Urías",
+      "aliases": [
+        "Luis Urias"
+      ],
+      "sport": "mlb",
+      "category": "mlb"
+    },
+    {
+      "name": "Randy Arozarena",
+      "aliases": [],
+      "sport": "mlb",
+      "category": "mlb"
+    },
+    {
+      "name": "Taijuan Walker",
+      "aliases": [],
+      "sport": "mlb",
+      "category": "mlb"
+    },
+    {
+      "name": "Víctor González",
+      "aliases": [
+        "Victor Gonzalez pitcher",
+        "Victor González baseball"
+      ],
+      "sport": "mlb",
+      "category": "mlb"
+    },
+    {
+      "name": "Giovanny Gallegos",
+      "aliases": [],
+      "sport": "mlb",
+      "category": "mlb"
+    },
+    {
+      "name": "César Salazar",
+      "aliases": [
+        "Cesar Salazar baseball"
+      ],
+      "sport": "mlb",
+      "category": "mlb"
+    },
+    {
+      "name": "Patrick Sandoval",
+      "aliases": [],
+      "sport": "mlb",
+      "category": "mlb"
+    },
+    {
+      "name": "José Urquidy",
+      "aliases": [
+        "Jose Urquidy"
+      ],
+      "sport": "mlb",
+      "category": "mlb"
+    }
+  ]
 }
