@@ -1,12 +1,12 @@
-name: Update World Series Editorial RSS
+name: Update MXATH News RSS
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "9,24,39,54 * * * *"
+    - cron: "9,39 * * * *"
 
 concurrency:
-  group: world-series-editorial-rss
+  group: mxath-news-rss
   cancel-in-progress: false
 
 permissions:
@@ -40,35 +40,19 @@ jobs:
         shell: bash
         run: |
           set -e
-          echo "Python:"
           python --version
-
-          echo "Syntax check:"
           python -m py_compile main.py
-
-          echo "Editorial unit tests:"
-          python -m unittest discover -s tests -v
-
-          echo "Config check:"
           python - <<'PY'
           import json
+          import feedparser, requests, bs4, dateutil
           from pathlib import Path
-          with Path('config.json').open(encoding='utf-8') as f:
-              config = json.load(f)
-          assert 'teams' in config and 'extra_queries' in config
-          print('config.json OK')
-          print('Project:', config.get('project_name', 'World Series 2026 Editorial RSS'))
-          print('Player names:', sum(len(players) for players in config['teams'].values()))
+          c=json.loads(Path('config.json').read_text(encoding='utf-8'))
+          print('Project:', c['project_name'])
+          print('Athletes:',len(c['athletes']))
+          assert len(c['athletes']) == 47
+          print('Dependencies OK')
           PY
-
-          echo "Dependency imports:"
-          python - <<'PY'
-          import feedparser
-          import requests
-          from bs4 import BeautifulSoup
-          from dateutil.parser import parse
-          print("Core feed, HTTP, HTML, and date imports OK")
-          PY
+          python -m unittest discover -s tests -v
 
       - name: Run news scanner
         id: scanner
@@ -84,62 +68,46 @@ jobs:
         if: always()
         shell: bash
         run: |
-          echo "============================================================"
           echo "SCANNER RESULT: ${{ steps.scanner.outcome }}"
-          echo "============================================================"
-
           if [ -f scanner-run.log ]; then
-            echo "Last 300 log lines:"
             tail -n 300 scanner-run.log
           else
-            echo "scanner-run.log was not created."
+            echo "scanner-run.log was not created"
           fi
-
-          echo "============================================================"
-          echo "Git status:"
           git status --short || true
-          echo "============================================================"
 
       - name: Commit generated RSS and data
         if: steps.scanner.outcome == 'success'
         shell: bash
         run: |
           set -e
-
-          git config user.name "World Series News Bot"
+          git config user.name "MXATH News Bot"
           git config user.email "actions@users.noreply.github.com"
-
           git add data docs
-
           if git diff --cached --quiet; then
             echo "No generated changes."
             exit 0
           fi
-
-          git commit -m "Update generated World Series editorial RSS and data"
-
+          git commit -m "Update generated MXATH RSS and data"
           for attempt in 1 2 3 4 5; do
             echo "Push attempt $attempt of 5..."
-
             if git push origin "HEAD:${GITHUB_REF_NAME}"; then
               echo "Push succeeded."
               exit 0
             fi
-
             if [ "$attempt" -eq 5 ]; then
               echo "Push failed after 5 attempts."
               exit 1
             fi
-
             wait_seconds=$((attempt * 20))
-            echo "Push failed. Waiting ${wait_seconds} seconds before retry..."
             sleep "$wait_seconds"
+            git fetch origin "$GITHUB_REF_NAME"
+            git rebase "origin/$GITHUB_REF_NAME"
           done
 
       - name: Fail job when scanner failed
         if: steps.scanner.outcome == 'failure'
         shell: bash
         run: |
-          echo "The Python scanner failed."
-          echo "Open the 'Show scanner diagnostics' step above for the actual traceback/error."
+          echo "Python scanner failed; inspect diagnostics above."
           exit 1
