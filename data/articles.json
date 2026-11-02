@@ -1,5 +1,401 @@
 [
   {
+    "id": "b542c84eebd061d572abf2b9",
+    "title": "“Canelo” Álvarez regresa al ring",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5oNEQ4S2x1WUpna0hZRFN0QjVBaWt6QnhvV1h4VnZwMWdua1ZVamU2MEhwMEk4QnQ1aWNvc0VTYmxkbDd6bFFCcXE4akZwLWRBakpMOVNXT2tGNU1xNHN0aVkyVkRUS2xlWTU5WU9fdjk?oc=5",
+    "published": "2026-11-02T20:00:41+00:00",
+    "description": "“Canelo” Álvarez regresa al ring Semanario ZETA",
+    "source": "Semanario ZETA",
+    "category": "boxeo",
+    "athlete": "Canelo Álvarez",
+    "score": 0
+  },
+  {
+    "id": "1107ef02642e2c52587b7dc9",
+    "title": "Checo Pérez Finishes His 300th Grand Prix as Mexico City Crowns F1’s Youngest Champion",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTjJtV2JhcVFJX3B6U3VwWmlXSU5EN2gzWFJEX1NoMVZMS0J1N2MxSnp6aDM4U05PUWZ4TUpya3c2VTgwdW4tZFlNd1pTbXo5UWZlRlVKalkxSEJ0aXBGTDBjZGh6bHRMelZjRnpRVVdSUHVKZTY1eXQwMGVUZmNHc1NMZFQwbjBCZlNHQkFGYkx1c1ZtRG5XVURLWV90WTJUelc3SXdtcUxSTXJSWm1JRHc4a1Y?oc=5",
+    "published": "2026-11-02T19:57:13+00:00",
+    "description": "Checo Pérez Finishes His 300th Grand Prix as Mexico City Crowns F1’s Youngest Champion Remezcla",
+    "source": "Remezcla",
+    "category": "formula_1",
+    "athlete": "Sergio Pérez",
+    "score": 0
+  },
+  {
+    "id": "f2912040336c04487cd3edf4",
+    "title": "“Es el mejor de la historia del boxeo mexicano”: Eddy Reynoso sobre la grandeza del Canelo Álvarez",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTjdUNGxNMFh5cU9xUzBDbDkxNG16bzI0TlB4VUNvYy1CQXRqRW1fS01UVkdKNGU3bW5uREpsN2prYk43QVN6X2UwOWNWYzliOXZQcnpSUDAtRWhvcUk4YUlxOU5jU2tBclp1T1hLeng1TG9OYVdyU0ZoUkJQdTJMeDl4VlB4bDRrU1Z4ZllQRGJmNHVrUkN5Z2tObmwzdHBzcjdUbWtzdWt1dW1zR1hYUXpsbw?oc=5",
+    "published": "2026-11-02T19:53:15+00:00",
+    "description": "“Es el mejor de la historia del boxeo mexicano”: Eddy Reynoso sobre la grandeza del Canelo Álvarez El Sol de México",
+    "source": "El Sol de México",
+    "category": "boxeo",
+    "athlete": "Canelo Álvarez",
+    "score": 2
+  },
+  {
+    "id": "56085868e5c4740ec1a3e998",
+    "title": "Malas noticias para Checo Pérez y Cadillac F1 cuando acaban de extender contrato",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdmd4ZkdDWm1mVE5laFNTcU51dXZIdFFCWHFQUFROcG1LM0tjYm5OMUpyYUM3UEdLaEpUaTV4RFQ3dzhVZmxBX1hDMzROYTJsTldWSjZ6d2tkRW44R0dOTWdzd1FIUVF5bTdDOXhmQVpsdnpGN0M2LU5xU1ZpbTdma2Frc3ZUYzJxeXZlU2VCcndURGh3cTRuUjZ5QXdhV1BZcm5Kb3VjMHNPeGtIY0JvTzJCYkZ1WndlcTVMcdIBvAFBVV95cUxNRGEzOWQ1UUo1Q3hESGhxaWVMZTBKMi1zZE5BRUhSNDJ2WlJMejVZSVZ3WEZCN0phZGFrNWlFeEFBYnNhTjZwT3p4WlVZbWRoMVlkM1I0TC1kbGw3MV9iTzNPbmpRSDEtRklWcWdrTU9keGJaNW0wVjcxa3RrYkNydTNMZG54VW9JbmhzUG0wUERPS2tGV2c5OE9hdjV4ZWVCeW1CSmhIeHFVcmZxTV94OS1hb3Q5VE9LOFF2eQ?oc=5",
+    "published": "2026-11-02T19:46:14+00:00",
+    "description": "Malas noticias para Checo Pérez y Cadillac F1 cuando acaban de extender contrato MARCA",
+    "source": "MARCA",
+    "category": "formula_1",
+    "athlete": "Sergio Pérez",
+    "score": 3
+  },
+  {
+    "id": "0978eaff2b5dc8c99453a1b9",
+    "title": "GP de Brasil: ¿Dónde y cuándo ver a Checo Pérez en la Fórmula 1?",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ25fNDdlUjZ0QTBvUmpuNXBKc241X3dkNlBQU0dYSGhvd2hNbktCaHdPRWkxbzNqblR5eGdJUk5oNDVVVTFKUDB1T3ZwTG5aNUVSRzVqd19zQ2RCNkdtMl9iTzN5a210Tl9mc0pmRWE1UzNSV2twcTQzYkFxTl9jWVZWTnBfLVVXaE1iXy1FUllDSWV1dHZaZ3MzQ1JfQ3lsTm54Y1EyOXowTXhz?oc=5",
+    "published": "2026-11-02T19:35:59+00:00",
+    "description": "GP de Brasil: ¿Dónde y cuándo ver a Checo Pérez en la Fórmula 1? El Sol de México",
+    "source": "El Sol de México",
+    "category": "formula_1",
+    "athlete": "Sergio Pérez",
+    "score": 0
+  },
+  {
+    "id": "ff70d93c01f0a8806517daf1",
+    "title": "Checo Pérez convierte en marca registrada el famoso apodo de \"El Viejo Sabroso\"",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRTd1RG9wSFBxMHRHV1FUaFd0clBMLXBmbmZzTHpEUnR2RUxkMU5MVElIZVd4Unk0TzJkeEVFLTRkR3hoellIaHdwYWEyTXRjSG5BMnlNS2p3amY2T3JWclhjT1ZkT3ItQkpMOVByVU5VNDd1VHJKaG9IYjEtOWQ5ZXFFNlN2SjJjMmdfNDE3cGl1djNkTEJ4clBlY19mU3poQlNvU2d6dllFQjAybVdZQ3lxbVRhd3U5ZzNUMzVBanBfRW5ObFBFaUhycW5YZ1kxTlVhTQ?oc=5",
+    "published": "2026-11-02T19:13:09+00:00",
+    "description": "Checo Pérez convierte en marca registrada el famoso apodo de \"El Viejo Sabroso\" Periódico AM",
+    "source": "Periódico AM",
+    "category": "formula_1",
+    "athlete": "Sergio Pérez",
+    "score": 0
+  },
+  {
+    "id": "ffc2bd19480a7417ce678502",
+    "title": "“Canelo Álvarez es el boxeador mexicano más exitoso de la historia, le duela a quien le duela”",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdUQxTVZudENSQWF0OTNGSnlyTmxGMHhOek9Gak5vUnN1bHI2MXpBcG9aLXBpSUlTQ3gyeDVQMkJSalVHX1hoY3Bfc2RSUkdiUXZDT1pIUHA3NV9YeVlsQTIycEd1YlRIRGdQZS1tVWJVRkNjY2s3NW1nUVZmM1NDYzVFOEoxX2FWcG82Y2djQ2d2ZnB2VFJQMm5TZGZxcnF3SlZjU1lTYTl5VFRieG9xalEybV_SAbQBQVVfeXFMTi1BQzdNRW8zV0h4WTA1TnpTLWlQUW1KQk9UdHNlNmxtUFFpbVNhTmJYOGcxOFBuSmQ5cjVZakFGbFowanhkNGgydXNFZ3ZJenhhNTdYNkRIR3BDdTRCU29PUlJfbGtDa3Nkc1pqUnNscFQ1d2JkWnFGN2FBbkcxeHZUaE81ck9YRDJ1MEtvalN3MVdOcnEwcmpDd2w1VnNnM0N6NllCNGZoTXZiLVVDaFRLdTNT?oc=5",
+    "published": "2026-11-02T19:00:40+00:00",
+    "description": "“Canelo Álvarez es el boxeador mexicano más exitoso de la historia, le duela a quien le duela” MARCA",
+    "source": "MARCA",
+    "category": "boxeo",
+    "athlete": "Canelo Álvarez",
+    "score": 2
+  },
+  {
+    "id": "4f5c48b2d2e929190858c85b",
+    "title": "Boxeo: ¿Quién sigue para Canelo? Los rivales que podrían desafiarlo tras recuperar el campeonato del CMB",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZFFadUsxcDVyTE82Tm80eVN5elhzSy05ZzEzblRxMzNWMExtQ3ZMMnB3R2xnOGlKZmlHRTc1cFpFbDVBeEhTaE4xVW4xVTZsZHNMX0YxZFRrdm1oLURTWW5iaUlSZmRRQXB4WWgtVVYtZnhHXzVUNWFQd3FJd2E1RThPamhTSDNkaXdtUFFGTXFDTFljWTNJWmIwVC04X1VjOWtfQzBKZnEtdmJMVDF0cFczREpvR0t0M0JfMXlfLThBSDY5NlhzdGZYOGtIUGRobFlhNklhWWt2T0tMTEN5WlZTLW5DQdIB6wFBVV95cUxORWF0S2xsTmhPamlSWVEwLTVWdFhvOWUwOF9XYlhvNUZHQWIyQ0lnUDdnSG02M1hUTUZyRDdrNUdiOF85N24tNUhKazgyNm5PV3drMDB5WDlLdUJJMENoX0U4LW5hbnU1dzU0RXM3YzZRN1g4ejFSZlJ6RmNrMUxabDVpY3FVby1Qc0hUdE82RE9seWlNVGVudHNCMVlWUDhNcG1VN1IwS1FUNkpkb0RuRC1XNVF1elduODh5Y3psRlJ6TC1IMW1GRDAyTFkzV1piVE82Q3lRN2pNWndfV3Q0RDRIX3lhZ0hyOFN3?oc=5",
+    "published": "2026-11-02T18:25:00+00:00",
+    "description": "Boxeo: ¿Quién sigue para Canelo? Los rivales que podrían desafiarlo tras recuperar el campeonato del CMB Al Bat",
+    "source": "Al Bat",
+    "category": "boxeo",
+    "athlete": "Canelo Álvarez",
+    "score": 0
+  },
+  {
+    "id": "36e38fd06d9f2c8531f3062a",
+    "title": "F1: ¡Checo Pérez se conmueve en México! Su emotivo mensaje tras vivir un momento único en su carrera 300",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQS1dsOHpqQUN3Y0FlQTZwSFpqYW9jZGdpanV4dHdNZDd2eFhkdkN5YVlBVGs4bVplX3pyVld4UW40cHJaY2Nzb0F5NVl4MkRCcUF0MFBQR1VZYzhlSlZfWGFlRzY0MXlkVTJGSXV4ZzZkWGNsaDF6azhHQTU2ZUdjY2FLN1ZMV3lxbTM5QndySG54U205Q3EwMVJYVFF1dnd1RjJlX0h3MGl6c1JWbjEyRGRyV0RVMnRZX2FIaTVVMUUwVnJEUmRsXy1UX0hpZzlKU3UwYTVHVldXcVRacEhEelRXYlVzd9IB6wFBVV95cUxOVmlDRWVWam1SdXk1clVjcm1zQ1dQWVNNX1RWRzJRbTB5bHlEVGt5NWRzU25tSHlnakFPd3JuaWdPR0R3a05HalJEX0YzQjVJZURocGNMRTZSckhGNGYzbTNWNUlpMXUxbWVJUTNscE5pUHhxNG02UzVPcUtneFVZZFQwQjF3VVZ3V3FMdG9mbmJFUzVpRGlaTHpJRHBBaTJHSnRRQXdGdlZQVE9pdDNwNUVNRWI0bGtfXzAwNjFzNTlkZk1wWVQzb21tNlJfdkNLQVNkcDZsSEZ2S1M1c1h4U1RFNl9LaXJ4M180?oc=5",
+    "published": "2026-11-02T18:15:00+00:00",
+    "description": "F1: ¡Checo Pérez se conmueve en México! Su emotivo mensaje tras vivir un momento único en su carrera 300 Al Bat",
+    "source": "Al Bat",
+    "category": "formula_1",
+    "athlete": "Sergio Pérez",
+    "score": 0
+  },
+  {
+    "id": "c4f7ccb2ed259d06e8263c40",
+    "title": "F1: Así fue como Checo Pérez obtuvo el registro de la marca \"Viejo Sabroso\" ante el IMPI",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLWtKZVZGNUE0ZzNBZW1IU2J4RWM1bVBLdkhodHhPY3A3M1ZQSEtlX1Y4Ymtsa3N5bEdENDBCMXNxQmo5c0xKRGxTTGRCMGs4R1BWZU9MWUZVTnNyb3ZWSUZQVDhhczZRUkxvV0NRc29QQVl0ZmpLY2Nfb2t0N2lVSi0xVjFaQkF4OHc4cmhDQjBmOHlxYkRJcXpFaWJWMVotLWFQNFFCeGV5aHRhZHdNTWhMWGQtQdIBwwFBVV95cUxNWGFFVVBzdmp3NkFSSk1OUXQ1R3kzWWlGUGhGakVXLU5jZjU4Nm0tZU5pRHY5VEpyeTk5RU1ZX3ZMVmpJWXhjSlVER2JWNllybDlzSmg2TjVmU0htNm1WTkFlWXhPbHlOaFp4RmZSUmM3QU8tUGVUYkpjUzZKU1BINWJFMW00U3dRMXYybjNzdnZLMnB3N05oZzYtLWVfckJyWlQ4ckFMRVNQdHRTMG5XaHcxVUNHM3RRWmMtY1hPdnZzM00?oc=5",
+    "published": "2026-11-02T17:53:32+00:00",
+    "description": "F1: Así fue como Checo Pérez obtuvo el registro de la marca \"Viejo Sabroso\" ante el IMPI La Lista",
+    "source": "La Lista",
+    "category": "formula_1",
+    "athlete": "Sergio Pérez",
+    "score": 0
+  },
+  {
+    "id": "33b0763088e62db066c6ed66",
+    "title": "Checo Pérez revela el error de Cadillac que arruinó su GP 300 en México",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNb1FwUktwdE1xT0U5OFlWOE51UTE3dURnS3hKb2NzaDFvcVBRYkg5aGpVbEJjYjd1bDFCNDdIejhHamNvalZlM2ZhcGZEQS1rOUFlME4zUHd3d0ZxZmoxUThyZHNRSmVlNmIxelljZzdETDRYMWJ4Vzc0VlNqRXBmY2xTR1oxYmlpZ2UxaWpWQmtfWkNiS0NYZWt1c2kxZk5JTDRJZ2Ywd3N2bVZ3bXN6UWpPc3ZqbkNKa2ZaT2dCcw?oc=5",
+    "published": "2026-11-02T17:31:55+00:00",
+    "description": "Checo Pérez revela el error de Cadillac que arruinó su GP 300 en México Publimetro México",
+    "source": "Publimetro México",
+    "category": "formula_1",
+    "athlete": "Sergio Pérez",
+    "score": 3
+  },
+  {
+    "id": "85d09607eb055fd26c9a5693",
+    "title": "F1 2026 results: Winners, podium, final positions from every race",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdVhGYzMzamRjS1FNcHZObmpkdG9vVEp4VDJERVJsMTluVng0LWZiMUF3TTQ0UFZBalhEOXltZWdIZ19qem43M1ZyRnpaZzZjSVI0Q004N2ljOHhwYjY5UXVhNGtzakpTckdZOGRWZUhWTVM3MEN2YjZZZ3Z0U3NNZlBadlBJN29EQ2x3ZVZDbGl2Z0I4WDJYU2pYdmkwd0UzY1NxNXliTFhlcmx3WUZmdDdxVjd6R1J6YXhaM2IzREtnNFV4bExRY25KYVVyZXdGMTM0VWN6czFfSzBGcEQzMmhsRjZzU2Iz?oc=5",
+    "published": "2026-11-02T17:27:00+00:00",
+    "description": "F1 2026 results: Winners, podium, final positions from every race ESPN",
+    "source": "ESPN",
+    "category": "formula_1",
+    "athlete": "Sergio Pérez",
+    "score": 0
+  },
+  {
+    "id": "7b4df9ba751bbb8c823e9ab9",
+    "title": "Revelan detalles sobre la renovación de contrato de 'Checo' Pérez con Cadillac; ¿cuánto ganará?",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeVRfUGExak5nUGFTWW5PdDFLTUwzX0oxTWpkZDJ5WmpoZWc0Vk1mUXBDbVpJZFdPVnFIZFhHUnhSZUN2THIxcVRiNWdhdnlKOTRVeTN2eFlCRTRFckZXTVJ4NXR0RGY0Z2hMbTFQQlhVcVN5eW90V1YzMnJ1alBleERGMHJqamtVMld3MTcxaGwwbF9ZMGNxVERKTWJSZ9IBngFBVV95cUxNeVRfUGExak5nUGFTWW5PdDFLTUwzX0oxTWpkZDJ5WmpoZWc0Vk1mUXBDbVpJZFdPVnFIZFhHUnhSZUN2THIxcVRiNWdhdnlKOTRVeTN2eFlCRTRFckZXTVJ4NXR0RGY0Z2hMbTFQQlhVcVN5eW90V1YzMnJ1alBleERGMHJqamtVMld3MTcxaGwwbF9ZMGNxVERKTWJSZw?oc=5",
+    "published": "2026-11-02T17:22:00+00:00",
+    "description": "Revelan detalles sobre la renovación de contrato de 'Checo' Pérez con Cadillac; ¿cuánto ganará? Milenio",
+    "source": "Milenio",
+    "category": "formula_1",
+    "athlete": "Sergio Pérez",
+    "score": 8
+  },
+  {
+    "id": "8fa9bc37558de76a3993a2dd",
+    "title": "Canelo Álvarez derrota a Mbilli y recupera el título CMB en Riad",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZGJOM1Rac0JaektRODdHWm4yXzZaeEdqeVNiMUdIMlNHN1NMLWtWTmdNWnJseXBYNDI3Nkp2emp5a3ZsYXIzT0pxRzc4dk1ac0hWb2p4dWZFUU55NWRYamg0VzVuQ0JzMnlfYjJpaHRrbTFRbTQ1bEx6dC1KRm10c2ZBNFhuRlZGN0E0eFI3WnBPSGdtOGI1RFBKem5pQUNaaU5vVVpXWlRuRXl5UWNrNDBB?oc=5",
+    "published": "2026-11-02T17:03:54+00:00",
+    "description": "Canelo Álvarez derrota a Mbilli y recupera el título CMB en Riad El Tiempo Latino",
+    "source": "El Tiempo Latino",
+    "category": "boxeo",
+    "athlete": "Canelo Álvarez",
+    "score": 0
+  },
+  {
+    "id": "38bc46df3e81908e39020de4",
+    "title": "Max Verstappen vuelve a ganar en México, Antonelli campeón y ‘Checo’ Pérez llega en 17",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBlYUtSclRoZzB5X01YUnVhVFpMaTNVM1BMZGJYa3preTNkYzc0RVJ0V3U3WGVrNS1ZU0VMYlRDRXozdm03bzZoaA?oc=5",
+    "published": "2026-11-02T16:20:55+00:00",
+    "description": "Max Verstappen vuelve a ganar en México, Antonelli campeón y ‘Checo’ Pérez llega en 17 Marquesina Política",
+    "source": "Marquesina Política",
+    "category": "formula_1",
+    "athlete": "Sergio Pérez",
+    "score": 0
+  },
+  {
+    "id": "efabded099140d9f4810be1f",
+    "title": "McGregor lanza intimidante mensaje al Canelo Álvarez: ‘Yo supero a este tipo con facilidad’",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYWtYRDRkODBFTEUtQTBLVWx4NUlTZ2NvNkJUQXVQd205UENjektGbGVJLS1iVjhuT3lCMTJYeUZ5aU41RUc2TXhKNHhIWkxCSEpXandGWU9zQXRDb1l3VXJWLWNfTVNTb054Q2xnU0VmdmJ1UlJXdENFaTl0R3VORURDMWhmb05NYXE3czdNVlBHQVFjVzlteUhhSTJWaWJTMkNlTDJubVYxRXdleXNiWGxBWWFmVDFBeFpuenlZTlRpbmpkdkhoLWFEVTE5QmlrWHhuZ0xzTTAxOWc?oc=5",
+    "published": "2026-11-02T15:52:00+00:00",
+    "description": "McGregor lanza intimidante mensaje al Canelo Álvarez: ‘Yo supero a este tipo con facilidad’ Récord",
+    "source": "Récord",
+    "category": "boxeo",
+    "athlete": "Canelo Álvarez",
+    "score": 4
+  },
+  {
+    "id": "62ac01a65c6513686038507c",
+    "title": "Cambia resultado del GP de México tras penalizaciones; ‘Checo’ al 16",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUzVfeXU4X1FvY05ZUFVMc1J2T2dmLUZ2RW9wZk9SeXpXM3FXd2hOSjJKaXRqWlBUYXJJaDZ4eDhhOUZkRFRsVXFCUFlod1JUaHZWLTVLMVNoYk94RlFQU2t3cUNrY242LTMtMEEtcGJsZjh3bC1Eb2V2aHBDUnBaOFJ1em92UFJwU05WYWx0TWNUY0lmWDFZUGtSVnRwcmpiYzNz?oc=5",
+    "published": "2026-11-02T15:13:00+00:00",
+    "description": "Cambia resultado del GP de México tras penalizaciones; ‘Checo’ al 16 Tiempo La Noticia Digital",
+    "source": "Tiempo La Noticia Digital",
+    "category": "formula_1",
+    "athlete": "Sergio Pérez",
+    "score": 0
+  },
+  {
+    "id": "6d021a9be2d271039d994726",
+    "title": "'Checo' Pérez: Ha sido una carrera divertida, pero caótica",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaHg5dS15d0hlMV9qSndfRGNVOVVMRWV4a0RUMF9rR2ZFSFZJQ3lUb1ZOSVBfOFpKSTlmbS15RWFXVFNWTVF6czRwVzhSZ2RsY1JMbVp4QjVTZ29aVW9HMS10T0hqZWZpdWxMdmJjYVNNaXdZbnhsRno1SzYyUTJUaEVxSHRmaEJSZjFWd2VOTl94dw?oc=5",
+    "published": "2026-11-02T15:12:00+00:00",
+    "description": "'Checo' Pérez: Ha sido una carrera divertida, pero caótica UDG TV",
+    "source": "UDG TV",
+    "category": "formula_1",
+    "athlete": "Sergio Pérez",
+    "score": 0
+  },
+  {
+    "id": "97243d98db32cb96b1597775",
+    "title": "Kalshi Reimagines the Underdog Story with Canelo Álvarez — LBB",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMlhlMHZTckR6RkNORHNvellDa2NjVE9maFJGQkVVRENwbDlOMTFhUW1EMk03N1oyYTNVem12czk0cFFCU25aX0VIZFFRRF9SdE1tQ2JXY0VIeGJJTW1rdnRMVkU0R2toN2JqTUZKV0pHX1lTalVKVG53d2xJN0NuMk81cWpGM0JKZkxJ?oc=5",
+    "published": "2026-11-02T15:09:44+00:00",
+    "description": "Kalshi Reimagines the Underdog Story with Canelo Álvarez — LBB LBB - Little Black Book",
+    "source": "LBB - Little Black Book",
+    "category": "boxeo",
+    "athlete": "Canelo Álvarez",
+    "score": 2
+  },
+  {
+    "id": "76676ef99ba4ec68f2301f1f",
+    "title": "Pérez explains Cadillac pit-stop failure and penalty after missing points at Mexican GP",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbzZWbmtMcDFDTW52WHNTVzJTTkdhYV9WbE9DR1VGM040ZXhwSlZ2VmYxcUZxcm9fdjh1eUIxUUVXMmNmcGx6ZXIxMTZ3QVVNbUoyMGxKWnREb2pRRXNoUlh1dWlTT2pRd0MxVEo5R1JtamM5dU1NUVRrd01BTE1YOFVXWDUyV01YYUtSUGJoOUU0ZWtqRGNrcXBaVlB6clNsR1QzYW1OUER4RXJWSXhLT3B1QQ?oc=5",
+    "published": "2026-11-02T15:00:00+00:00",
+    "description": "Pérez explains Cadillac pit-stop failure and penalty after missing points at Mexican GP Grande Prêmio",
+    "source": "Grande Prêmio",
+    "category": "formula_1",
+    "athlete": "Sergio Pérez",
+    "score": 2
+  },
+  {
+    "id": "25d6ecd7d2a7a8e0a9d7c28f",
+    "title": "Obtiene Checo Pérez el título de \"El Viejo Sabroso\" por parte del IMPI",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRzFWT2tQT1U5OG1ITXViQzZRQnh5cklGYnE3SDlibFpkN3NOa0JMR1NGZzlDcXlnRTQzOTJRMFNzeE5NWl9iLV9uRjdBQnVlMDRocVhmV3FxVzJJSXNiYXFYcUdGQzFLTVRLd1NDS0tqV3ZnZEk1aldlWFRJdE1TMTNhWGNFVEc2Tk9QOXY1VnRiRTVOYnAwV1FNanVNY2cx?oc=5",
+    "published": "2026-11-02T14:59:00+00:00",
+    "description": "Obtiene Checo Pérez el título de \"El Viejo Sabroso\" por parte del IMPI Tiempo La Noticia Digital",
+    "source": "Tiempo La Noticia Digital",
+    "category": "formula_1",
+    "athlete": "Sergio Pérez",
+    "score": 0
+  },
+  {
+    "id": "7a0f6e3ad8cd4e04217f9083",
+    "title": "Celebra \"Checo\" Pérez sus 300 carreras en los Grandes Premios",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb0xkWExOUk03eDhmOTVRQUFUa3ZOLThYOWhHdVZBamFzalBaVnVOUTNrcVRtUGJ2SEE3X1dORFVhQzB6RzdhZGt6Uzd0V0ZmYTlPOE0wV1UtLW9OZ2g4SG5VZGduNmtWQVVxRzBJc29KdncwTU8wNmlnbWNWaEttYmp2WWZSLW02THpTRzgzdk5QczdLbnNfWERPR3FxNmM?oc=5",
+    "published": "2026-11-02T14:54:24+00:00",
+    "description": "Celebra \"Checo\" Pérez sus 300 carreras en los Grandes Premios El Porvenir - Portada",
+    "source": "El Porvenir - Portada",
+    "category": "formula_1",
+    "athlete": "Sergio Pérez",
+    "score": 0
+  },
+  {
+    "id": "8ab8cfe9c086b01c61bb73b8",
+    "title": "Sergio Pérez concluye Gran Premio México 2026 con satisfacción",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbkJrbXlacWFEYWFmMnRMRlBwWE4xYkxxMTdHSzJnbmFMUzY0R0diUEc1cXVCTG90b1k0UHNfS2NjNGZoOWVUdUFBZ0w3MktEblJPeEZkbjFlSU5vM2tIdkxaWFA0U2xaTkk4dHB0VFU3S3V6YzBwbENyNDNNSHNqUkNPZ3ZVTXJKQkFsQm1QSVNlQ1FNYVHSAZYBQVVfeXFMTW5Ca215WnFhRGFhZjJ0TEZQcFhOMWJMcTE3R0syZ25hTFM2NEdHYlBHNXF1QkxvdG9ZNFBzX0tjYzRmaDllVHVBQWdMNzJLRG5ST3hGZG4xZUlObzNrSHZMWlhQNFNsWk5JOHRwdFRVN0t1emMwcGxDcjQzTUhzalJDT2d2VU1ySkJBbEJtUElTZUNRTWFR?oc=5",
+    "published": "2026-11-02T14:51:00+00:00",
+    "description": "Sergio Pérez concluye Gran Premio México 2026 con satisfacción Pulso Diario San Luis",
+    "source": "Pulso Diario San Luis",
+    "category": "formula_1",
+    "athlete": "Sergio Pérez",
+    "score": 0
+  },
+  {
+    "id": "4e6233e254080bf948b6602d",
+    "title": "Grizzlies Rookie Karim López Scores First NBA Points After FedExForum Chants",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQckVDZ0F6SkY4QXBkaWJzcFM3dnVBQWhRZzRSVUlNR0dPbzB1ZWdfcmNmZHpTZ1VXWFBDQzN5SVlMWk43d01CZkxuQ19pV0ZDQmxjRHFuOFkyZXdrRkhzeUVnLTdXSzBxNlA5TXE2M1dWdlVDc2NyaUM3ZFkwTXhTWTJQYnFkempVOXBacEs2NGtXTUJseDRNSmc5bWkzQ0hwenhzczF1TFVHWTkwYUdOakNJMmlGdThJazBMeXo0NEg0Zw?oc=5",
+    "published": "2026-11-02T14:25:29+00:00",
+    "description": "Grizzlies Rookie Karim López Scores First NBA Points After FedExForum Chants roundtable.io",
+    "source": "roundtable.io",
+    "category": "basquetbol",
+    "athlete": "Karim López",
+    "score": 0
+  },
+  {
+    "id": "288f0d195c4cd0d9d1265d20",
+    "title": "Checo Pérez revela los problemas de Cadillac en el GP de México",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUXZFMVdfb1VnSFJKaDRpZ2lueEgtaTl5VmNJNWZEb3A4Z0dQTEtJVWRRS3VuSFFQOGJYcXlRYmVVWUpnazF0aW1KZmE1ZDJMTTAzR1k0QjZxQmd2eFEwSkg5QjVvRWNiTU9NYWFCaUFRTlhJcm5ZazlJS2F2R0FTSFNIWjJQN3dDdTlhQkc5OC1oRUt1ZlZrYlJpaUxvMHJ1d1NYSXFZV0hsMkdWZnpTSWdNM25jRzVKUWc?oc=5",
+    "published": "2026-11-02T13:56:00+00:00",
+    "description": "Checo Pérez revela los problemas de Cadillac en el GP de México Récord",
+    "source": "Récord",
+    "category": "formula_1",
+    "athlete": "Sergio Pérez",
+    "score": 7
+  },
+  {
+    "id": "cdb9d12c235212f66d0e7b2d",
+    "title": "Boston frena a Orlando y Memphis sigue invicto; debuta el mexicano Karim López en NBA",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUTV2blZlcnBVSmc1SDhGRmtOdnRQTU5KcFRjVVNVc2gzeVJmc0JNN1BFZzhCMU5UbE9fVTBnNVl2cTV2Ny10cnRTRkd2SlZSU09Odm92NGRUdmRNY0pKekg4VUl6MjBXZGFJMXpTaWJveXpqVXQwYWc3QS1vakJvOXlYXzFxQzNuanhQN1JXTUNVdThkVmxjQjh6dm16OGNPZnZJSDhmTGNoTDQy?oc=5",
+    "published": "2026-11-02T13:44:57+00:00",
+    "description": "Boston frena a Orlando y Memphis sigue invicto; debuta el mexicano Karim López en NBA Vivavoz",
+    "source": "Vivavoz",
+    "category": "basquetbol",
+    "athlete": "Karim López",
+    "score": 0
+  },
+  {
+    "id": "c496c217bf7e5a58c8a4c352",
+    "title": "Checo Pérez se queda con buen sabor tras carrera en México",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdGY5UHA5UFYzc2kxZ2pwd1lDR2dKMlN4RXNfeDJtQkV2bktTTGdPSlV5bkI4U1JhSEN2NEROX2JJWVZUQzQyazZWZXA4bVZLdk1LVFVoU2RKcjF5Z19oQk9vVlEyc21lVzV2NmFEaUVlT0hFQWc3RUF1ZDB5di05a0NYUkw3cW0zNE8zdThwdlZMbk56MWZoemV0bkptTUhxcnp5NlByQy0?oc=5",
+    "published": "2026-11-02T13:41:41+00:00",
+    "description": "Checo Pérez se queda con buen sabor tras carrera en México Luces del Siglo",
+    "source": "Luces del Siglo",
+    "category": "formula_1",
+    "athlete": "Sergio Pérez",
+    "score": 0
+  },
+  {
+    "id": "d41bbbc7987dc02e031917e2",
+    "title": "Todos los ganadores 2026",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE91UmdFRkZlQ25DMXlKSXN2VEw2eXZINEdVUWREREZmaDBzTFJBN21Ia0NteFlaeGNtb09sdkwxQzRDdnhVeXRaaV93VFNMbkZpU1hURjBieXlkZ05lQW04NFhVc2RFeDJhcFE?oc=5",
+    "published": "2026-11-02T12:51:20+00:00",
+    "description": "Todos los ganadores 2026 Ciclo21",
+    "source": "Ciclo21",
+    "category": "ciclismo",
+    "athlete": "Isaac del Toro",
+    "score": 0
+  },
+  {
+    "id": "3df859ff218ff3901bc7a56a",
+    "title": "Boxing: McGregor Mocks Canelo’s Fortune—But Who’s Really Rolling in Cash in 2026?",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPY2pGTFgtbGVsaUJxc2s4SHZtM0hoamZsT21ycVFSR3dQS2xWY0pvOUpoM2hSbTNzcnJnVTE2WWh1ZU1pSzgyajNrOE5CRi1vZWttb1lqbmJWZy1raFVhQXVVb3AzV2x3ZDdLaDZkSTNFa3Y4elZaSlZLUGluN1VfdkRRQ0QxcWEwQ3p2NEljM0V0a3FZdUpHZzIwTURLQXdiSGsxM0Y1c0pGRmpyVnRPQ2FoeUVtUVZPRTVvYjJjd21ueGvSAcgBQVVfeXFMUHNJeFV6ckxScS1CUzY1SHdjb0JaY0hpSFJwRzQxbGs1RDdXdmFSeEtFWkVIWWFfRkdVbjE2OUdxQUJZMmd1VTdmQUJlbGs0S0N4bUxUT3Q1X2g3N3BFTFBrQkNOOThiV3ZGQ2dOZ2U1WlVBa0NMRFgtM1JCTWJBczdsb3J0X192QmphMEZIckRWS2kzWmhjTlpBRHcwdXRUVkEyMXlvdUJEcVBiT2VVeGdYSkFlLXRYN0VaX0lmaWcxT1pEUGUxVkI?oc=5",
+    "published": "2026-11-02T12:30:28+00:00",
+    "description": "Boxing: McGregor Mocks Canelo’s Fortune—But Who’s Really Rolling in Cash in 2026? Al Bat",
+    "source": "Al Bat",
+    "category": "boxeo",
+    "athlete": "Canelo Álvarez",
+    "score": 0
+  },
+  {
+    "id": "3419b8d9732efbf219ae66f7",
+    "title": "Boxeo: El récord brutal de Canelo Álvarez que ni Mayweather, Bivol ni Crawford pudieron romper",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPN0RiR0p0M3lVV1lZeGhQekZBVlQ4NUlQVzluSDQ5VWFrbkdpTk90TTQwZGNfOWRJX2xzdzNYbDNXTkJIRE5CajZ4dW1KWkg1d1lpUXFLTVVtRFdGQkZQNVNJVzNzU3dmWGpWNC1DVGd5TDNsb3kxQXhHS1NHTmZSNDhVVXdaSE16b0pyLVA3TTFwQUtLTV9VcXp4WDBSc25aM2pwRzBJVFZOR3BsVWFnMXY1LXpzNHdLYThVMVdsNmRmU1poREM0VnhuNS1UdmlPQmFhb0hXRzE1UdIB3wFBVV95cUxPMzB2TXdmb19lODVyYk1SOHNzYS1Lb0txaXYtMkRrN05Lbms5TTk4bnJoLWRPWTdTSTMzYjdhWXlvOXJ6ZC1KUVhRN09VcHY3NHJST21uR1RHX1UtdncwSzZXZ0xqX0lmc0VKVThjSTlvSmhZNktINGtaa1BuOTFFejU3YXltTnFEa0xQM1Z4YWxlVFpWc3JxYS1MWVZLMjU3RFl6c2xnaXFXSGkxX1EyQTZxZmRNMFBmaE02Y1NKVlNPN0FIQ21EdlFNaEE3a2ZsbnFMUTUydzZpYkgwSml3?oc=5",
+    "published": "2026-11-02T12:30:00+00:00",
+    "description": "Boxeo: El récord brutal de Canelo Álvarez que ni Mayweather, Bivol ni Crawford pudieron romper Al Bat",
+    "source": "Al Bat",
+    "category": "boxeo",
+    "athlete": "Canelo Álvarez",
+    "score": 4
+  },
+  {
+    "id": "5dafc3dbcdddd9246eb14bfb",
+    "title": "Boxeo: McGregor se burló del dinero de Canelo, pero ¿quién es realmente más rico en 2026?",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMWE5NWlkZ2ItWENmdmRaZjhneG1qNkZabnU0bG5yTm1yS2FMazBnWmJrUFZZaWNEd3pCWXg5OWdkSDU1N1JUVjd3eG10Z1NxLVFTNWZoYTF0emt5QWs0elgwZHNfeUFycWRtS0l0TkUzYm1USnBpdnF0dUZsWGk1UUtnYko0RlVYeU9YdDU4T0M2V1I3MnpZTlhncXFGamhxeXBucHhidjZDcTNnQWtfMVJBWnhvQndKQTNOSmFCWkQxa2VVdThRUUE1eDRESVFL0gHWAUFVX3lxTFBRU0JIRUtUMnpzcnBhbFVscVEtZnlBN0gtcUVxd0M0QkY3aEVRRnBZQ2VtSzFoU09FbmpZZlFWSmUydFlpRHpjbjlqMExHSm5Cb0dYcDZ3Q0tVZTY3MWZQQ1h3cnBXT2E5T1ItMDEzNGxHU3BhQllCQTdWVU9zZ1lqaUdxSDhuVHBOdzcxbXk4WU91T3l4M2lXSk5HTmxuWl9OZTlXeEtjaDhGTkpyTzUyM0VJU3hsSXo2eEFhajFZT3daQnh6NkJLUTczQUpIbG1VZ3EyWWc?oc=5",
+    "published": "2026-11-02T12:00:00+00:00",
+    "description": "Boxeo: McGregor se burló del dinero de Canelo, pero ¿quién es realmente más rico en 2026? Al Bat",
+    "source": "Al Bat",
+    "category": "boxeo",
+    "athlete": "Canelo Álvarez",
+    "score": 0
+  },
+  {
+    "id": "4213a931572bc4247f3a60bf",
+    "title": "Cadillac launches limited-run Escalade Noir Edition with matte black treatment",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQX21KMm5UQmNEUUljbENiM3JFMm5HN1RFc2tpOXY2LTN3V2V6LWhoblRwVEVwTkk2MFNuenA1N2VBRUQydVhRUnBFQmY2SGNVaURQS1VGSFNsWmQ4Yi14UURYRGYxZVRvOEZraHBFQWhkWTZGenQ4RmkyckhPUWxNR2lNZGtadVU3dUlMZERxeDBxek10VzVJaUp1a2xMM0QyTGwzUWZocWxuMEdVNGIwaw?oc=5",
+    "published": "2026-11-02T11:55:56+00:00",
+    "description": "Cadillac launches limited-run Escalade Noir Edition with matte black treatment The Supercar Blog",
+    "source": "The Supercar Blog",
+    "category": "formula_1",
+    "athlete": "Sergio Pérez",
+    "score": 0
+  },
+  {
+    "id": "a031a5a4b9f8d44f556ec241",
+    "title": "De millonario a la quiebra en meses: Canelo Álvarez revela cómo casi pierde todo",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNY1d4cm1hTlJnT0VqM2VfVnlvVXAza0ZlNFp1ckpUM0VxdHFlU2w4NlBkVE9haU9wbmljbVpPaVc0QkxqUDJPUUo2dUZGTGJ6NTY0bEllRG9XN2ZEQ3pvTkRGMHhxRFJqSmY5TmRUdExhMXc4dG9tYU5mNjhRdDV3eEZPVmJBdEUtMElQNG9rOE1ZM0NYZTV0d0NSTE1tS3NDTFlZ0gGoAUFVX3lxTE1hc0swcjJfRkp2aWpmSUFBc0ZyU25Kd1lQc3NuUk1QNGg4WWMxQUpaUXFEYlAzSjNkeGdtTnFhTTU5VTdjSzFCUFZ5U3R2VDItVjZmcmJ6WEtzdDU4bXRTYld6d1lPOW1sN2NGazhzTkhWRENGN0h1cDBTTDFFQnBuT0szRXB2SGYzcXVOSjNpNWkyejFKQVo0LTlydVM0U2hqWVdPQUlVSg?oc=5",
+    "published": "2026-11-02T11:12:30+00:00",
+    "description": "De millonario a la quiebra en meses: Canelo Álvarez revela cómo casi pierde todo marca usa",
+    "source": "marca usa",
+    "category": "boxeo",
+    "athlete": "Canelo Álvarez",
+    "score": 3
+  },
+  {
+    "id": "4f5b442ae2ecf4609a36cc51",
+    "title": "Deserción y ausentismo en colegios privados se reduce en 2026, según Asociación",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNU40OTRWSElNdEs5UHpnaXIzRE8zNGNmaUs4Zm9SRmpyUXRXcUZpdXNUc0xrN3VvNEpOS3kzeld4U1hXSmdqTkZvekxOVjd5a3QzQjJkQk1ENFhuRWVsUHl0bWNUazF4REstS0pGcTZDMWpYSTZQSHNhQWViUUhqU2I2eU9ab0Voektpd0doV1Bzb2lzN08wMkhKUlpscVBEVDNmOVBHTEdfMTctbEI4VFBtMTladkFJdHBScC10Z9IBxwFBVV95cUxOWWxuNWptcUJzbk14NGVPdm9jTmd1Z2s5cXZNb3BYZWd1dkxjZ0wxUHYxcXVVYTNpeFdaOVBaNmM0M1RNdWpKeUw4d3pDRmNYR0RvUFk4bTJEN3RBeGNpZnp2enM1MWc1Q1NKdjRCbmNyWnlmTVBURTBIaUNuU3lDOWtyYnFqRlBFMFVWRjFrNlFJOHhYVWdlXzZJeXBvcVBDVVpkMjRFU01BYnFla0ROOXE2bTFJR3pLdDFSRXh0amNpVTF0YmtN?oc=5",
+    "published": "2026-11-02T10:51:20+00:00",
+    "description": "Deserción y ausentismo en colegios privados se reduce en 2026, según Asociación Diario El Mundo",
+    "source": "Diario El Mundo",
+    "category": "futbol",
+    "athlete": "Javier Hernández",
+    "score": 0
+  },
+  {
+    "id": "93d8c33bf640ac494a32f5f8",
+    "title": "Canelo Álvarez, boxer, offers advice about money: \"I had 10 million and in six months, 100,000; before you know it, it's gone\"",
+    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOa2laa2ZuckFQemZlUWg0aVRQVkdyNDVrUUZQXzdLRHM2SVJyeE9kUW40SUQ1LXptbkZQMjBuNkE4MGpaanpXODBzWTFaVXQ2enllb0pZeDFjMVh2cVlrTlRkVzVSQ2dSQ3BZVFJPNmN0UGtRUTJjZjFCZC1mUjV2UE1JSmQ4UkN6Um4xS3dEcW1SNUJOV3Y2QXBVSC1xRFM5bmhfUlZ6bmFhRDFrNzZaYTJUZzJINE1nTFp2U214Qk9CYWhYanhMWWtHZUoxQTBOQWRseEluUWZrMldaQ21MQXBkQmJiZkRqS2g3OWZTSUpHejFCLXQxRlhn0gH6AUFVX3lxTE1Ec1c2M0pIdmdNS2xIQkt2emdlUlNOV180OXhBb0lqNzVRQUhpaVVDd2Fha0RoajVFWkhBS1Zzd0d3eEREa25iZXBLVWkyLUJfZ2FHOUVraE5uclc1UzVlSmlVUERJbHlfZzhTRVRVcjRudUdreGpLNmg4TmdSYmhWX2xLa2poeTJQcnZ4dnU2UVYyTUdncTgxUjQtSHg4NU9tbWUxOVBMQzdnRGNXblloQ0xiamNjRjd0ZmtTUFlkVU9KZ0UwU1F1TlotV0xtZTNfZmh1NWp5V2ZVazNhaFhXdGxfNTZRSDgwcUlQUGlNcnA2bUVmOGFCMXc?oc=5",
+    "published": "2026-11-02T10:20:25+00:00",
+    "description": "Canelo Álvarez, boxer, offers advice about money: \"I had 10 million and in six months, 100,000; before you know it, it's gone\" MARCA",
+    "source": "MARCA",
+    "category": "boxeo",
+    "athlete": "Canelo Álvarez",
+    "score": 0
+  },
+  {
+    "id": "305bc88b90ceef5f2e0afd39",
+    "title": "El estado físico de Canelo, antidoping, despiste de Sulaimán, ¿Mbilli carne de cañon? y otros temas",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOM3VzTDZoOXpKOE5TRGpDZkhKWUl4aTJ4V2JBR2NiblVXSTMtdjhMdUllRS1BQUYwMjgtbXdQWTNSZVAxTWh4aWxBZnNDNTJYZFU3SUh0SmZmbUFzVDd2LTg4WFZuWnNTZnE1UTlSaC1kcWRPSXFrcGtmUU5MTFItRUtuXzdiUXhjRGlnSENxVGJweFBzZkJ3eTR3eVN0UDNfNklkZzdfRDByMFRfT0pxZ0pCTlJqeEwzU3I4dU9GMXlBN3VBbFRiZHd3Y0U?oc=5",
+    "published": "2026-11-02T10:17:24+00:00",
+    "description": "El estado físico de Canelo, antidoping, despiste de Sulaimán, ¿Mbilli carne de cañon? y otros temas Solo Boxeo",
+    "source": "Solo Boxeo",
+    "category": "boxeo",
+    "athlete": "Canelo Álvarez",
+    "score": 0
+  },
+  {
     "id": "a7cf84dda5f270aa9b93e1cc",
     "title": "Saúl Álvarez vence a Mbilli y recupera el título supermediano",
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRXBMU0JvenBiV05yNEN4SHMwdFBBaExpYjlaME5YVE9wZVFYSHhIM1hHSG1PcjJXZ3pnai1OS0lLQXl1N1N1azRxTUw3N1E1UEV5MEpmcDVRcHZadURZYUZGSnAtLVV3UlZnTHFZSHpBOUZjQjE1MHVzNHBzZG9SbURMSFEwOVJkel92LTZmX0FDczZBbTVXanVtd3B2cW9XS19lc1REVXJEaGF3eExF?oc=5",
@@ -30,6 +426,17 @@
     "source": "El Vigía",
     "category": "basquetbol",
     "athlete": "Karim López",
+    "score": 0
+  },
+  {
+    "id": "13342359f43048d97bfa7351",
+    "title": "“Checo” Pérez se va con buen sabor",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAydnQzYjNBTHBiOWd5YzNZVjhuckdxeUk5WlZJMU1Lb2VHcF9PQUcwSGFfM0dBR2xHY2dPU0Z5TzBuSjZiS21vLWhjSVVqVW94WUZjcS1ZVVBLenV0cVRPaXduMnFXZkI0ZDY5N3kzYVIzdmh2U01TU9IBfkFVX3lxTE9BVzN6YTZvVk43XzJNcnV4dk9nM0RxNFozdXdKb3VzNzVNcFpQWGVCUkhVR2x3RWx3bzFEODBPd0Z2QzdZWU9DbWxQRTBYSlVXcU9rVjdYMUlDS0NRX3lWMXB1LUNmTjN6TUxqUDE5UFJqZmh6VFVWQnUzME0tdw?oc=5",
+    "published": "2026-11-02T08:00:00+00:00",
+    "description": "“Checo” Pérez se va con buen sabor Pulso Diario San Luis",
+    "source": "Pulso Diario San Luis",
+    "category": "formula_1",
+    "athlete": "Sergio Pérez",
     "score": 0
   },
   {
@@ -85,6 +492,17 @@
     "source": "Foro3D",
     "category": "formula_1",
     "athlete": "Sergio Pérez",
+    "score": 0
+  },
+  {
+    "id": "d626daeacd2b841c6bd93294",
+    "title": "Hirving Lozano y Sergi Roberto adornan la victoria del LA Galaxy",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONERNb2RyUUFZenh2T253X3ZiNjdhY1pPbmZqZnNTdmg4VjNldUdrekNJQXFYaFNFVHAxR0R2UEVrdTFaT1JvME9ZTnpBT3JGX0Fid3JPT2czbmJ4bUgwVjZGVlp4YUJZWkxnaWg4dGplYWtFNW11Q0Fkd1pkdEtyblEwNlBXeGs5U3N5TEFtMW4zcEQ3OThYNUw3Y1ZSRGJhdlRR?oc=5",
+    "published": "2026-11-02T06:15:16+00:00",
+    "description": "Hirving Lozano y Sergi Roberto adornan la victoria del LA Galaxy FOX Deportes",
+    "source": "FOX Deportes",
+    "category": "futbol",
+    "athlete": "Hirving Lozano",
     "score": 0
   },
   {
@@ -165,12 +583,34 @@
     "score": 0
   },
   {
+    "id": "d9f180dc1a4c849e3af97bad",
+    "title": "Checo Pérez registra su apodo como marca; en estos productos usará el piloto de Cadillac su identidad comercial",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQc1NZSm1EbDRwYVpBS2xvWDhIRlhZWlZrZXNlTGVJUXV4VEhjZFhDOU4yR2ZleHZvWkpMWjZHUEdtT013NndWY0FrZUtwYllNcjFIdS1HUlkyWVl3Mk8wbF80MjY4RENLa0hjajRPaDZwR3Vyd1c0THMxWnlzbVF2TE1MTndfRE55eVBQbndvMllIQWFrWW5VaXlpWU1YeUtmenV1amV1cFBqcVJrOEZITG5KV2ZtM2pxenRaT0VFdFhKcUN0RDRqSEZnOVRWejNaa2tQbjdUTmbSAdgBQVVfeXFMUHNTWUptRGw0cGFaQUtsb1g4SEZYWVpWa2VzZUxlSVF1eFRIY2RYQzlOMkdmZXh2b1pKTFo2R1BHbU9NdzZ3VmNBa2VLcGJZTXIxSHUtR1JZMllZdzJPMGxfNDI2OERDS2tIY2o0T2g2cEd1cndXNExzMVp5c21RdkxNTE53X0ROeXlQUG53bzJZSEFha1luVWl5aVlNWHlLZnp1dWpldXBQanFSazhGSExuSldmbTNqcXp0Wk9FRXRYSnFDdEQ0akhGZzlUVnozWmtrUG43VE5m?oc=5",
+    "published": "2026-11-02T03:05:00+00:00",
+    "description": "Checo Pérez registra su apodo como marca; en estos productos usará el piloto de Cadillac su identidad comercial MARCA",
+    "source": "MARCA",
+    "category": "formula_1",
+    "athlete": "Sergio Pérez",
+    "score": 0
+  },
+  {
     "id": "651c6e0a36d920a495e91c15",
     "title": "checo-perez-gran-premio-mexico-sanción-alpine",
     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYXVlX0Zzd3RiT0dJeU8zaXJIWlZxYll0YVFUQUVHNk1mb3pMU2Z5Z3AtN2I4VHJUSzBNTEU0enV2NTEtRXJ1N1RGM29Hbk1lR0ZpRDJ5TGR1bVkxcVlfV2NQY2pSSWxlOGxSS09oYmhBZFRXR3YwV2lmbUlLU3l0YjRmSlJOSkNFLWFLNWhxaXXSAZABQVVfeXFMTmF1ZV9Gc3d0Yk9HSXlPM2lySFpWcWJZdGFRVEFFRzZNZm96TFNmeWdwLTdiOFRyVEswTUxFNHp1djUxLUVydTdURjNvR25NZUdGaUQyeUxkdW1ZMXFZX1djUGNqUklsZThsUktPaGJoQWRUV0d2MFdpZm1JS1N5dGI0ZkpSTkpDRS1hSzVocWl1?oc=5",
     "published": "2026-11-02T02:52:56+00:00",
     "description": "checo-perez-gran-premio-mexico-sanción-alpine Mediotiempo",
     "source": "Mediotiempo",
+    "category": "formula_1",
+    "athlete": "Sergio Pérez",
+    "score": 0
+  },
+  {
+    "id": "76c77c722f59f60738c47d05",
+    "title": "'Checo' Pérez asciende un lugar en el Gran Premio de México tras sanción a Alpine",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbG8zYUs5aFN4WkY4WEVkLVRVTTBfUlNFUi0xbWRMenVXaFBCcm4yNUZhRVBHWERCdWt6WlRINFdIeXlUUl9WcG14c1ctM2tpT09kMU1IQU9uVHBhVlVMVzRWdmJNYjV6dTRoNkRUOW16aUNlOWNNdml2WU5iUlhEakJ6czZIbkpLM1E4VjhZR0FFaVJfRzdoZXd1ejLSAZwBQVVfeXFMUFJmVm1xMzFjbnY3WEV1a1lYOGxRVWJYLXFiQV9ETDNvc0tBSV8yb0RQQkdIbll1a240bmgxZFE5cjdJcENaa21UbXl3bllOTUpxdmtZLWo4MkVmREZVdmhsQ0J2eVJNTVRYZWJYQl92eUJDdEFIQ1lYaU5FRjhWY3phZkRDZ1NsUUZQMC1EekpnUjJPcTlWVmVzMXE4?oc=5",
+    "published": "2026-11-02T02:45:00+00:00",
+    "description": "'Checo' Pérez asciende un lugar en el Gran Premio de México tras sanción a Alpine MILENIO",
+    "source": "MILENIO",
     "category": "formula_1",
     "athlete": "Sergio Pérez",
     "score": 0
@@ -308,17 +748,6 @@
     "score": 0
   },
   {
-    "id": "276d3c02065e6fa2be3c9383",
-    "title": "'Checo' Pérez: Ha sido una carrera divertida, pero caótica",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUU92OHlwaFlXcDB5MW4ya3YxNjR1aHA1aDJ3YmU2WVhZbVhvbWN6RUFKN2VTSnVFN3EzOHlQTXBIMW54RWlsekgtcm5CN3BtWjdCZ3dDWG1QTFc0cmlRek5BQUhRcExUeUN2ZFcxNkxBYWwtOWhyZ1hnRkRTanVFbTduYVBqeWJhUS1TSENwc3p0M3lxc0ZQeHZReldmWGh3ek9ZZVF6SQ?oc=5",
-    "published": "2026-11-02T01:16:00+00:00",
-    "description": "'Checo' Pérez: Ha sido una carrera divertida, pero caótica Yahoo",
-    "source": "Yahoo",
-    "category": "formula_1",
-    "athlete": "Sergio Pérez",
-    "score": 0
-  },
-  {
     "id": "d8a75a43e4ff0b255eb8ec25",
     "title": "“Fue un milagro”: ‘Checo’ Pérez analiza su accidentado Gran Premio de México tras llegar a 300 carreras",
     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNLTQ3V1R6eFVPenRVSUhOQ2hETlVDZkxpTHVBN2NqdnJkTXhsbFpmUlZWSVBjTU1BT1Z4ODhMOGFWNEMxakdoX2xmcWd5TEstOWNaeDhsdEsyc2hBZEl0OGtEc1JFOUl3S2ZHTGw3MFJDZHRTNU9OYVVVeXRMSFJvNDVfb3BuNlhXUXA2UEdUX3VhQ3B2Y1plTVBvbmtmUHR4NExONWtoczJmdGlWTFBYWGxqT1QzNnJfTmNzT3k5RGJYcWo4?oc=5",
@@ -347,6 +776,17 @@
     "published": "2026-11-02T00:54:11+00:00",
     "description": "‘Chucky’ Lozano regresa con gol y puede ser el inicio del repunte que necesita el Galaxy vanguardia.com.mx",
     "source": "vanguardia.com.mx",
+    "category": "futbol",
+    "athlete": "Hirving Lozano",
+    "score": 0
+  },
+  {
+    "id": "4bd57ad64f932028a3b0624e",
+    "title": "Chucky Lozano: Gol clave para el repunte del LA Galaxy en MLS",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE43c1Jpd3g3SDdsb3R6LUxGY1UtbGNrVWdWbTRVcnNUa09FR0xWVmhxYTRKRVFoRmNIb0Z3SWEtUG5SeFE5OGdsdkw2OVVLYkNSN0o3bTdIV2t3U2N3ZHFvQV9RdjdlTFcwbHRxczkxSGk2bUJvSktWSQ?oc=5",
+    "published": "2026-11-02T00:54:11+00:00",
+    "description": "Chucky Lozano: Gol clave para el repunte del LA Galaxy en MLS estrelladigital.com.mx",
+    "source": "estrelladigital.com.mx",
     "category": "futbol",
     "athlete": "Hirving Lozano",
     "score": 0
@@ -424,6 +864,17 @@
     "published": "2026-11-02T00:13:00+00:00",
     "description": "\"Fue una carrera milagro\": Checo Pérez alaba su regreso al GP de México MARCA",
     "source": "MARCA",
+    "category": "formula_1",
+    "athlete": "Sergio Pérez",
+    "score": 0
+  },
+  {
+    "id": "519941f594f1c6be4b67a6f7",
+    "title": "Sergio Pérez aseguró que volver a correr en México fue una gran experiencia",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVDNNNllzSFV4MmhoVDVSNW4zSkExb3QzTlROVXJUT0ZwOWU3eUYwVVhGbDl3SEhLM3pGbUhqcjdiM1lza3VfaEpDaGVfeERRdDN3aHhOUGlYZm9XclAtZG4xSUVNRFVSOWlDV1FMS3pTc2ZXbGE2a2pmOGFDWUR6YnlsNnd3aDBmczdIS1VZcDlVdEhPMjlkeDVJVllzT2ZjbW9iR2ZCc29VWXJaTGNxcG1lS3ZnUkdS?oc=5",
+    "published": "2026-11-02T00:10:36+00:00",
+    "description": "Sergio Pérez aseguró que volver a correr en México fue una gran experiencia 88.9 Noticias | Noticias en Vivo | Información Que Sirve",
+    "source": "88.9 Noticias | Noticias en Vivo | Información Que Sirve",
     "category": "formula_1",
     "athlete": "Sergio Pérez",
     "score": 0
@@ -704,17 +1155,6 @@
     "score": 0
   },
   {
-    "id": "246c015bceb8b3f34a447658",
-    "title": "Max Verstappen vuelve a ganar en México, Antonelli campeón y 'Checo' Pérez llega en 17",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNLXpWZVpYS1NlZFUxcUVwUTBrTEctTkdTaVJLSzB3MjJFWDVZWHlvM3llNlZIay1XQkx0aWtMLUdjX0xwMkFYVGFKSzFWVnhYOVRCcFJMOS16aXFReGxIN3hENHMzVVBPSlY5b3lyYWhHRkJiV194SEdpNkNJS2RTbmRYYWlNOE1saEQ0YzF3T3lHYWRRdVN4NFVRMkt4b1hnckxUOW1oSnd4LU0wYmtqbGRScDdxRU1ueThHS2xVNFFiYi1HdXFxMmVvMlPSAdIBQVVfeXFMT0lod3ZLNW9ubXhfTElqeTR0T0xtWkFiSnRPbzRXYlppSlFfQ1JibXB2M0Q3Tzl5NlJDVUE4ZnJWNW84UzNDTmk5bEV0c2hFbjBZLWZHZUtldlNvaHVFXzlob19wSHJBd3MxSS1wV1RwVzJYVm5tSDZPN2FJMnFxRXBscERIcDZDTW1aRnNsNGNjY3dNVjhqV2JkOUZ5SXptZUZRTmVuRDlTQmQtX2o5TWdoY0ZqR3JocmVBVlJuYWZUTEN3RjVJTFI3NG9nYy0xVE1R?oc=5",
-    "published": "2026-11-01T22:28:42+00:00",
-    "description": "Max Verstappen vuelve a ganar en México, Antonelli campeón y 'Checo' Pérez llega en 17 Excélsior",
-    "source": "Excélsior",
-    "category": "formula_1",
-    "athlete": "Sergio Pérez",
-    "score": 0
-  },
-  {
     "id": "eec34b9214fcb3a3b5ad0b89",
     "title": "Resultado de Sergio Pérez hoy: así han sido las carreras de Checo en los GP de México",
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQTBIdE40RnVUeTFYSXd6ZmduN0lhWUxBRjBNTDlkNzc1aGYzTTFmeVdpdnFMcXpsUzZJbDA0Q1ZiaHdDR1p5UGRzT2doc3lNV2dIOEhUSkh3M25HNFNlbnhoenNwR1dHS3lwQTFHU3JINlhrNW9VWU9yWGZobFBETkZTMEc1MEJzMEpFSGlKU2hmUDZFRUxGamxBRGVlc3N4LVItMEZOTGpyTmJIbGI2SU1KLU9PNzlvTmhTejlPWUrSAdQBQVVfeXFMTnJQZGU4ZERUTDRjSWVwYVBfWXBsUENjVmNFT2hzRUxBR3ZVMkxLRFFTY0w0bVd6MVAySWpLaGI4eUlMUjJkSFRQcFl0ZnlSaVc1U2MxY0t3aFZjbS1kM0oyWURJQ0VxYzJnNWJERzc2bFZ3QU05WTJWVW9LdmJnR3UzdW1KOWlBNThaV0xXdnlOcXg5TUZkajhyLVlKS2szem5CNHBDRXF4Tzl1VXdENVg1bE1hNlhjRnV4bUtUUUlqNHJDSmpYRUpYU2xHZEx3c2gtQ0s?oc=5",
@@ -977,17 +1417,6 @@
     "category": "boxeo",
     "athlete": "Canelo Álvarez",
     "score": 3
-  },
-  {
-    "id": "3d4ed68450c85af457090884",
-    "title": "Checo Pérez registra su apodo como marca; en estos productos usará el piloto de Cadillac su identidad comercial",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPeXlQNEx6SVBPajZSVUR1NEExWjFwYlkzQmdQaG40NEJ4d3NtS0tDNlQ3Yjk3dUdOR0xmcW9nZXphdnVaYjlBYnl4SEJ6Smc1bV9EODNDRC1KYlRESE1YLXJWNUFnQjgzX0JmMW8zZ0M0aXVFaWNYSGZHNFY5cEllMDhFSDl4cXNnSUtRVVJGSXFrajg3Z0lsTjd2VC1weVJUUmFPWTNLOXRGcTVBVDhBMHJNRWNiNk81QVZxTmZBUnUwM3dxS3NoRHJJVGlEUHR2eXZ4bFZpcDg?oc=5",
-    "published": "2026-11-01T20:05:00+00:00",
-    "description": "Checo Pérez registra su apodo como marca; en estos productos usará el piloto de Cadillac su identidad comercial MARCA",
-    "source": "MARCA",
-    "category": "formula_1",
-    "athlete": "Sergio Pérez",
-    "score": 0
   },
   {
     "id": "0cfc566f1e057b1e48ac3184",
@@ -2013,6 +2442,17 @@
     "score": 0
   },
   {
+    "id": "0be7d0b3f62516508a29ef6b",
+    "title": "Actores de 'Física o Química' arropan a Andrea Duro en su boda",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcUxVa2NWdnRiSzk3bHdjMWdnTFBzTi1vMzhnSFFPTGpYd0pHcmZKdi11dXViRHJQYnJYbmVaYVlOcmJ1MGFic2JjRWJVZldueXA2cWRudll1OG5BVjM3YkM0RmY2dDVaUmFQVVdMNWlVUXF6MjJnUGtWSG9ZNEtwUzZ5MnQ1Z3RWN1dGQnpYNjFLRnFfaVc2VjRDWVVlaF9NemhGV0NnUlk1SUE?oc=5",
+    "published": "2026-11-01T11:43:13+00:00",
+    "description": "Actores de 'Física o Química' arropan a Andrea Duro en su boda Europa Press",
+    "source": "Europa Press",
+    "category": "futbol",
+    "athlete": "Javier Hernández",
+    "score": 0
+  },
+  {
     "id": "131cd7e8f4f3012e067c1e22",
     "title": "Canelo Álvarez derrota a Mbilli en una pelea a la medida y su próximo rival está en la mira…",
     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbnl2cVNOY2JNU2N5dTEwcmRLVHZuUndNSlBsZU9iUHcyWEwzMENpUEV0ek5RcTk1ZjdZUGx2N21GSmZMb3loRDhZTDNEQXRqanRNS193eWdLUk5HMnNiYVBNeUQ1eXZwVXlfWXBHaVpwT1g0OGZUZlVpMUJzdkE3djIwZW03Z3Y0M3lDSUZKNkhyTXlkalQ1UmUwMHZzWWhCLXJUdDBIZmVaVFFVLVhjT3doUUs3dWVp?oc=5",
@@ -2021,17 +2461,6 @@
     "source": "BoxeoMundial",
     "category": "boxeo",
     "athlete": "Canelo Álvarez",
-    "score": 0
-  },
-  {
-    "id": "d4542e83edbdd4a37d6c933e",
-    "title": "Actores de 'Física o Química' arropan a Andrea Duro en su boda",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVXBDRDQtYU9vYXVwWVlhU0tkalgxSjJvOWFKeTcyYVJfT1puUHhNSEVBNTFIZWpLWU9ENnU2N1d4d0R1cHZMR0tXSkwwLTRZRGR4VjFTMlBKWVRrZmFIOXFtVE51ZTFobmRYWjlpNXJkNkotRGNmNEFvUk00UGR5ZXNEc080Z05rVWM2TkNLQXRxYy12eUZnZzhfUVhIcnlrWDZINXBNeHFvdUNPNldj0gGvAUFVX3lxTE9VcENENC1hT29hdXBZWWFTS2RqWDFKMm85YUp5NzJhUl9PWm5QeE1IRUE1MUhlaktZT0Q2dTY3V3h3RHVwdkxHS1dKTDAtNFlEZHhWMVMyUEpZVGtmYUg5cW1UTnVlMWhuZFhaOWk1cmQ2Si1EY2Y0QW9STTRQZHllc0RzTzRnTmtVYzZOQ0tBdHFjLXZ5RmdnOF9RWEhyeWtYNkg1cE14cW91Q082V2M?oc=5",
-    "published": "2026-11-01T11:35:25+00:00",
-    "description": "Actores de 'Física o Química' arropan a Andrea Duro en su boda El Correo",
-    "source": "El Correo",
-    "category": "futbol",
-    "athlete": "Javier Hernández",
     "score": 0
   },
   {
@@ -2296,6 +2725,17 @@
     "source": "MILENIO",
     "category": "futbol",
     "athlete": "Javier Hernández",
+    "score": 0
+  },
+  {
+    "id": "85e42448a38a8e291556f632",
+    "title": "Boxing: Canelo Álvarez defeats Christian Mbilli and reclaims the WBC title",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNUFXVklnZVhHMGpxTGdGS2tCZUthVnBBWDVxbFE5U09xaFJGbk96SzlxRmxHNmUzakgxamxSLXdydTZKMjJaTlV5NFlHWUtCdVdZak5EbVRXM3VIVUx3cVFkNFdMM1NOZ1JFY3Bka1Zic0JIakd6MXVGTGFhWUFRSVpGNXJXV0pqcHctdHkyRFVTOGtZakNZVnU5QWppeTlzSmc?oc=5",
+    "published": "2026-11-01T07:18:14+00:00",
+    "description": "Boxing: Canelo Álvarez defeats Christian Mbilli and reclaims the WBC title beninwebtv.com",
+    "source": "beninwebtv.com",
+    "category": "boxeo",
+    "athlete": "Canelo Álvarez",
     "score": 0
   },
   {
@@ -2574,6 +3014,17 @@
     "score": 0
   },
   {
+    "id": "48776c7075de1c5175b18141",
+    "title": "Karim López consigue sus primeros puntos en la NBA con los Grizzlies de Memphis",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNLWpYY2lZNHA4WFRrdC0wanRMUFpaN0ZZVnpEdHd1Y1hxOFB4NlJXWlh6OXBRa1RJNEFtU3ZUYjV6R2R0Nm1Gb21wNzBXRjdfUE5wNmpENzk4NGYwVzhmOUFDcThtM2o1RDN5b2NHUHFxVnlqQnJCb29RbHd4RHVKQi1EUXpVMUpibVlQQTdrYlBSMnBBLTZ4VElkZ21qS2ttOW5ZcldyaHhtdllsa3NsVjFqZ0pMRktOYkRpY1ItemhZb2Q3U2lmdFZNb3o0OHc?oc=5",
+    "published": "2026-11-01T04:02:00+00:00",
+    "description": "Karim López consigue sus primeros puntos en la NBA con los Grizzlies de Memphis La Jornada",
+    "source": "La Jornada",
+    "category": "basquetbol",
+    "athlete": "Karim López",
+    "score": 0
+  },
+  {
     "id": "ee746e62810d09d60d928d5d",
     "title": "“Sigue siendo el mejor Gran Premio del mundo”: ‘Checo’ Pérez sobre el fin de semana",
     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYU9PdTByRHh4MUJxM2xwMzZwSHZKRGxyZ3pVOS0xaHcwUVRheUF5TU5jSDJPZVRyYWRKTFdPdVA4QlJsZWNsSW5HWlE4amJBaEloVFJsT3JfX050RGtKMi1vRDdUM2tBdU96alRSYzMzQ0tWQUo0dUlrZFdfbE8yVEI5dUhBTTJGNEVOTHlvU1FZSDVxRmh5NmJzT0xWYzhnVTgtZ2FpRHpVLXlQNEIyWHZTck45R3U0MGlEM1VNZkY0RlZlZXhlQ1phdm9lZXI5cldRYzNpZkI?oc=5",
@@ -2778,6 +3229,17 @@
     "published": "2026-11-01T02:15:00+00:00",
     "description": "‘Me sentí como cuando gané mi primer título mundial’; Canelo Álvarez tras derrotar a Mbilli Fox Sports",
     "source": "Fox Sports",
+    "category": "boxeo",
+    "athlete": "Canelo Álvarez",
+    "score": 0
+  },
+  {
+    "id": "bb791e02779d5eb6ce2cad27",
+    "title": "Canelo Álvarez Drops Huge Hint About Next Opponent After Mbilli Fight",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNT0VlMEI2WTNkTzlwNF90WnEySTFvMndnOU1Sc05WdGxnd0doSTU5aktzaUJxNFFWOVhzQjdpNDdwMzk1V01nLV9YMm1iNHVDNDJCMDJRazBkZ3RqbVBMel9oUXM1TnhRSTFZNlcxbXExQURfTWJ0R0YtSXRUYm5VMHJjUzJ0R29MTVFxdVhLV1J4S1VmR0dUREZNdVdoVlg0STFsNTZxUWZ4QmRRenZzV0otNGnSAboBQVVfeXFMTVFEVlNPb0llbmtXS1VRSEVzZU5teDVfSXRoRzdXb0JGYUlPeFRGNzVrSU91Y0c4dW5hUFpCcmhIUjhrSF8yR01YMG1adFNKUUl3dGE4UmVGeVcxc1YyOWlfVnl5TmJaQkpENzJiaXM4Ui16UlBSdHRYZkEyR0VKbzlkbkZzYTFDbUVLTGJQWm1RUERLOGktbkE5MEdKYTBMOVJ0M2hwWmNWSkprME5jeFdhNWlVQ3haU09B?oc=5",
+    "published": "2026-11-01T02:10:58+00:00",
+    "description": "Canelo Álvarez Drops Huge Hint About Next Opponent After Mbilli Fight RingSide24",
+    "source": "RingSide24",
     "category": "boxeo",
     "athlete": "Canelo Álvarez",
     "score": 0
@@ -3069,6 +3531,17 @@
     "score": 0
   },
   {
+    "id": "84248507e25d2bb37524daf7",
+    "title": "Chucky Lozano sacude la MLS: vuelve tras su lesión, marca con el LA Galaxy y apunta a la Selección Mexicana",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObUVJT1p0ZXlzbjlaUDhGRUJvZzZrWTgzVHktb0VGckpDTTVTSGprOHNqNk10Z3lSZFpPTEIwWF94YjBBWG16eThmOWQ5Z0o1OGh0blZqSFhUQVZRS0xjemdjV0RIR0ZWTk9aQk1pLUR5bGtfN2E1cE5hUkdrWUlHRXhMSHdydkdHR0doelZCWEJzSDNfbHVPa1AtdVpaT0ZXaUFSMXJsUVdhQ21UY24tZWZoWUlXWmM4T0dQcnR6M2hLWDZJR2tSeGpEYWhjdlc3SENiVEwwc2bSAdgBQVVfeXFMTm1FSU9adGV5c245WlA4RkVCb2c2a1k4M1R5LW9FRnJKQ001U0hqazhzajZNdGd5UmRaT0xCMFhfeGIwQVhtenk4ZjlkOWdKNThodG5WakhYVEFWUUtMY3pnY1dESEdGVk5PWkJNaS1EeWxrXzdhNXBOYVJHa1lJR0V4TEh3cnZHR0dHaHpWQlhCc0gzX2x1T2tQLXVaWk9GV2lBUjFybFFXYUNtVGNuLWVmaFlJV1pjOE9HUHJ0ejNoS1g2SUdrUnhqRGFoY3ZXN0hDYlRMMHNm?oc=5",
+    "published": "2026-11-01T00:47:00+00:00",
+    "description": "Chucky Lozano sacude la MLS: vuelve tras su lesión, marca con el LA Galaxy y apunta a la Selección Mexicana MARCA",
+    "source": "MARCA",
+    "category": "futbol",
+    "athlete": "Hirving Lozano",
+    "score": 6
+  },
+  {
     "id": "fd30eccd1c98f96588f5fe63",
     "title": "Boxing: Christian Mbilli defiant against Canelo Álvarez but loses unbeaten record · SNA",
     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTUJUaGUxbl9wZnRUbTl3cG81NFFlWlF2UkR5QkRYR0MyMlE2NWtJMC1iLW0yVnE1djVRdXBHTC1GZWY4c2hhYXpUeFRxOUVTOVIzaUVUdjlIdVNLOUxZV1plWUNQWGpJczV4VWJpdTRCcEZYUFNFbU8tQlNuOHI0Vjd1eXo2b1lMLVFvTVhqY0FWcV96RlFDQUNjNXZkRk85Q1pHOEFWT2dRalV0MHQ3ZHdzSl93RWV6?oc=5",
@@ -3110,6 +3583,28 @@
     "source": "MARCA",
     "category": "formula_1",
     "athlete": "Sergio Pérez",
+    "score": 0
+  },
+  {
+    "id": "fb59a48317a61c12c62800b3",
+    "title": "Canelo Álvarez undercard trainer voices concerns over Riyadh fight taking place",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaDEwSVVyVS1nZGVvX01qbktNLUdSd0tqVzVvUHVYQ0hDZ0U0WmR0cE1tb0lkU0dkblNMNlFrRUl5VG8xM2M1bkhaSEF4X0ZHMzlRR0pkdmpRTGUzaHU2QWhmdE8yMkNYWFVMSUhsRjBDWXNUTTJMaExZYTgtLWNpOE1ybW1ISFA3ejllTHNNSlZhVzZwSlhwS0R4WHgtOVpnX3FDWlZB?oc=5",
+    "published": "2026-11-01T00:28:00+00:00",
+    "description": "Canelo Álvarez undercard trainer voices concerns over Riyadh fight taking place The New York Times",
+    "source": "The New York Times",
+    "category": "boxeo",
+    "athlete": "Canelo Álvarez",
+    "score": 0
+  },
+  {
+    "id": "7b4207d2d5ac28d7d7386d45",
+    "title": "Terence Crawford takes place atop boxing world with win over Canelo Álvarez",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaWlZeTlMZG5YQzdXYXRTQUdSQmp5b21oQXZsUjd2TnlkTEF2RXV0d3JtMnZzQS1HT0VnbUI4b0lFU2lvUTVldTdoaldTVU83Tjd2RDNRQjNiWjZvLVdqR0VtaEZ5OWI0bk9wX1hnUUVZYlAtRHVGYklyR1BUdWp3ZHRKYmFSdGFPMVpuYlhlV2pWSGhPVHpuS2E5RFRfQQ?oc=5",
+    "published": "2026-11-01T00:27:00+00:00",
+    "description": "Terence Crawford takes place atop boxing world with win over Canelo Álvarez The New York Times",
+    "source": "The New York Times",
+    "category": "boxeo",
+    "athlete": "Canelo Álvarez",
     "score": 0
   },
   {
@@ -3195,6 +3690,17 @@
     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ocHM0cXpqZ3g4WkRpYWwtQUZMMkRJRTc5b2pvTmlRSzFUVGpYc0trZ1cwRU5KUWRaLVVaTDZ2azJOWjFsN0pyUHFLbnVTT3Fm?oc=5",
     "published": "2026-11-01T00:07:54+00:00",
     "description": "Canelo Álvarez regains WBC Title as Riyadh card concludes without incident at Crown Jewel venue POST Wrestling",
+    "source": "POST Wrestling",
+    "category": "boxeo",
+    "athlete": "Canelo Álvarez",
+    "score": 0
+  },
+  {
+    "id": "8499d5cc88e7870aa0314ef4",
+    "title": "Canelo Álvarez regains WBC Title as Riyadh event ends without disruption at WWE Crown Jewel venue",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZEZtVGRvdHpwVXY4T3gzTTh5MS01VngxRkppM2dVU0VCRXJpSFJ1dG0wNklncDhjZUVHNnZiXzc4UmlCbHV2ZW1kbm03Q0E5VjNrNTlJbVBkZVdFQ2pHUFdKLXVHZHNTUDhnZDQtclhKRjhqTk5BeGxHQmQwWHZWLXdBbDhwbnY4WlRrSkk4RjdpZ1RqOUNhb1JBVWxsR1RPaV9hUUgtRzNPQkhUQ0VKQ2dSS2ZYVVJGNlhzeHpUd1Y5MU1RZVFXenRyb3dRYVI2OTlv?oc=5",
+    "published": "2026-11-01T00:07:54+00:00",
+    "description": "Canelo Álvarez regains WBC Title as Riyadh event ends without disruption at WWE Crown Jewel venue POST Wrestling",
     "source": "POST Wrestling",
     "category": "boxeo",
     "athlete": "Canelo Álvarez",
@@ -3817,6 +4323,17 @@
     "score": 4
   },
   {
+    "id": "40d7533d45f767775ff0e175",
+    "title": "Christian Mbilli beats Canelo Álvarez at The Ring's Mexico versus The World",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNd3J2ZWhOaVNvUkpldkxIbUU0WXRTQlptNTZVTnNOaGxKMjFNWUJUWjRQU1FNSHREWXFsS3FIaGxzV0JPaGJvUFM5TWJQSU96VmFnWnk0VUFIWFgxT1lKSVkyTEwxMzFkREJWQkJwRlZjLWI3Y3JocjJITEdOZFRkRTRqMXlsclQzSUE?oc=5",
+    "published": "2026-10-31T23:00:48+00:00",
+    "description": "Christian Mbilli beats Canelo Álvarez at The Ring's Mexico versus The World boxingnews.com",
+    "source": "boxingnews.com",
+    "category": "boxeo",
+    "athlete": "Canelo Álvarez",
+    "score": 0
+  },
+  {
     "id": "783fca01dd9c12a00c1b0714",
     "title": "Canelo Álvarez derrota a Christian Mbilli: Todos los resultados de México vs The World",
     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZE5sLXp4eEo3VjZGYnBSbkRCbEdmX0otdXdObWRod0RQMjRHYlRZMVpHXzRacFFQTE5Dc3ZxaTFhaVZGaWxkY001S0c5REFBb3o4MUNRXzBpR2podFJOd3h1Q1FZc05ENXNGTld6YjRQdFBYekJuUEFEcjV5Mm4xYkRjYXIwRUtxWE9SMmdNSHNkNjM2ZnB0ZXp3b2pEYkhJYWg0bVJseWpyVmdJVjNkWUdKWEpqMlN2?oc=5",
@@ -3892,6 +4409,17 @@
     "category": "boxeo",
     "athlete": "Canelo Álvarez",
     "score": 0
+  },
+  {
+    "id": "4b59bfdf238c5d54e726ba6f",
+    "title": "'Canelo' Álvarez: Cuántos títulos tiene actualmente, cinturones ganados en toda su carrera y récord de peleas hasta 2025",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOFBFUUFUdUF3LUNBQ21yNVRNY3F1YUxlOUZiZXI4OW1jT0hPd2tfNE9GZnFWWTB1eDN4UEN4SGhWeWJBVVlGbnRUanFxMUZPWkE2NVpQY1pLWTV0WUxZeXVQOGxKT1Q5azZXSlV3Q1VwZkxfLTNUZVh2WDRJNUhlRENmSUpDQQ?oc=5",
+    "published": "2026-10-31T22:54:00+00:00",
+    "description": "'Canelo' Álvarez: Cuántos títulos tiene actualmente, cinturones ganados en toda su carrera y récord de peleas hasta 2025 Olympics",
+    "source": "Olympics",
+    "category": "boxeo",
+    "athlete": "Canelo Álvarez",
+    "score": 4
   },
   {
     "id": "2f9f521529b34c6305ebdd23",
@@ -4092,6 +4620,17 @@
     "score": 0
   },
   {
+    "id": "f4477bfd1327bc77565c896f",
+    "title": "Canelo Álvarez at Christian Mbilli: FightNight Schedule & Card Details at Input Club, Barcelona ⟋ RA",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9xbkNsMldrcjRjM1hSVER0bmlobUVETGhmdGJjcDlxR29iZVE3SFpBUDAzWnZIMmw3UV9RMERQaW9RZw?oc=5",
+    "published": "2026-10-31T22:30:33+00:00",
+    "description": "Canelo Álvarez at Christian Mbilli: FightNight Schedule & Card Details at Input Club, Barcelona ⟋ RA Resident Advisor",
+    "source": "Resident Advisor",
+    "category": "boxeo",
+    "athlete": "Canelo Álvarez",
+    "score": 0
+  },
+  {
     "id": "055f88c94e47908af4eef6f7",
     "title": "Checo Pérez resiste a un fin de semana difícil y apuesta por buena arrancada en el GP de México",
     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeXVTOXFhWndITEN2eWs3NFY2U2lTbEZ3YnIxYzJmRzFOd2EtNWJHVXdIQjl1ZDFieUZEdE1CcXRiMUtTZ291NG13bjQzUEc2aS1RRF80Qmx4eFZwMklDQV9YUlIzY1IwcjM5NF9qblpqQTU4dFZSSWN6ZU5WLUo4M3ZuT0dOWTU3NE0tSHdfWDhOVGpyNzVGaG94c2tVa3JnOVE?oc=5",
@@ -4142,6 +4681,28 @@
     "published": "2026-10-31T22:26:00+00:00",
     "description": "Boxing Canelo Álvarez vs Christian Mbilli results 11/01/2026, who won: ИТОГ_ПОСЛЕ_БОЯ, highlights √#[[\"ＲＥＰＬＡＹ\"]]𝐇𝐃!!] Pierce Manufacturing",
     "source": "Pierce Manufacturing",
+    "category": "boxeo",
+    "athlete": "Canelo Álvarez",
+    "score": 0
+  },
+  {
+    "id": "6d65378c02de52e6597a8ef5",
+    "title": "+Update+!【HIGHLIGHTS】FULL!! CANELO ÁLVAREZ VS. CHRISTIAN MBILLI results Boxing: ИТОГ_ПОСЛЕ_БОЯ Recap",
+    "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNcjMxOUtITzRuaUdXUGE5ZGkzNE9VTzh2WHJjZktHUmd6ZS1iQWtneVZYX1J3ZElLYVZ4eUpwM0FScVVtb09yOFoxUG1aOHlHRjc4S1pWMWdGcjFzWVJydTBVLXh1bDJ6ZHpuQ1dKclJ2NEJjQWRwd3R0Smp4SEthazByOGd4aGdfS3laME9IZWRRMmlfU0dQcEdoOUU1Q005V3M5MjF2dUdiZk9oYzJtVm1fTUp4V2NELVZ1MXYzUEltSkk4SmFkVGRWS044dG13LWp3NnlVNGNNcE9GaERPUW9qSU9VMEE5QURBQW5QR0N3VTBXRE5xSkVhQkRmWDI4QmVzbTZvdjRqZmt0a2Qzc2ZEU0R2dXdUN1VpZXJFaVdtTk4tTkJma2dCc1gzV3pOdGZUc0VNLVktd0wtNU1iQVNxODF3SnlBX0E5TlFkWk82SkdYbHpjYUxqcVlpdEtfNng4?oc=5",
+    "published": "2026-10-31T22:26:00+00:00",
+    "description": "+Update+!【HIGHLIGHTS】FULL!! CANELO ÁLVAREZ VS. CHRISTIAN MBILLI results Boxing: ИТОГ_ПОСЛЕ_БОЯ Recap Villa de la Orotava",
+    "source": "Villa de la Orotava",
+    "category": "boxeo",
+    "athlete": "Canelo Álvarez",
+    "score": 0
+  },
+  {
+    "id": "deab5ac6b1b86cdb4261dc47",
+    "title": "++[HIGHLIGHTS]HD!!Christian Mbilli vs Canelo Álvarez results Full Match Replay Boxing Online HD 2026",
+    "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNenpad2JMeTZ1WnBfQmw5UzM0YllMMkg3ME9aTDhIMUl2bFJON3hrZnUyVWRJQnEtLW9tcy1HeTNpeU1IWW5tQUZZaEhudkVLQmQ1Y0YyeTdNQmxSLWlUV2VNWWxIdDBWUi1TMHBrTGVrcERoTlpGWE1aamVnSlZCR0l4T1dJT01EWE02UGhUM0p2aWp4XzRhOEUzN0pONUFXWnJ2TEprVkhqUFRoUVJhSFlSOW5td2Y3c0QtMDc4RHdNbV9OSWgzU1BjYUVqR2ZLZ3BFaldqOWVjSkJBcUdBSnh6RmRqX0RBX0txV2VCQjRKNFZiMS1IblpJdW1jWDdvU1Zrd2JQQWxMUkthZzBYeFQ0cGVpanVmQWtjckh2ZmJpRFFNTmpxcUppZWRVUG93UDg0X3J3dlBwRWdJT3JkLXA2bGhBVFFEbVhSZFZOWDg4Q2xRb2NnUV9KTFIzb00?oc=5",
+    "published": "2026-10-31T22:26:00+00:00",
+    "description": "++[HIGHLIGHTS]HD!!Christian Mbilli vs Canelo Álvarez results Full Match Replay Boxing Online HD 2026 Villa de la Orotava",
+    "source": "Villa de la Orotava",
     "category": "boxeo",
     "athlete": "Canelo Álvarez",
     "score": 0
@@ -4254,6 +4815,17 @@
     "source": "El Informador",
     "category": "formula_1",
     "athlete": "Sergio Pérez",
+    "score": 0
+  },
+  {
+    "id": "5883774950296b34e84746d6",
+    "title": "Canelo Álvarez Chooses Surprising Musical Guest For Ring Walk Against Mbilli",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVEJXbGRrZkdBY3JCeUlDOXdQWXVqMjRxTThDczR4Y2RBREF3SWplUGFNZnlwR2E4VjlDcXVvM1ZOdGlUUFc3U3ZTZDluT0wtREhSeTkwS1Awd2hFSFhKbHpEWlg2RmxmbGpXVzdJOWExZjlvVkQyYU93Z1htdUpMZWtUX01xR3lKSTFJSl9pTnNaTmZ0bFdoeXRHSU91VGw5QkVUYnA3bEtaZkhsNmlkVGpqenp5dUFlUWJySWNR0gHDAUFVX3lxTE9GWjFLZ2Y3d2FmVGZqMng1OXh0RTg5T1dzeDBMb0xkamVLd0JNMThKX2pDVXRMaFREZ2xib0d4UnNTSzZPVUNHMWNkLUVwVDR3QWxJeHFsbXRaQUNGNHpndXBrTkNncl9pY0VqZGktcDNva3Bqa3JxTzVUbE1BNzU1NnRaaV95WnZDdHkyMExVM0RGMUpsNC1VWV91UVZFNFZMUjhETFl3Y0tIRkUzd3JVUmtEMkRsTU1RclVZdWJTcGlVdw?oc=5",
+    "published": "2026-10-31T22:10:53+00:00",
+    "description": "Canelo Álvarez Chooses Surprising Musical Guest For Ring Walk Against Mbilli RingSide24",
+    "source": "RingSide24",
+    "category": "boxeo",
+    "athlete": "Canelo Álvarez",
     "score": 0
   },
   {
@@ -4378,6 +4950,17 @@
     "score": 0
   },
   {
+    "id": "85761af2ac8df3f710773b9f",
+    "title": "Broadcast! Canelo Álvarez at. Christian Mbilli — LiveFightSchedule at Just Us Lounge, Mississippi ⟋ RA",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBhTlF2TUsyY0FUcndyUHB5cDl5RWhsM0hqM1VBVlE5ZHhybHhkbWFJNUZqanVwNDBRS1JQczlXVHZSUQ?oc=5",
+    "published": "2026-10-31T22:04:12+00:00",
+    "description": "Broadcast! Canelo Álvarez at. Christian Mbilli — LiveFightSchedule at Just Us Lounge, Mississippi ⟋ RA Resident Advisor",
+    "source": "Resident Advisor",
+    "category": "boxeo",
+    "athlete": "Canelo Álvarez",
+    "score": 0
+  },
+  {
     "id": "5f9abc0283b7dbfece8c21cd",
     "title": "Golazo de Chucky Lozano en el LA Galaxy vs Austin FC de la MLS",
     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE42N0xXdTRFMXU0LVl3V1Q0OE54RjVhZHdNLWtRY1luWGp1c2dNakt2SHdmR3NnMTQ3bEV2ZDBpM29tUW91RHFfNGxSejJKWElYYVVoaG1VRDYwS0RENGlhRjY2VlVPUkVpUHpaTkhvVFJyZThpZEJvcA?oc=5",
@@ -4488,6 +5071,17 @@
     "score": 0
   },
   {
+    "id": "02d5abadd3401850ebd9c419",
+    "title": "Live-Time*PPV*Christian Mbilli vs Canelo Álvarez Full Fight Live 𝐒𝐭𝐫𝐞𝐚𝐦𝐬 ON Round By Round",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0wR0tDQW5Oa1BrY25OX1JaVi1TdjlfMEtkUEkzT1N6WG04blRwVTBaQlBQc0hpM2UtTFJRQkVMZlBITG9CX0xyd1JmcVNoSjVVUURYck9NQ3lnanJVZEwyT1QzNWgzcnhCX0ctMjk0MUZHZkZQM1lz?oc=5",
+    "published": "2026-10-31T21:47:09+00:00",
+    "description": "Live-Time*PPV*Christian Mbilli vs Canelo Álvarez Full Fight Live 𝐒𝐭𝐫𝐞𝐚𝐦𝐬 ON Round By Round Powell River Peak",
+    "source": "Powell River Peak",
+    "category": "boxeo",
+    "athlete": "Canelo Álvarez",
+    "score": 0
+  },
+  {
     "id": "5782235773d1a9ccb92dafd6",
     "title": "Live-Time*PPV* Canelo Álvarez vs Christian Mbilli Full Fight Live 𝐒𝐭𝐫𝐞𝐚𝐦𝐬 ON Round By Round",
     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9qX3o1VFZLS0d4ejhfS1ZuQ2VNTXZYWmhDTW96V1VEVEtVUW5ONkRSd3NnX3Y4Z1VJcHVVSHMxbHhnTU5EOXVEZjlSakZjTEZYRW8zLWJXQ2ZwUExEZk5FVFMycUdVcVBTdXRPcVhzR1Q1TTM2bUE0aXNwdkc?oc=5",
@@ -4541,6 +5135,17 @@
     "category": "futbol",
     "athlete": "Hirving Lozano",
     "score": 2
+  },
+  {
+    "id": "79d0ce64cfe9d55910e38afd",
+    "title": "‍‍ω ( YOUTUBE LIVE ) Canelo Álvarez vs Christian Mbilli Live Free",
+    "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxPSFhIbVNueVI5R1VoSTItd1QwQWk1RGdFeG1TRWRIdzFibjhRbFI3cTFBLV9jclYxSkZBNVE1QXBIY2o1bGdrcXpaUGNPNjdzNUdNUndWanJlemtZdUtjOHVGSnRyV1ptOExTTjZSM3BiSEllX2VXbnl2bU5FNXRpOG54aTJHc2c5NGVFZm01TkxSVVVwa0w1VUNKZ1JfUG5NYVBuaXlHN2pjelJtUzFERU5zMllDSkJ3QzFWVDhvNTFUWktmSHExZjlXcUR0N2FBU3RNb205cXFIaDBybkRjU0d0R3loZmRBelR1ZC1aTXdySnctQTNyWmlSMW9ZMHZsYlU1TkpzYkpUZERFNTNYekNueTh4U1BhNlFJanBFNGVTbnA4cVVXRDBvRkZ5cFJZR1FvVzU4cThDVGR1eGl1SGc0ejlhVEl1RWNMUWRtclpMWmtEVXRUUVJGeXJWd3QxSFZ2Vk9GNjhYSEVGM0NHY3p3di1tUVR4OWR1WTBvdGp6bF9XWWdhb0h3?oc=5",
+    "published": "2026-10-31T21:40:04+00:00",
+    "description": "‍‍ω ( YOUTUBE LIVE ) Canelo Álvarez vs Christian Mbilli Live Free Port of Rotterdam",
+    "source": "Port of Rotterdam",
+    "category": "boxeo",
+    "athlete": "Canelo Álvarez",
+    "score": 0
   },
   {
     "id": "c38923ca264485b2533e4a73",
@@ -4659,6 +5264,17 @@
     "published": "2026-10-31T21:31:43+00:00",
     "description": "(LIVE) Canelo Álvarez vs Christian Mbilli live TV HS Football 2026 Pierce Manufacturing",
     "source": "Pierce Manufacturing",
+    "category": "boxeo",
+    "athlete": "Canelo Álvarez",
+    "score": 0
+  },
+  {
+    "id": "d7859231808c882ce88c8d47",
+    "title": "Reddit Boxing StreamS -Canelo Álvarez vs Christian Mbilli LiVe Stream @Reddit 2026",
+    "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNZmRhRUVUTGswWjVlNU9RV3Q4WkVmYXJVRmhqRG9JN0NINEZQMUZFVGVRamJxY1RkR0J2TzFJMGdONkpRb2pZOUx5OHBMNHJpNmpSTmlOdEZhcDByLTJjNlJ0aGxUSWdFVktWci0yLU5fWGtIbWljNjhleDdNX1pVenN5a2V5NUpsTjdKRTgxSnVfZXg4WlEyelVra05EY1F6REZmLUZPUVRLS2JKZVNKMGFDRVVaQ3pObXpPLWNpQlZxa3VMUGRoeFZPTHRmRjhjaWVnRjRndk5pdGwwQVFqZzNEZmVUdzh6QzZCTmhadUlhRjFzbkVKRGVrVTRuRkxHd2xQai1NSEhqbG9CZjVvNVZPQTJ1aDlRV3JjYkFmZ3Q0UllrZDdr?oc=5",
+    "published": "2026-10-31T21:29:01+00:00",
+    "description": "Reddit Boxing StreamS -Canelo Álvarez vs Christian Mbilli LiVe Stream @Reddit 2026 Muzeul Național al Literaturii Române",
+    "source": "Muzeul Național al Literaturii Române",
     "category": "boxeo",
     "athlete": "Canelo Álvarez",
     "score": 0
@@ -5522,6 +6138,17 @@
     "score": 0
   },
   {
+    "id": "89d350e40c68ed5534fe73bd",
+    "title": "[DAZN] Actualización en vivo de Canelo Álvarez vs. Christian Mbilli 43543",
+    "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQVkdacmgyTWRuYzZqcUhBZFdfMC00RExMVUt4RFhkdUU0RGRXcFVpV2ZNeHZfQ280ZFBPcEVPMmlobGVxN2l4QzVURGZpWDFkOVYwN241SG8xaVozeE5iMzdjLUZ1elZSeUxzQUtQQzNBaHFyVXlPUmtUTk1iV2llZk5mU3lzd1dKaV84RkJFQUxSX05zOHJvZC1MZUlOeThfWFNHNTlmV1g2aGFhVk5wN0tkTmFpV3V2ZG83M1Vjb2FuTU9KRlRFOW84MmpNVTUzZi1EYTJwU2VBMFJHdU5RY1VZVUFDWExIbkkxQmhLZGtFODFRWklhR3NMZ3k0OEp4S1A0bnZTaVROX0puSVNJanYza2VlRGZ1cmFjTTlGeWNwZ3AwT1l0WTBHdnJkMnpoR3JEQTNDSlpiUVNEaUVZamh5aHc3Smk5REVfS1JTM05NVzM3UHRWN2FnWlhBb2pGRzc5V0U3aw?oc=5",
+    "published": "2026-10-31T20:51:01+00:00",
+    "description": "[DAZN] Actualización en vivo de Canelo Álvarez vs. Christian Mbilli 43543 Villa de la Orotava",
+    "source": "Villa de la Orotava",
+    "category": "boxeo",
+    "athlete": "Canelo Álvarez",
+    "score": 0
+  },
+  {
     "id": "09d7a9dd2b16327fd1bf8085",
     "title": "Canelo Álvarez vs Christian Mbilli: canal y transmisión gratis y en vivo de la pelea",
     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5jYVZjN1F2TGtUVHloLThDdHpyb3ZkSHdKUVVYTTVuUUdzMlhHZVo3cVg1dGREQy14aVd6UHo1bk44WEFCV212Sy04QVFkc0t0NS1CX29UU3BzZTlwX0lCRFpxNngtRk9taHl2NnRRYzlnaFVBZkRZZzdwaw?oc=5",
@@ -5530,6 +6157,17 @@
     "source": "365Scores",
     "category": "boxeo",
     "athlete": "Canelo Álvarez",
+    "score": 0
+  },
+  {
+    "id": "7cf6ced2c42084ed8ca376a0",
+    "title": "Premio Nacional de Deportes 2026: Quiénes fueron los ganadores en México por cada deporte",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcktWcmlwN290alhWU0lpZlMzb1pMMm40cV92YmFoaU83ZV9OUTNibDJMZTJKU1dZQmY1NlhWZ1NhTExrVm5oVUJzbVRtYTg3S0x6TDNqM0I3QzRmbWlwU1VleThOdmRTaFI4a2NXNnpBTnpablJ0RTAxWG5iWEhYVkZiT3RlUQ?oc=5",
+    "published": "2026-10-31T20:46:00+00:00",
+    "description": "Premio Nacional de Deportes 2026: Quiénes fueron los ganadores en México por cada deporte Olympics",
+    "source": "Olympics",
+    "category": "ciclismo",
+    "athlete": "Isaac del Toro",
     "score": 0
   },
   {
@@ -5542,6 +6180,28 @@
     "category": "boxeo",
     "athlete": "Canelo Álvarez",
     "score": 2
+  },
+  {
+    "id": "96533e3616bb736ececf921f",
+    "title": "Live*Free*𝚆𝙰𝚃𝙲𝙷 Canelo Álvarez vs. Christian Mbilli 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍ Ｆｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ!Boxingm PPV",
+    "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPV2FSaGVZLWFsYU45anB0RU1QSl9IcE5RQmo5RFExZmRORThkRjlOWGY1WWJFeF9ZbGFHN0w5enFwS2NNQjdja0JURVgtLTFIdHlsa05HY04yaHgwU1lMVHBoMnFGZzN6ZS11d3pONVZ5czZlTDhoM1ZoMU9LbWdpLTM4OGpjSVZCS0tCQmZseEdLTGJPZlRyRnQwelZEUjU3ZWd5ZU1BZkpleWJYWDhxMU8xRXNMaW44ZjQ4cWxsbWpVM19uYXZ3X3l1TkotWHFLNlhCRFM4WU45QlNDcUpkZ25FMEZmc1pPcDVsVGVQNkxpWmhub2NnX0VEcnRudklSdFBLYktZeG42TDAtT21aaHdNX0F1TjY3R0lNWjdoeDhxRmJQWnoxbU1PNDAwLUx2Rk5hWWNDZEdHeG8?oc=5",
+    "published": "2026-10-31T20:40:05+00:00",
+    "description": "Live*Free*𝚆𝙰𝚃𝙲𝙷 Canelo Álvarez vs. Christian Mbilli 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍ Ｆｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ!Boxingm PPV Villa de la Orotava",
+    "source": "Villa de la Orotava",
+    "category": "boxeo",
+    "athlete": "Canelo Álvarez",
+    "score": 0
+  },
+  {
+    "id": "41251e33bd01f0812827bf7d",
+    "title": "Canelo Álvarez vs Christian Mbilli EN VIVO",
+    "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPQWJDZGlLdUVnVU1XN19sWGs5QlhCMTlLa0tEem9NUGpyLTZCcHZ0TFZUallTMnJzSXZ3aXVjdzY2OTQyeEF1VUxzTlNqVTZoRzY0TUFBbDdZX1dCamotRTAyb2J3QXl5a25wT0t0U1BZOVlLMTlRY2liNTJialVqTWpWUEFta2ZOcGdIenFHM0xLZUxuX05ZdnhzTGRZQkJ3MWpIY0IycUs2UllQeURCWVI2NlB6SHRVNWhLMkgwSGM4WHJmbjJzUTVEdEo0R1hQOVAta2VtaTFvcjNXOXY1VVh1dlE2RzB0QUo0dG5qTXB4VTFxWVdxbXhmSURfbWF2Sy02RjBWcHVTMEZGZkdROXJPcXkwZ3c3eC02TENYRXZKZTZFaGlWUFFGLXpyY2tYQkFZY0o1bjM4WTVHaHJXN2QzR0w4NWVVb2xtMHVB?oc=5",
+    "published": "2026-10-31T20:40:04+00:00",
+    "description": "Canelo Álvarez vs Christian Mbilli EN VIVO Villa de la Orotava",
+    "source": "Villa de la Orotava",
+    "category": "boxeo",
+    "athlete": "Canelo Álvarez",
+    "score": 0
   },
   {
     "id": "5916d98a41303b9b59400afe",
@@ -5682,6 +6342,50 @@
     "published": "2026-10-31T20:26:21+00:00",
     "description": "‍‍‍【Boxen!】 Canelo Álvarez vs. Christian Mbilli LIVE sehen kann HS Football 2026 Pierce Manufacturing",
     "source": "Pierce Manufacturing",
+    "category": "boxeo",
+    "athlete": "Canelo Álvarez",
+    "score": 0
+  },
+  {
+    "id": "dd4b1d1d4296867b333c5ac2",
+    "title": "!$>[LIVE!#WATCH]* Canelo Álvarez vs Christian Mbilli Serie A Boxing Free Streams & TV Channels online",
+    "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNRFhMckd0TkdFZ2ttMmpBSEFBSlJBMVFDUmRnNW9mS3dVLUJZMjJyOXJMaVltd1hiUG9QOW8zX3VWTTkyVTBkLWlBa2Q3N2tUSjVaejdPbHAxTFRsSl9HR3p0QW14ZDVuaG9lTDVDcXlDdzZSVS11d014RVhFWm9pYWFnbzNUVVhpNzJHX3lzbkI5WmFiTzhpeXdIenJ2Qi1OZ2k2N2NvZ3QwR1BQSUY5ZnlUOGNRM2paSlo5eTBLNmZBcER2c0hwWmJoSmZUS0RGcUFNdElhV0V5b3Z3aWJ4dWQyc3lpOVRsQmFybHdHRVhUUGFpdnVpRl9McE5fZWFzUWZTR282VnZvQTZZSjVUSmRHaVU5Z1F1QkxzU0p2RkxKbmJDTVlVdmlmMFlJRUsweWdfYktNTElhQ25RSm5pUTZqM0RQdGJ6NnFRbk1R?oc=5",
+    "published": "2026-10-31T20:20:42+00:00",
+    "description": "!$>[LIVE!#WATCH]* Canelo Álvarez vs Christian Mbilli Serie A Boxing Free Streams & TV Channels online Villa de la Orotava",
+    "source": "Villa de la Orotava",
+    "category": "boxeo",
+    "athlete": "Canelo Álvarez",
+    "score": 0
+  },
+  {
+    "id": "056787c37d97b0a76f4b1515",
+    "title": "[FREE-Tv]Canelo Álvarez vs Christian Mbilli On Tv Channel 01 November 2026",
+    "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQRDk4ZlBvUDFLWG5lcTJiWmpQOHhULUE2ZFJHNTg5RXlyQ01CblVnclN6NVN4dmJ3VXhjcHN6UFZzQ3lYQjZGYS1hcU00ZnpEREFMNTZ5aFpxa0JKWXRMSWtZMDIzbWZHbS1aZEUzVmo0WkVmQWcyTlg3VC1PeU1iMXl1aFBQMnpSWWFXZWpwQUtuZzViWFBfYWNZdFJja1Y2LVVGUnlVV0JqQXdKS2RiVlp1SE1OWmxOOWpyVGhFM2E5NkZjT09Rd0dfeFNTWG9vcWVNQnU1TkxzUzhnMDFha3pRNDd4OGV5VV80ajNGQ0pxaXVvZzFIaGNhekVSZ3pfdmhpdXlBM1ZETVZVMkdUUzBWaXVnZElvaThvTTdscW1RcDNTTk42VzFjU3I4SGx2OEVyclF5YjhNTzlBSW1qZjVIQ25mTkVzcFZMdUVJejg?oc=5",
+    "published": "2026-10-31T20:20:41+00:00",
+    "description": "[FREE-Tv]Canelo Álvarez vs Christian Mbilli On Tv Channel 01 November 2026 Villa de la Orotava",
+    "source": "Villa de la Orotava",
+    "category": "boxeo",
+    "athlete": "Canelo Álvarez",
+    "score": 0
+  },
+  {
+    "id": "de0c14b88e517bda5ccd75a1",
+    "title": "[LIVE NOW]Canelo Álvarez vs Christian Mbilli 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍｓ Boxing ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 01 November 2026",
+    "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOT3FXaTVMZ3VyUTh2aVlfV0tfLTlKN0psUzhCVzd0Y3ZuVVRDZzlvc0JnQkhFRU56Ynd6ZmczZlhnQzhLR21MQkx5endDR0xWRC13VlplOXg4RXRsSngzb2tpck1zdnYwdTlPOFpYcENkOVdTYnE0eG5TZHoyUmJqVmhCODYteDVTbEpfeUl2c1lyVk5VWE1CbUVLZjNGUUZ5WUkybmUxS29mdXV6LUNOemk5d29EYkY2N2ZhODR0Q2xuaEt0d0JEdm1FMTFZdTRrYUdtVjJvMEV0UzlFZTdMYWFrYW9XWWw4MkpXb3g2T1ZDUmJKRWxBU1FXOElJVGNJZlFyd19iTFVuNjZQbVZJX0o5UmFNVnB3dFQzRGJ5aXN5bWNlOHphV05XVVM5Tk9keG9qVlhEeEh2R3BXZXRRdFBTcHdyOGlYV1BHenFGNUdON3dr?oc=5",
+    "published": "2026-10-31T20:20:41+00:00",
+    "description": "[LIVE NOW]Canelo Álvarez vs Christian Mbilli 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍｓ Boxing ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 01 November 2026 Villa de la Orotava",
+    "source": "Villa de la Orotava",
+    "category": "boxeo",
+    "athlete": "Canelo Álvarez",
+    "score": 0
+  },
+  {
+    "id": "b194755c95b9c03608280d40",
+    "title": "[[LIVE@STREAMS] Canelo Álvarez vs Christian Mbilli Live Streaming",
+    "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxNV3dsSGM2ei0wcFJWV2Uwa0t2eFdxQUNuLWR2TU5fb2NyaGZjQXhVQklOankxbkdPVzR4Y01sUi12ZjN5dG1QaHA0TTFwQVhFeEI3X2o3LVhMbWFRc2xoRlJVWnVfRkQ2QWlXWFR4NndVLV9Oc2Q1LUthdzRoRmxOYVIxTUpEdWpJTm4wZVF2ZW9Gdkx4Ui1lUjd6ZDNEeTJkUGc2em5YRHJFVVgxM2ZWVVlvVEVvaFp3QThoZzQ1eXRDZWlNVXV3ZU5vSkp4dVdRclJPSlkyOXh1NS1aMGNlOG5wTjJaWWdQa0RUU3pKOTFnR0daVXJUS2lZdTRtSUhZcnVidVhQNEl2UVN1SUpWNHVrTjdjbnd2eWwwUFlBdDdxVWd4RHoxTF83RnJzNXhiWHdfQ1YwX2RFcjVqVXRtWUtqYWgwRGtVYmdpbVNMVXlnTGx5MVJIQQ?oc=5",
+    "published": "2026-10-31T20:20:41+00:00",
+    "description": "[[LIVE@STREAMS] Canelo Álvarez vs Christian Mbilli Live Streaming Villa de la Orotava",
+    "source": "Villa de la Orotava",
     "category": "boxeo",
     "athlete": "Canelo Álvarez",
     "score": 0
@@ -6070,17 +6774,6 @@
     "category": "boxeo",
     "athlete": "Canelo Álvarez",
     "score": 0
-  },
-  {
-    "id": "e4c68394c2051df157b5264e",
-    "title": "Chucky Lozano sacude la MLS: vuelve tras su lesión, marca con el LA Galaxy y apunta a la Selección Mexicana",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQa25kZXZLSmpCT054bDJFNE5YSXdvY1BiMjl1Y1lGdjhQYndLeWNtMDh0ZGVadnNLbFVNS0x1ZnlDclpGSFlnR2lBNUdwUUs3WkpqTEJMOGt3RVY1aVU4dk5Cd0pfay00NzRIQ0liUFJWd3ZNMTA5c0w2ZFl2S0FxS19TV0ZubVlWNTVHakstNl8yVW5lTEVjRjVVMTVYNFhFbnQ5QTNVbjlkNENLU2FhZkE5V1RkMHJJdVJKb2tqczBRVm50Rmd5OXN3WjJRTmJmT2tkOTUtc3U?oc=5",
-    "published": "2026-10-31T17:47:00+00:00",
-    "description": "Chucky Lozano sacude la MLS: vuelve tras su lesión, marca con el LA Galaxy y apunta a la Selección Mexicana MARCA",
-    "source": "MARCA",
-    "category": "futbol",
-    "athlete": "Hirving Lozano",
-    "score": 6
   },
   {
     "id": "94b581b2c56e5e50c51fb044",
@@ -7004,17 +7697,6 @@
     "source": "Facebook",
     "category": "ciclismo",
     "athlete": "Isaac del Toro",
-    "score": 0
-  },
-  {
-    "id": "5e3d47ba041d257381895060",
-    "title": "ω→⚡»( YOUTUBE▔LIVE )‍‍‍‍‍‍‍‍‍‍‍‍‍Canelo Álvarez vs Christian Mbilli Live Free",
-    "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxPSXNEbnVJY0R6WDZ0TTNGRElUcG1IeEpEeEJZdlh5Zy1mX1ZYYmxfTlAwMXl3OW81R3dwRXZUZUpMbWhnUlJBU3ZHRVExSTQyZVhsZG5KXy1NQ1IwalpMSUpvLW5rQTFBUTZrWGVSSkJVQ250cHZBcGJYak9hM05TN19iajdKem1Rd2xPV0djR3FnV2k0eEhHbUdyYzZjZG5PTWtJME1sZmxfSVBqRWo2cFNWcGpEdGRpS3BtdjlYX2lBdy1IdzlSMDlfeDZBN1c5d3RGem1malRVLTJLYzA1cFBlRXotdVJjS09ucW93SzdlYkJ3T3MtMnpzTE9ucDdGX0pFRmt2QzY5eFVnQzVVZ3JKTmJCMFBmN0JfanU1dWJGR20xYUpxWUFNVzRVWEJkTFdYRHY1YWlYY3d4aERpZThHdUR3aUJwV3YzV1VkQWZTR1Z2NG1UR0lQLU8zeUZCUUFNWGx6M3RYVmtRcno4NllrczlBdERGM2lJUzZhaHczRnRYOWJUeTNNX0N4SllGY3hz?oc=5",
-    "published": "2026-10-31T14:08:58+00:00",
-    "description": "ω→⚡»( YOUTUBE▔LIVE )‍‍‍‍‍‍‍‍‍‍‍‍‍Canelo Álvarez vs Christian Mbilli Live Free Port of Rotterdam",
-    "source": "Port of Rotterdam",
-    "category": "boxeo",
-    "athlete": "Canelo Álvarez",
     "score": 0
   },
   {
