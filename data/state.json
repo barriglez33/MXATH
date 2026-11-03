@@ -1,14 +1,14 @@
 {
-  "cursor": 25,
-  "last_run": "2026-11-02T20:20:21.694484+00:00",
+  "cursor": 12,
+  "last_run": "2026-11-03T02:38:28.140400+00:00",
   "last_stats": {
     "profiles_total": 47,
     "requests": 11,
-    "entries_seen": 378,
+    "entries_seen": 327,
     "accepted": 80,
-    "duplicates": 180,
-    "outside_window": 20,
-    "editorial_rejected": 23,
+    "duplicates": 148,
+    "outside_window": 18,
+    "editorial_rejected": 7,
     "empty_feeds": 1
   }
 }
