@@ -1,5 +1,269 @@
 [
   {
+    "id": "24fb9d079197b637f680005f",
+    "title": "Mayos de Navojoa supera a los Yaquis de Obregón y empareja la Guerra de Tribus",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQN19wY0ZicW5PUW9RcTBTSUd1UmNwZjlTcU5XWjhFTW96alVBcEhCZEQ3QV9wWTYySTVEd19vdEVYeGQtUlhrTmpaay00WUFLNXhuSDFGWXpHWnlKX29qeksyeHBfMnZ6NEtjd000T1RKOXlxM2lVSVI2bUQ0X3hwMlNxTmFzRjc3NU9DOFlEV3VrRjctcWctbW54ZmlwUnpuV3NzX2VHaDUtX0NmX3ptS09fU2dSaTFUUGE2blpWZ2NJSUJKUm5HYw?oc=5",
+    "published": "2026-11-05T06:25:37+00:00",
+    "description": "Mayos de Navojoa supera a los Yaquis de Obregón y empareja la Guerra de Tribus La Tribuna (México)",
+    "source": "La Tribuna (México)",
+    "category": "mlb",
+    "athlete": "Luis Urías",
+    "score": 0
+  },
+  {
+    "id": "12ffc9ad428a6be97f65f3d7",
+    "title": "Yo soy Rocky: La historia detrás de Sylvester Stallone y el sueño que cambió el cine deportivo",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMGo3VkNyTlNuZUhXUHNzaWc4eUpCZVRtTnZSc2tFaldOUDBUU1pfa2htNldySW5idUxOcGdyUDl6WmtCYmdWc0IwTXBYb1pZX3lETnJrVUotY3JYRkxKeFc4NXNvQWJyZGhMVjAxRlFHZTFIV3Q1VW9VOW40TXdoY2hEM1hQM191QjJwTFdBNmhEcm9CcmkwZnkwdXZJc3JVSV9ZV0dqN2hPMWxzZEw1cVhWREcyU2RXVGdPVjhKakMweDEtOUlMTzdUY0Vxa1hSSUZta2VRUXhuMUU?oc=5",
+    "published": "2026-11-05T05:12:00+00:00",
+    "description": "Yo soy Rocky: La historia detrás de Sylvester Stallone y el sueño que cambió el cine deportivo Récord",
+    "source": "Récord",
+    "category": "boxeo",
+    "athlete": "Canelo Álvarez",
+    "score": 6
+  },
+  {
+    "id": "7c4f9ab437c66d521964d3d1",
+    "title": "F1: ¿Cómo le ha ido a Checo Pérez en el Gran Premio de Brasil?",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOUZVZl9aQ1I2WHhmZ190VTlkQ215d0w2cEkydzRQXzJ3MEdBd2VWTGlsa0VfZHAyRDBUbFBtR2tjMGF5TUtxLVV2Y0RabmlhdzdXOGoyQkVmM0I3RTB4SURTRVFpcVA2eGJzcEp1b0FpcnlzQ1NrbFVKeFd5QlRiLTZQODZ5X1UtMHUyVEw4MVFYSlF2N0tINVl0UUFJUk1pbllkTTdsbm9maDhLQnREQnN4U1Y?oc=5",
+    "published": "2026-11-05T05:11:00+00:00",
+    "description": "F1: ¿Cómo le ha ido a Checo Pérez en el Gran Premio de Brasil? Récord",
+    "source": "Récord",
+    "category": "formula_1",
+    "athlete": "Sergio Pérez",
+    "score": 4
+  },
+  {
+    "id": "0179705575f84381b780f3a3",
+    "title": "Dueños del Club Liverpool buscarían comprar Cadillac, escudería donde milita Checo Pérez",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcXZzMlNVbVRtRjZBU29Rc0NxaUZ4UnhHOGxSVXU0WWVzQXM3T3lKX2duSTBkVWJfOUZNWTBteVdja3o3b2pPWjV6OU1NM2hZRUdkZ2ZwR09HeGtpWnJRRmR2OHFvR2NzUkZNc1UxbWd4SENaTGxRdFVLMUdJY3o2akdtSXRpbFUwXzlEMVRLbUstTl9wcUFqakRMTkVRRDd4ZGlxRnBZZDdYaXlXc3lyd0FjZG90OHRVQVhtY1ZTcjFqUQ?oc=5",
+    "published": "2026-11-05T04:52:30+00:00",
+    "description": "Dueños del Club Liverpool buscarían comprar Cadillac, escudería donde milita Checo Pérez XEVT",
+    "source": "XEVT",
+    "category": "formula_1",
+    "athlete": "Sergio Pérez",
+    "score": 0
+  },
+  {
+    "id": "eb954580b3003e9802562727",
+    "title": "Checo Pérez y el desafío de competir en la tierra que mantiene vivo a Ayrton Senna",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQW5hZmpuVHVZZkI4RnNzYmxvdV9JMzFMME0zM1JZOEVVQ3BYSzBRTHBDWG1leDNRNy1IMGdxdWlMd3FNOF8zdGl4QnZhYl9XV3V4QWQzUEcyaUNsc3RXNzktY1BWMlVNUUtrUXlvQlFRVU43N2pUdnNWUC1FaVdxcWE5WERJNWZzeHZzX1hzeTdaX0NrYXY0X3hvTXJMSlFoWUVBNTZSY1RXel9RQ2ZlMU1DbjJJUUt3bHNCcWhCRE1UUlXSAd4BQVVfeXFMTTJDU1J4elA5bG1HbEpDN0xqUW5KSlR4alhMYlVMWWxPazU0eW85ZUpuY2o3RTN6QWxQUklVM2c2QTYzeEt5bTl3R1RaN19RZzNHY0F6UUhSc3VZejV2V3VBeHI3SkdmMk81M3I2MHlYNFFsM041cG9UQ2tnM2s5QlpJXzRLdk9VSDg5VW1iV0ZRcHEtVklUbEo2elk4UHg2VFFhRzZ0SC1TSzJkclFCZVRybUtsSFdwR3JXcWctclU3eEVNNFJaNlJSb0VMVFJfaHpUcjFQSGRROTdZaG5R?oc=5",
+    "published": "2026-11-05T04:05:00+00:00",
+    "description": "Checo Pérez y el desafío de competir en la tierra que mantiene vivo a Ayrton Senna Infobae",
+    "source": "Infobae",
+    "category": "formula_1",
+    "athlete": "Sergio Pérez",
+    "score": 0
+  },
+  {
+    "id": "3d5c629230fe750146d1a8fe",
+    "title": "Naranjeros de Hermosillo prepara refuerzos de lujo: Paredes, Assad y Kirk",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaG44YlZpbEZ0MVJkcmlWSEFkYVpLYnNMM1lrSzhTV1JjT0VoblVjNmdlZV9DMm13WlM3d1YwTXRKaUtKaXhPVzdQNmZ2SkxrWnlPUVczM0pHNDdqWnU0bzFhMGZVUTYtc0hKdWEwSVpoZGNvQ2dUUGhYZVNtcmdEVlVzUjdWblltRWcxSlVXbURmRzRKV0xHS0pCT24wcS1YQmhGY3QxTEhCX0JObHJqUXhxd0hRUlhmS2dabnIwWFRpbWNs?oc=5",
+    "published": "2026-11-05T03:41:05+00:00",
+    "description": "Naranjeros de Hermosillo prepara refuerzos de lujo: Paredes, Assad y Kirk El Sol de México",
+    "source": "El Sol de México",
+    "category": "mlb",
+    "athlete": "Javier Assad",
+    "score": 0
+  },
+  {
+    "id": "6bd996ff0ef0526981608ad7",
+    "title": "Juan Manuel Márquez reclama a Canelo Álvarez por perdonar el nocaut ante Mbilli",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQ2ZwbWZWYkhUbjZ0WmV2d2Uza3pPcHYxR2pMcTJ5NV9uTVowbUVuc1Q3cjFlcU9VWDI3ZWRoS01oU2lvcjl2RGhqU3d2eThnaHpxa3FZMHpDY3NydUZFTFVZbjY3TExVZEduR0ZWRzJHWnNBWWRzSWs2QXRkTHJfZmRyUFh2WTc5OUtfUUdqa2pDZ3ZGdTRjd3VQbWw3SU5wM2dZZnFyUE1IMU1vREVEMEtJYmxQLURXMXE4WHFCYVBteGZWX0E4d2FwZ9IB5gFBVV95cUxPT2hNVGM5YkhXNzUxanBEdmxmT21pdHBlSU1xd3RKWVlaR2FLWDdRT01lcEdEYVdMbjAtTEZUWkt4bEpLOXdjdW1DNEhWbzBsTENvbGV6VUlZWUh4NGVrakRoMFM1bDZ0N1k3WG56YlJLOFhvLXpkWnc0QndTSW5HV2ZCUGxUS1h6SzJlSU9QOWR0SlhmZHJIa0hEX2Y3M3VGUlBoQlRHbEY1SVNTNWRCYjlzOTRfQW81Smk4VHZmRW9xY3NadlY3VXpzQkF1Qi1UXzBGaWJqVEN6SDhzaWc4blBvTG9oUQ?oc=5",
+    "published": "2026-11-05T03:20:00+00:00",
+    "description": "Juan Manuel Márquez reclama a Canelo Álvarez por perdonar el nocaut ante Mbilli Infobae",
+    "source": "Infobae",
+    "category": "boxeo",
+    "athlete": "Canelo Álvarez",
+    "score": 0
+  },
+  {
+    "id": "04d925be5ccc91db2203a9a8",
+    "title": "Javier Assad se mantendrá en Chicago pero buscará contrato a través de arbitraje salarial",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSjBFdHRrelNxU18yc05wbENjM2s0aDRKczFIM2JHS3VHaDc1UFduRURIR3dudEdZYjhmRF9yVFp4UVpwbV82d1hXT2dGNFJDLWp4NnRaeGpqMlFVRlNiY2VHWjFBZUVFVXk3VWZQY2dZRTlaZndPR01HN0xTWnVZZ01fclJ2eWg0U1RpdjZMLTE0X0UxaTRkX3RBdmY2SmRtM2tOT2hreURnVVdKb002NWF6Y1diZVY1aGFycV80eHB5VEdRelRGQWtUeHpDVXhSQTUwWFdqdGY?oc=5",
+    "published": "2026-11-05T03:15:25+00:00",
+    "description": "Javier Assad se mantendrá en Chicago pero buscará contrato a través de arbitraje salarial El Sol de México",
+    "source": "El Sol de México",
+    "category": "mlb",
+    "athlete": "Javier Assad",
+    "score": 3
+  },
+  {
+    "id": "04b41eb90683eed2e658e528",
+    "title": "¿Checo Pérez \"no caminará solo\"? Dueños del Liverpool buscarían comprar la escudería de Cadillac",
+    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQNGFHRDZMdlN1b2dvRmp1ZGY0VklTT2tGaDJrSllsTHdiMG5kOUNUdXpIWkZveUNHSXJPYTF4NUxtU3Y2clB5d0JwRTR2M1FMbDR0ZHBDUUMxVzd0Z0tRMGtNbE9yVms5Rmt1dl9HNjI0Zi16T2VNNFN0WUVFdUJ4cFVJeGhERExjaVFWWWtFSURfQ0hBdVQyZDRqVm83czlvX2FwMVR6b2lxaHV3NmhwRmI2S1VyRGdrLVhUdkJtUG5NNk9lTFpRVFhxWU9HanpRdkN5UTlPcmNIeEl2ME5aUm42cGpiSVlPczdNd3BfeWpvc3M?oc=5",
+    "published": "2026-11-05T03:01:25+00:00",
+    "description": "¿Checo Pérez \"no caminará solo\"? Dueños del Liverpool buscarían comprar la escudería de Cadillac Radio Fórmula",
+    "source": "Radio Fórmula",
+    "category": "formula_1",
+    "athlete": "Sergio Pérez",
+    "score": 0
+  },
+  {
+    "id": "6c8b7a0fced50235c1d06f96",
+    "title": "¿Checo Pérez tendrá nuevo jefe? Dueños del Liverpool buscarían comprar a Cadillac",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObmpLaWtjS2JlQzBXVEtveGZkX21XcFhNYmQxN3RVR1VPR1VMWXJzV0VMRndMckNQaGRGYjEzYnl3R0xNSEFYQ1RlLTdxd0F1UHZkQjJhSGZkNTZ4UWF3ZnBtMDdHV3l4V1JCWHgxWDNmeG1DV3NoemNpRDViYlJvUExhbUpYOHNaakxrU1MxTHpKV0cyejhONVhnREJfbVNYUTJvSlJoaXhhcUtaZ0FCVTlRN3JCSWk1NWxPcQ?oc=5",
+    "published": "2026-11-05T02:54:00+00:00",
+    "description": "¿Checo Pérez tendrá nuevo jefe? Dueños del Liverpool buscarían comprar a Cadillac Fox Sports",
+    "source": "Fox Sports",
+    "category": "formula_1",
+    "athlete": "Sergio Pérez",
+    "score": 0
+  },
+  {
+    "id": "aeee3b4a350ac6b3de505e9a",
+    "title": "¡Recuperó el brillo! Santi Giménez ingresó de cambio y dio una asistencia en la goleada del Porto vs. Napoli",
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQT2dWLV81czR6ZXVWbnNjeEZGdWw3N29pTk1mb0lRSnZlZ3FlLVA0X1VoeTRHWTQ2RG1CSEs1LTZGREhJbEExTWJ0ZWQ2N19TSWtTcjNkNlI4OVhIS2pzZUx6UUF6UzBGSUlfY2NqYnJkY1IxNzdhczZoNVZlNkpFdXhSZGloU1BHdzVwX1VPbEdWZzg1dGx0LW91MDMteGtwSmRMZVptRzdNSzlQTDZOQW1WMERuNUNsNmY3bmxCZUk2X01wbE9rU3MwUTRkZEh6TlRTZnRkWFJMdExuMWJyVFZJQ193TDJoU0sw?oc=5",
+    "published": "2026-11-05T02:18:49+00:00",
+    "description": "¡Recuperó el brillo! Santi Giménez ingresó de cambio y dio una asistencia en la goleada del Porto vs. Napoli Vamos Azul",
+    "source": "Vamos Azul",
+    "category": "futbol",
+    "athlete": "Javier Hernández",
+    "score": 0
+  },
+  {
+    "id": "d58e8314e8cb0ee431cbdf50",
+    "title": "Terence Crawford Might Break His Retirement—Throws a Wild Challenge at Ryan Garcia (and Even Canelo Gets Dragged In!)",
+    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPVkR6bnc3NWhpdWJMWVNnbjFQWVd0V1d5al9PazNNNE41S0V0MGJyUEZrRVVBRlJHdk9tM0hPVEtmdFp3bERzYmJ0SG5kOXdfUW1zT1E0NlBCdC1oTkt0YVc0NXcxZVF0Z2tsamQwY01GaDFZU25PZ05GOEZGZHFITjFoUWp6VHBMQzRzMEg2U3llcTYwNENnV2c1WHRBY0VCdDh3cjBVaE5LQ0JjaVByMmxkb0Rqcm4tLWpxZzNLaEJZSnFYRkx4bFBfRlVnYW5YZ2c4UWVLaTNObmFGclBpZ0thSG1zYkxOUzd0U1dUbHFPbzjSAfgBQVVfeXFMTURRendlaWF2U2psVmRtQUdrbWtlOWtHWVdYTWVQancxWV9nNWxiOWVaT0dhMVFMYTBFams4N2FoNEhjLVVVWm50THZTNnphek83ZVJfYnd6NU5SVmliX3BkY19FYnpxbjVQenMzemRRUzFUaTFDeG1iODgzd1dFWWZpM0FYdVJsTUhzb3paeTBWM0lhSy1vdVlnSng2ZkJwX01fRDhMc0lCbDZPNlEtTGJHRXRrcGtfRG9zM2lPX3NWbEJ4QmthamJEaVl2WmZuTDBobWpPbEt3SThtckk4ZXFidVVwM25NTkU0eVRQcFgzeUZiYUJvVDU?oc=5",
+    "published": "2026-11-05T01:45:33+00:00",
+    "description": "Terence Crawford Might Break His Retirement—Throws a Wild Challenge at Ryan Garcia (and Even Canelo Gets Dragged In!) Al Bat",
+    "source": "Al Bat",
+    "category": "boxeo",
+    "athlete": "Canelo Álvarez",
+    "score": 0
+  },
+  {
+    "id": "dae5dad7a9b66b8cdd8e99eb",
+    "title": "¿Sueñas con jugar en el Club Pachuca? El visor que descubrió al “Chucky” Lozano llega a Puebla",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeFhNWlZudnR4akxQRlY1ZGlSTGlzZTlfVzlmWFdpZHE1elNVY1g3anpQNnlqeDh1djZzUlBIMDJwamdFbTBNUXp0eHA4ZGxJUHM0UGNTdlhrRGtoeDl6aGtGbmw0RENfRjhUQkRrYWN2M29YVHI4WmxvLXVrYkRHclAtSWFDblNlMDUwN1JTeFY3M0Y1S01vTGZzYXpnQ3Q0cC1DLW1qUXRlbTVnNkY0eUlJUUFVNXJhZ1dzam4wWW1zcFdCdTFNa3pYWXQ1b3h5OWZ0M1Fqeks?oc=5",
+    "published": "2026-11-05T01:39:07+00:00",
+    "description": "¿Sueñas con jugar en el Club Pachuca? El visor que descubrió al “Chucky” Lozano llega a Puebla El Sol de México",
+    "source": "El Sol de México",
+    "category": "futbol",
+    "athlete": "Hirving Lozano",
+    "score": 0
+  },
+  {
+    "id": "9d4a7dcf4c341d420ab73f0d",
+    "title": "Peter Sagan: \"A Isaac del Toro le conviene un calendario distinto al de Pogačar\"",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVERfWmJMZGVfeThoZ0pJNXhOMVlHcTE5aV9TVFBwVi1kZ3BvTDNRUWJKeWFtVl9uUENIVXdvdVF5VGlBVnUzdGRQUV8yU3dvM1dVY2Rwa3kybDd3Qmx5LVdsXzhIY0w5SjlXdzZ4N201d19rUm5aV09HV0VsX2xVd3J2VGNMdw?oc=5",
+    "published": "2026-11-05T01:38:00+00:00",
+    "description": "Peter Sagan: \"A Isaac del Toro le conviene un calendario distinto al de Pogačar\" Yahoo",
+    "source": "Yahoo",
+    "category": "ciclismo",
+    "athlete": "Isaac del Toro",
+    "score": 0
+  },
+  {
+    "id": "322c82ccf46c7ed1ca9ce562",
+    "title": "Karim López alterna con G-League a días de debutar en NBA",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY2dlQ3VRUUctRF94cncwdVFGMUFVb0pybWtJb1I1a243TllIbzAzZWJkY2NUaGU1OC1iQnFjWjdTUXpEeEEwTDdzb0ZNczhtRTdsbVcxOXU3YVh0NGZSdUdMQTF5bzVESGFKQ2pqdkxLSnQzSXc5c3VKOXppTXpQZTFJdVFiZUdq?oc=5",
+    "published": "2026-11-05T01:24:00+00:00",
+    "description": "Karim López alterna con G-League a días de debutar en NBA Yahoo",
+    "source": "Yahoo",
+    "category": "basquetbol",
+    "athlete": "Karim López",
+    "score": 0
+  },
+  {
+    "id": "43f83e9d9f2727e667f66233",
+    "title": "Checo Pérez subastará casco y traje del GP de México 2026 para apoyar a niños",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOV2hYZWlNbGtoOGpMblB0VUx6SnQyNUp5Q2xZYkpEN0g2bUV5dDhMQ25XS0NiMnIyM0lXZjBfZ0t0emUwSTM0ODJmSkpNbFZpTFNyVWhaa2Y4ckF5cFRrUTJGdDJJYzFYNEdRc0N4MFQ2TC1MQWdITHhOWlJqZlFaS0dGcy1ldzJRVjgtWVljNlRwRk9lOVlPdm1FTEowNzk0Q05YcmZELVBidy05VFUzb1RGNjd4NUVEc0NybA?oc=5",
+    "published": "2026-11-05T01:01:04+00:00",
+    "description": "Checo Pérez subastará casco y traje del GP de México 2026 para apoyar a niños ContraRéplica",
+    "source": "ContraRéplica",
+    "category": "formula_1",
+    "athlete": "Sergio Pérez",
+    "score": 0
+  },
+  {
+    "id": "0260fc7ddebe676929b9772a",
+    "title": "Fórmula 1: ¡Llévate una reliquia! Checo Pérez subasta casco y traje, ¿cuánto cuestan y cómo comprarlos?",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOajcxNzQzNHdJbkUwT1dvQm8yNWdfb3BoajJmU3NGZ2pQV0U3dGR1Rkdrbm5qRmlzMjZ4V3lsRi1xaDQ0TElFNjBmQnRCSHFzcDVZYTlmdTEtUEFqYjBGNFZoa1k3ZGxCLVFJVjcyLTNUZ3JJMWJ5Y0dHTWhoU3VZbzd1LXFPWlNnN2lTQzFEaU9YVDc0ZXpQUHdqY2hKTEM4dEpVaU9FaVdDdGRqWGt0dU5JdTJyQnlQakFyaEtyOWNZLXNHTk16U3UwUTVGbWM4MzNWNkc3by1pOGZ3aUNXQtIB5gFBVV95cUxNQ2VtTzRtejJWREwyTUdsRHhZalR4dmt3c3RiNFY5UEtHbHU1R1ZCRURXclE0dVBCa1NSMDRIVnZEeEtvZ1hFTU9sVGZZTko5OFJ5UTNSaFhWQk1FRGRGU3hpRWpTa240ZmxiZTgzZm5tb1RBdlVtNEp2aFZMZkFzblBkWVRhLUZmcW9jT3JzT1JCWk5HcFE2N3dkMWFBcHBzZTJVVTNGSW54YzNlek9qU01jSDh3OVZWZER3OG9iYjVNUDBuMnZRd1RwYzN1Z3lsby1LelIyX3JONDZmaXEwZ0IxMkZ2Zw?oc=5",
+    "published": "2026-11-05T00:48:00+00:00",
+    "description": "Fórmula 1: ¡Llévate una reliquia! Checo Pérez subasta casco y traje, ¿cuánto cuestan y cómo comprarlos? Al Bat",
+    "source": "Al Bat",
+    "category": "formula_1",
+    "athlete": "Sergio Pérez",
+    "score": 0
+  },
+  {
+    "id": "5e67f984c98e1dba2f5e9f0c",
+    "title": "Jesús Miguel González Montoya",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONWpkYlFwZkd2eGNMdTRFWldsNnRKYlg5VHBrZ01CTDRDYy11bllQU29ndS1PVlYwcE5ZUk9iTzJXcnBkMmpPWmNabUt4OWtDU3lXZkJxUzFDRGNFaGNuVWNleG9uTmNHbnhGNk00d1ZadVVzOTBHNHFOQUQtaFRHdERjYTM5OE8z?oc=5",
+    "published": "2026-11-05T00:41:07+00:00",
+    "description": "Jesús Miguel González Montoya ESPN Guatemala",
+    "source": "ESPN Guatemala",
+    "category": "futbol",
+    "athlete": "Hirving Lozano",
+    "score": 0
+  },
+  {
+    "id": "5596c8ad40ee0afa23e0a793",
+    "title": "La NBA revela inesperada prioridad con Karim López y México podría vivir algo histórico",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVWo4REhxOG9MNjdUWGRWLTJZNGxjTWZTVllMRGJPc2o2YnoySFJiWHBhNE1UNlI0ME92N2tpMWd2S0IzT2dqdDh6aktoWnpMMjE0ZGdqTDhvOU5KTXNGZXNxWmNWNkFDU1pNN2tMVDhLUnlaemtvYWFtbmNITzVVU0RVZU83ck1CTGEyUHhGblMtMFRKc2UyUUdlbVQ1N3Z6Zjh0OVhCb2FPQXF2Z0lFRzZQcFJFQlVOU1R3eUpqX2pEVnpvN29VSzdUZWXSAdIBQVVfeXFMT0dTclVnbC1NMXY4Z1lGdHR5YU1PSXRtYk53LTJzb0NkeUZBNTBldTBiTU9EV3FycEJkWDFUQWZzZURZcW52OXI1bVRPLTNFa1VCLXJJRkdZN1ZJVzNSVi0yNHJtRndwTHRiSDZWc2s4dzVSemVNdExXNFFXWktiMXR1WW9Jd2Nvc0ZSLUduN1ZMS0Jwd2NBNnY1c1Y0UzAwNjJwZnhCOWsxb1RxSkNEZ0xSOUNGX01IdmhfbUtxbzhaRXdnY3ZFZGJHRHhpZzQ0cDdB?oc=5",
+    "published": "2026-11-05T00:20:00+00:00",
+    "description": "La NBA revela inesperada prioridad con Karim López y México podría vivir algo histórico Al Bat",
+    "source": "Al Bat",
+    "category": "basquetbol",
+    "athlete": "Karim López",
+    "score": 3
+  },
+  {
+    "id": "461dacdce2cad571d6c54ab7",
+    "title": "Faitelson revela el problema que dejará Canelo cuando se retire",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYXVTWnEwUDBWakpVMU9GbkZnWnVjTEZSc0ZXb1RMZ0NCejNDRG1aQ2dmTDBzMHRCOVJsNlhKeFA1Q0FkNUd0UmQtUUxEanJIOFhYX2dFTzZDWmF2YXVFdnZld2daNXdaVllVbVVvRUVKQWYzaDZScDU5S0RnazMtd2x1RlZ0eTRFV2tzbVlob2JFck9kOW1CcjBGVWpjUV9GbWVXekRuTHZXQUpSV1Y5VzJuLWNjd9IBuwFBVV95cUxQejdPa3Z2UWs3YUZXOF8yRHdUdW9MM214VElfa1RreDFLblpzby1QdmZHUE00WU5nTWVLM0JVOXNrdUMzY3d3RG85UWRsZlhWaENqZG9kZl8xSE5oaTQyVlNBTEhMVmNkd0NoRVY2MzNfYUxiYmdqb0dGeWJ6WFViRjlFb3FqMUtqcUVmZzdLa3NlQVAyTXBBb1pKMXhLVTF3ZXljZTd5Wkc2RU84S2Q3SnRScmZsWWJvMURB?oc=5",
+    "published": "2026-11-05T00:19:44+00:00",
+    "description": "Faitelson revela el problema que dejará Canelo cuando se retire Izquierdazo",
+    "source": "Izquierdazo",
+    "category": "boxeo",
+    "athlete": "Canelo Álvarez",
+    "score": 3
+  },
+  {
+    "id": "e98447476db475d2267c6870",
+    "title": "Terence Crawford podría romper su retiro, lanza un inesperado desafío a Ryan García y hasta Canelo entra en la conversación",
+    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPLUxOTnpYYjM3VGZiN2h2SDJZcDkwVFdpaWd1RUE4eHZSNnpOdFlKU0ZJcGRicUZhUjJfVXhMUHdZSk0zVkZ0TlBfd012RUZCU0kxOG5VTTRLUHYwZXFMOUU2a3RXcWJYaDFTYXJiTjlkQlFIVkprcHlPY1VVeFYtSHE5S1dvX0ZJQ2tqa0F2alVRVzNLS0JaQkVEa2loT0NNMV91bHVoR3ljX3RkWllkVktuRllObHotZnRvMm1oUFV2TWVaczlOZUJqc0FIeXZjV2lkSmhGOUliRFFBWXowS0poWkxSVmlvOGdNQTVzWXlzdEl2MGhCYXYtWdIBgAJBVV95cUxNQUVCTUhPZjhrRTVZWWVNU0xBYXZLMWc2UXF3akxrZmRqQk1OaDUtUy1wN2dmRnBMN3l5bFAwSWVKaFM1ajRxMktqUVEtVXVULUlNODlaT0RMbTJfcjFVcUY0WGdMN0hWaG5vY2RTTVprQWFhenJqdEpHY0ZCRUN4azZKQ05aa2tiM1pzWlA1N2ZpaWpKalRWc0VzMjlCenlvTEh1MGJ5a3pvMk03dHA3LVNiQ1o1elE0Uzltekg1Q21PUXVJY0lmT0dhREh4X0xTaDlkUGtMZW0tUmI1dldSTmhBLTFjcUNBZFZrUWQ4UkhxOTRMa0dxaEo0MENxeGtm?oc=5",
+    "published": "2026-11-05T00:04:00+00:00",
+    "description": "Terence Crawford podría romper su retiro, lanza un inesperado desafío a Ryan García y hasta Canelo entra en la conversación Al Bat",
+    "source": "Al Bat",
+    "category": "boxeo",
+    "athlete": "Canelo Álvarez",
+    "score": 0
+  },
+  {
+    "id": "d1661fe5845ba1f8e227c88a",
+    "title": "Tres equipos, varios conflictos y un patrón que se repite",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZEFIdzJvMURhWGpHM0txODg5QlJKa3hfaUpQOElDSmM2dzMtOUN1M01rb0VOYWZvSXpSUHVTWkxydWFmeE9UdkJfTThHSzJvUDhPVHI0LXdyRU9Lalk5d2VDR1ZVd2xPVG1GSHdYQmZqdDN5eFZERkhmdlhPTHUyWk9tWThhcEtuSFpoNXVDOU90bnp3WjhwdGpZdllGZHctUTRWTnJ6RQ?oc=5",
+    "published": "2026-11-04T23:57:35+00:00",
+    "description": "Tres equipos, varios conflictos y un patrón que se repite Carburando",
+    "source": "Carburando",
+    "category": "formula_1",
+    "athlete": "Sergio Pérez",
+    "score": 0
+  },
+  {
+    "id": "c875d3c13b305b5b7f408de6",
+    "title": "Henry Martín puede vivir el mismo destino que Chicharito Hernández en la Selección Mexicana",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQWxaTWkxSy1VUklzWTZnSzJXZlVJRjFpWVFuZUJkUGotU25yWjFlcUc0aUllWElOeEd4dGxwS1RNS093dGZRN0tmeWJqOEp6cUxqYmRROUpObUxsOGJhT0w2U1I1cld4VkI2TDZRMWVELUtPTFBjaDBsOTNmalVaaDR3N1dHVTFiUG5IWUxac1ZOVTRsR05uMmJOVWVIT2JidzlQNVZDOVRlakxDQ2J4N0M0dWIyaFBQakNwTkNBa2RQNHBpN1BwWG9nQU8tZi0zdzNQSFRrLS1JU0tiYXo1dWNFcUdKQTlsX09Ccw?oc=5",
+    "published": "2026-11-04T23:53:12+00:00",
+    "description": "Henry Martín puede vivir el mismo destino que Chicharito Hernández en la Selección Mexicana Soy Águila",
+    "source": "Soy Águila",
+    "category": "futbol",
+    "athlete": "Javier Hernández",
+    "score": 0
+  },
+  {
+    "id": "4b5fd2e6efef63b3ed5f7e64",
+    "title": "Fernanda Gómez comparte la tierna celebración de sus hijas tras el triunfo del Canelo Álvarez",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSk5VYmIxdGxpbmZuT1hLRWdiUVpKTkt3MWtScm5Idl85N19tY3hRSU5PQmdPZ3otQm50ODhXUjljMHRnNlpOTWh2LU02OUNheDNwLUpQQ043d1IzMTBObjd2SS1RQ3V2LVZSaVpNRFhWNkdHT3JkNzdleEN5WUZmWlVPYkkzaDZXUDZoa2YwdXl2OTBPaEE4Z1d1cHpVSEtvbWJkeWJJUU1mYnprc01IVWlOZWR0M0NkSkJHSC00UlRJUmRYRWVPRzdwazJzR3hHNE9fVl9GZ2g4YmRQSzhCdmZR?oc=5",
+    "published": "2026-11-04T23:50:00+00:00",
+    "description": "Fernanda Gómez comparte la tierna celebración de sus hijas tras el triunfo del Canelo Álvarez Soy Carmín",
+    "source": "Soy Carmín",
+    "category": "boxeo",
+    "athlete": "Canelo Álvarez",
+    "score": 0
+  },
+  {
     "id": "901fd6a34d9b92b61743c5eb",
     "title": "¿Vuelve al ring? Terence Crawford sorprende con mensaje a Canelo Álvarez y Ryan García",
     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdC05QVdXYldNVDBWa0xmNTNteXlWNkFyaGU0VTBpc0F0Sk14aDBYY3dGUmVKYmlZdWhZdzR1QWdxXy1DWDBtOW5weGstdHg3NFY3X1k2S3R0UmZwZnU1OXVQOURZdWktc0JrWnVkMVhZYm41YzNhZVRjdUE2S0oxaUx6VmRqNkNKVUxhYjFTSVUySTdnQl9OUFFFaVF5eFJCZDVWMXRTNDNaUFFZN1E4b3RsSEpHVzNsWUE?oc=5",
@@ -242,6 +506,17 @@
     "score": 0
   },
   {
+    "id": "e547989a2b257ea92785898b",
+    "title": "Cubs Offseason News: Javier Assad's Option Declined? Tyler Austin's Future, More",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWnBlMHMxTG45UlNhblpBVUVmSzJXM1AzVjAxdEZyOUEzalp0LWlJckZQaWJRaUVrY1dMN2NhZ3NhaHREWFNPOEV3RlBtSmpfVTJZZ3BYRWVyQk90WEZpazRxVW9LNVVpTUx6aTlqTGJpR1FJcHRxdjQ0VmNSblNzWjBzNVRxaGlCT0lVcHNSQXlqcllfNTBoTXJ6RGtmY1FNN3QtTDF1c2xwaWd6VnRvZ3V3?oc=5",
+    "published": "2026-11-04T21:31:38+00:00",
+    "description": "Cubs Offseason News: Javier Assad's Option Declined? Tyler Austin's Future, More Sports Illustrated",
+    "source": "Sports Illustrated",
+    "category": "mlb",
+    "athlete": "Javier Assad",
+    "score": 2
+  },
+  {
     "id": "3cc05849757686db8fabad5b",
     "title": "Leclerc es papá: ¿Qué pilotos de Fórmula 1 tienen hijos? Checo Pérez encabeza la lista con cuatro",
     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPU1MxSmFxUUY4dW9iclQ1MHJIREtPU1R5Tkc4TXJaR0NlZ3I3T2h5aEhqTWlUMElVSmdMVExsLUVGcU1wNjJ5ZnY2R1hfUjMwdDRoTWJfa3M4eU90YVZPQnVDb00zMWMzeGR2V09uMG42QWlQbFVRSXRUcVJObGNYbWtpN1czSV9IMXBxNTB4b2l5YlpUR213VVVfbk5FWW82b002c0tnV1pQNXhBa3Z1TkJRZFQ4VTR4Ni0tNjZIWF9JYnl2Mk9DNEJFSExLWVVyd2hGMC1USDh5M3JMLUZndVNaWkFDdm9X?oc=5",
@@ -281,6 +556,17 @@
     "published": "2026-11-04T21:10:44+00:00",
     "description": "“México es una prioridad para la NBA, queremos traer a Karim López”: Raúl Zárraga Publimetro México",
     "source": "Publimetro México",
+    "category": "basquetbol",
+    "athlete": "Karim López",
+    "score": 0
+  },
+  {
+    "id": "bffda4ca7a53152662c90961",
+    "title": "Karim López Debuta en la NBA y Anota sus Primeros Puntos: Así fue su Estreno",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV184TVRfMi01VUtGek1Qa1hvX1pNWXlhcEpOejhrUTBVR0lFcGNQTTdzdW8tYU1TcXhQczRWV2NwZWxNSmNQam1OVUktWjRCU1BRSTRRSHJXaDBnenM5cU9kVEVfZ01VSkxlVjdfNlhuNVVuSlZhYjMzNEozejY4em53OXFEcDNNUmtxWG9ybnNubnhCVy1KdVZ2NVJMdTd5MFlHVQ?oc=5",
+    "published": "2026-11-04T21:07:34+00:00",
+    "description": "Karim López Debuta en la NBA y Anota sus Primeros Puntos: Así fue su Estreno Diario CAMBIO 22",
+    "source": "Diario CAMBIO 22",
     "category": "basquetbol",
     "athlete": "Karim López",
     "score": 0
@@ -352,6 +638,17 @@
     "score": 0
   },
   {
+    "id": "0ee226ec9cccabee5ddf8ddb",
+    "title": "Cadillac F1 Sale Talk Misses the Point: The Asset Is the 2029 Engine",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQU3JKWFBScHlVbE45NFdDTjAtQ0dqZy1EdjVNdEkwTXNTbDJhajVoRi1NbEVqVW1va2lHWVVLUkhydW9kZk8yaXhVTnpEX0haTUhKc0g3SDlKMEF2ZkM5QWNsMzdhdXZibDhEZmJ0YzRXUElYV0VxRmhobHpsTkZ6eS11NA?oc=5",
+    "published": "2026-11-04T20:30:00+00:00",
+    "description": "Cadillac F1 Sale Talk Misses the Point: The Asset Is the 2029 Engine Yahoo Sports",
+    "source": "Yahoo Sports",
+    "category": "formula_1",
+    "athlete": "Sergio Pérez",
+    "score": 0
+  },
+  {
     "id": "4f68ad43a09ff46c3a94d2cd",
     "title": "“Checo” Pérez subastará casco y traje utilizado en Ciudad de México durante su GP 300 para apoyar a niños de su fundación",
     "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQQlJVSlVrN2pSeTI4VURzR0FHU2Y4YUM2UnVmMC1WN3YyTzFfZ0lzelplNDdGaURMOVIwalVmcDFfX3ZTMW81cW4tMTdkUkRHOElxcy02Y2g4OW1qeHZka2xfZk8xWldfS01hSUFKNjJXOGt0Vjh1c21USnRnSmVzWUJrRGtWdjJZYkstME5PcFRXU2VYdVloM3ByM3lHa0ttaGlXYXlBOS1sUjZ3RWtnNmlEM0hPaXBfM1FrMkJFOW9JdjFnUzZBME1ncE1jc3RXZjVuNVhoM1dPcHR4QktfeU1vMkxGV0dEM3FxbE1Fd2JoZmxhMFNoc2VpQdIBlgJBVV95cUxPRzZPeHgySm9QdFBFWUpmU0dYa2pGajA1VFRGeXg3UTVfUHBSWVBYRzIxUVlkOFFyNGlMaE5MMWt4QnFmcWVXU28yd19OR3hmejlXazlPSzVQVEhLSGFYa3hXLTZzMVFJYmdCUXExbV9qZmgxRnZKWjE2SlJHaHVvUGVqSmtUdzRBc19Hak1OajQ2MGZ0Z3RBaWZONjBvdmp2Y05kdDFocjRndGJYczl2RkF2MTFPdG1EY1lBZUU1Q0ZSUHhHeWhZOUNPYUQwbXh5UktlUEVENVFYelVGZWlnNjVGLXhUV252TU1XOHVmMVBMV0ZLaXNYaG5QMlFSd3VjVWRuNFA4RHczdHRqbm5Mczl2aktuUQ?oc=5",
@@ -393,6 +690,17 @@
     "source": "Diario Avance",
     "category": "ufc_mma",
     "athlete": "Manuel Torres",
+    "score": 0
+  },
+  {
+    "id": "a18e0cc7933026850e755a67",
+    "title": "(Transmisión en vivo) ver pelea Canelo Álvarez vs. Christian Mbilli EN VIVO GRATIS por TV",
+    "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxPc0lwNmNaZGFzemxMU2laUVVZOWN3Z2ptVnAzQzRFbDRZS0t2U0hpbGFJWXFSSkVRVG9GNEZjT0p3VHFkN0REenVjMjdMZ2pITEx2TmZzZ1VPdTdiczNTR09YQWlUeWwyamlYU1EyUGJTcmhybTJVSnVDRFZrUHNSek5sNldTVlliNzBpQnVVSUwyS3Z6TGFoVktqQkJwUjB6bXcxbW80OElCQ3lmS21vaDM2Z0Z5bi05aGpyekMxd052U1BKZDE3cDlId1lqT3FiRmg3RV9rWWJ3OGxJUGxGbDdQMWRmOUpHeVU3UExmNC1ad0xNWl9LNG5LNXZZNVVfVkdSOHlfaEw0ZkVyOG1HT1kzelVmVE5KYnhpMHVseDBmaElnVVBHazdSN1ExeVkwdE5KQWtYRWF3Z1VHcUpfUFZpZ0RwVE5xa1JmeG02Y1I4UTd4WGhFOFVUOGg2Z0trMUNnSG1PanZUVTFqVkwwbWFlUQ?oc=5",
+    "published": "2026-11-04T19:57:59+00:00",
+    "description": "(Transmisión en vivo) ver pelea Canelo Álvarez vs. Christian Mbilli EN VIVO GRATIS por TV tagesanzeiger.ch",
+    "source": "tagesanzeiger.ch",
+    "category": "boxeo",
+    "athlete": "Canelo Álvarez",
     "score": 0
   },
   {
@@ -484,6 +792,17 @@
     "score": 0
   },
   {
+    "id": "62d314e0051f6fb389bdb136",
+    "title": "(Transmisión) Canelo Álvarez vs Christian Mbilli En Vivo y En Directo Online Gratis",
+    "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNV1EzNG00WEFkTlVpS3BqMmdVaUpvbzBKaUNnMkRZdzNWd2k3Q0FzR2txWG1sTnM5MlVRaW1yTlZLOHZNa2dKS2FteFpQWEVFLUxYZmlBbEJYV3N3MWpQekdZUnd3UTFlcDFUa1kzbjZTV1BrbUlHSXJMamdwVlhPbFN2ZDVMSVU1c2thSUNrdVRqbjQxRk5PX2ZXZk1sTUxpTUgxRFhvSU4zOUxKcDBobkJQeUlUYXBjaGtVNDJFVC1KRlo4ZzUzdW1xTTdaMXRDVGprRUdKQTBNUy1UU1VtSE1fNkROOVNCX09zMWpHQzF4OEN0WWNuR1RWMFpSbXBfWWdMVmdkZzVReHFtMjdPczhpR1VVY0FQQVo1Z3hBRng2WG14SzltTXg0NE9CWDlVbEMwZkJFS3VwYm1SbkJSMXNvUWgtdmZ2TGVzNFpwSzNna3hxVENSc1RCLTVPR0tNSzBiMFYxNGxNN3llekJSRTdvS3Z5bXdKYmNFWDk5WHRKUHhDVDVr?oc=5",
+    "published": "2026-11-04T19:15:01+00:00",
+    "description": "(Transmisión) Canelo Álvarez vs Christian Mbilli En Vivo y En Directo Online Gratis tagesanzeiger.ch",
+    "source": "tagesanzeiger.ch",
+    "category": "boxeo",
+    "athlete": "Canelo Álvarez",
+    "score": 0
+  },
+  {
     "id": "18a014b99d0a2315debf3784",
     "title": "Chucky Lozano, a contrarreloj para convencer a LA Galaxy",
     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUUxnbEh3QmVaeE9uYVFXY1F2c0ViQVktVk1ieW1tVnZWM0hJc1B6dlM0dzVnbHVfSUMwU2NNbzNZMldsWlk1YXRkNXFMenlGU3VyRkY0OWpHNEdrb3R5N0llLVpmU3NhbjlUblhNTjBMbU1oNmp6ZXM0amRmNXRUYURBWDhfbXRibmFIN25iYWZxdnFIYll2VTdNNjEydmNUSTdVb2Y1Z2MwMGgtV3NnZTZfZi1SRFNUaGYycC1sdWh1Z0liaE1PV3pBZmM?oc=5",
@@ -537,6 +856,17 @@
     "category": "nfl",
     "athlete": "Malcolm Rodriguez",
     "score": 0
+  },
+  {
+    "id": "85ad2bd348e4382c4451101f",
+    "title": "INTERVIEW: With Questions Of Retirement On The Table, Canelo Was Confident In His Comeback",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNME1VX2RVc3FsU0xlUTVKN0prNGNJQTI4V1VBcXhzUlRkdmpQckxZWG81dVI0ZUNrYnpnbzhDaG93eThPNTdWR2dSTXBFVUE0TzJTYmFCUFpDVmJUTW9rMnFrUUZJUWpZUFNxSjhjTE50VjFRVjVkTkhmenk2aXF0NURHODU2elVkOVplZnRtOG9hQU9FbE1lbmllaFAzQ3BodWRIdGl2WkNXcDgyN1I5NXpWQVZkZTFkYThZQW5nZzVRU2kt?oc=5",
+    "published": "2026-11-04T18:36:47+00:00",
+    "description": "INTERVIEW: With Questions Of Retirement On The Table, Canelo Was Confident In His Comeback Remezcla",
+    "source": "Remezcla",
+    "category": "boxeo",
+    "athlete": "Canelo Álvarez",
+    "score": 3
   },
   {
     "id": "26e88896c2e90f643dd62b7c",
@@ -627,6 +957,17 @@
     "score": 0
   },
   {
+    "id": "4f9968b233d7703b21315537",
+    "title": "Why the Chicago Cubs declined the 2027 option on Javier Assad",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYl9QVDZaMHktQVlrcWhvYWFta1lqUVRudVhnd1NfLU5saktOUWNUelB5RWlCRzQ5WFJVQlNwaGt5TVNXd1dILUtxeDhteGpJUnA2VVdMZEZTTUJRVFhFYmtWQ3djT1RQU2NxT21HV1JsbVoxVmpBZERTT2VQOWxIVmdqWUF0VXNzQmRDS1dn?oc=5",
+    "published": "2026-11-04T18:04:10+00:00",
+    "description": "Why the Chicago Cubs declined the 2027 option on Javier Assad ChiCitySports",
+    "source": "ChiCitySports",
+    "category": "mlb",
+    "athlete": "Javier Assad",
+    "score": 0
+  },
+  {
     "id": "923fb425577d53938b0b9a07",
     "title": "Así fue el recibimiento a Canelo Álvarez y al Divino Espinoza tras sus victorias en Riad, Arabia Saudita",
     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQcnlPWTVnZTdKeUFaeDR6eGttY1VaclU1dTV0LXhsdmFoYjgyc1owdHBzZHFtb1c4UGdyM0hRWXd0YjNCX1dOc0tSNThXODY5OHc3b1pZdDlUMlF2RWlZbTlGblo3Vk9Lbk5BOXNSaXRhRmUzYlVEczBLSXBBeksyZmFrYVZWV0JoSndEaXZTbHVadDE4ME9waUtNWVZ4dm1SN2IwNUJvakY3Ulp5WVFxLXFLRUpMbGpvMl9VVUhJdVY3dGVUd3hXMF9zTmVXSUU1S0h3MzlGTld2eVF1TE1fRWQtZFlIZnNOV3VV0gGGAkFVX3lxTE9PMnFkU0xIbVlDTUpsTGJ6ZFRvTHRaZHM5YXdjMHZqVTJ1RGE4aDNuOXdvU0doNElfRUFldV9OUUswaHBsZEtSZVRCTHJSN2F4NDFYNHdBTHl1X2h1TlRlRGc1dFVsc0oxRzVtMkZSMFc2QjA4OENEbU0xRlFJMDQ5MVk1bnN1dndUWmlra0dONDlEQ2x5ampyWmZPcTZpNFRwM0h2NFBJTlFQWnRROVdTYndJTnRmY01ZWGlYcml0QUdLdENaU05MWF9VLVJSbzEwZDdJT0pLb3RQRy14T1NPZ3RCcDl2RVpQam1iTUFZbHZMVnNTalNTbzBtQVFMWUpnUFlPQ3c?oc=5",
@@ -646,6 +987,17 @@
     "source": "El mundo de Regina",
     "category": "formula_1",
     "athlete": "Sergio Pérez",
+    "score": 0
+  },
+  {
+    "id": "e4037a79bd08c71742deff12",
+    "title": "Alfredo Valverde Oferta muy tentadora - esto",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOXc5aHJzaUpRMWMtLTNtYUNYenNuVk50dEtPSFBBVTRiUmY4N3ZTeTVCUXRCaXNYM2JiVXlTQWllaFRkYUF4NFBXM2ZkVHkzMXJSV29wbDVaUkdBUGFOS21Pd2lOdzhaTUN6VXU4LXJKLU4xQXFXNnZzTHg0TnBiRXppT2dJdw?oc=5",
+    "published": "2026-11-04T18:02:34+00:00",
+    "description": "Alfredo Valverde Oferta muy tentadora - esto El Sol de México",
+    "source": "El Sol de México",
+    "category": "mlb",
+    "athlete": "Randy Arozarena",
     "score": 0
   },
   {
@@ -858,6 +1210,17 @@
     "score": 0
   },
   {
+    "id": "1e2b45ffd9a000bfb9c2102b",
+    "title": "Blue Jays Free Agents: Who Stays and Who Goes?",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY3JoN0ZjeVU5ckZoUmlDZ3RYMFpwSTRpWVNMemJCRHYwX3VDMzZhX05NTU0tOWJaUHA2aFdhbEhCUEZNdlRZNHl4ZmFXU3ZNcExTdnlpSndjeXg1NlJwLXZoSktoVW5uekpkVmZiejVlZ2hWdVFtOU1SU1JPTEdHSEFrVU4?oc=5",
+    "published": "2026-11-04T16:30:40+00:00",
+    "description": "Blue Jays Free Agents: Who Stays and Who Goes? Just Baseball",
+    "source": "Just Baseball",
+    "category": "mlb",
+    "athlete": "Luis Urías",
+    "score": 2
+  },
+  {
     "id": "6ff03d8aeee32a590e69dd2f",
     "title": "Sergio Pérez Flores acusa a grandes transportistas de impulsar bloqueos carreteros",
     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVG9nMDhQVENxekp5ZVhraldpal9EVTlTZXFFcXI5M1pRZGRIUVFOZEY5STFZZERtZTN0eTNsWFVobm5QaVY5ZlZqNXZGdG1tQmhIdy1uV3ZTaHpZNWhVd3ptdHIyazlmRnp1OFVMeWtfMWVSMjFsc0c5VWNaRktCX25YSmM1MnNfemZxTjZ1SVk2bFBjX3dPTk5jNXJWaGx4a1R2U3poaG1Wb1dmekU0NnNRZ1hkX1NJd0NRR25MMNIBvwFBVV95cUxNVG9nMDhQVENxekp5ZVhraldpal9EVTlTZXFFcXI5M1pRZGRIUVFOZEY5STFZZERtZTN0eTNsWFVobm5QaVY5ZlZqNXZGdG1tQmhIdy1uV3ZTaHpZNWhVd3ptdHIyazlmRnp1OFVMeWtfMWVSMjFsc0c5VWNaRktCX25YSmM1MnNfemZxTjZ1SVk2bFBjX3dPTk5jNXJWaGx4a1R2U3poaG1Wb1dmekU0NnNRZ1hkX1NJd0NRR25MMA?oc=5",
@@ -888,6 +1251,17 @@
     "source": "Antena 3",
     "category": "ufc_mma",
     "athlete": "David Martínez",
+    "score": 0
+  },
+  {
+    "id": "b60932636ef3b72f0abf26a5",
+    "title": "Tomateros busca asegurar la serie ante Naranjeros con Édgar Arredondo en la loma",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcHpWLURLTmtLWUNJMVRVRzY2c25Pb0tqdmdCbmZfWkt1ZlVjYTBOM21oZVNTSGk2UG52SkZ3X0ZtZ2ttczhBY0lsNXE3Z1Z5UnJMaG1uTldlS0Z5ZnlGS0xDczIzUDJCZUlPZ1VqVnJ4Yjlsel9sYlpyRFM3clh6WHI4eTViN3c4ZmFNRkpmZFg0OFUyRWVSZXBVMFlrNHFZSmFnNVh2RkNfYVQyWkFqVkhXbkZUdkcwaURYejRHbF9KaGk2djFKLXlmdzRRZFhMWDZtaktBWXdYMTlBd19WdA?oc=5",
+    "published": "2026-11-04T16:03:28+00:00",
+    "description": "Tomateros busca asegurar la serie ante Naranjeros con Édgar Arredondo en la loma El Sol de México",
+    "source": "El Sol de México",
+    "category": "mlb",
+    "athlete": "Ramón Urías",
     "score": 0
   },
   {
@@ -1001,6 +1375,17 @@
     "score": 0
   },
   {
+    "id": "bb3d0db99e8633e417d69777",
+    "title": "Tour de France 2026 llega a México: fecha, rutas y hay sold out para correr en las calles de CDMX",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcmYtLTdYMkFDbVhGOUFsaV8xOWRTdm1TQW44bTVMOVFsSnFzVVMzTWJrcDN4ZWJzNjNSeGJrZWFNTW5scDBVRDM0aTNYOXlSMENiZXhuSkdXYXM0WEZVSEtETHlrczEyUGRPeWZvRzFhMDFZaUJPcVNMQlRabXNCT08xUXdVUXBGNDROS2oybEZtd3U5aTF3RzNPbWdSQXpiLXQ1YnBWN01lN1lWZTAxb09HdElDbXFvc3NZcTVGSzJDa2tScUxjQlpQX1BZcUYza0I3ZVl5WUJOXzduSndLSzVxbGV3SnEtNUE?oc=5",
+    "published": "2026-11-04T15:29:12+00:00",
+    "description": "Tour de France 2026 llega a México: fecha, rutas y hay sold out para correr en las calles de CDMX Estadio Deportes",
+    "source": "Estadio Deportes",
+    "category": "ciclismo",
+    "athlete": "Isaac del Toro",
+    "score": 0
+  },
+  {
     "id": "30c980dd53772052fa9d44c2",
     "title": "Vox denuncia en Vigo \"violencia\" hacia sus seguidores en Galicia y acusa a la Acampada de \"niños mimados\"",
     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWUNMNmNCMlRrbVhHOTBjcWcyM29LRGlpeG1xUFJJMWNsZTVfUG1qS29fNjJUd2NsTWIySTlfU1h4VHlQWVNhM1pWLWp3Y3hkSEpOYUppN0UtZ0RYQnFkekE5cU1vR0IyVmEzekNHWVVNUkdEcjJ3MVAwdENSQThQQXFLMDJuNjVoLXZNQmxzQnZyNUhKUE1MSmdrUko3Z1c2b3IzaVlGYXlMYmdXaFFFeGNJVWRRUG1qbWkyYXZRX29UZmZyZmxpV2JjSFdsaFRuTE1XWVE2WdIB1wFBVV95cUxOWUNMNmNCMlRrbVhHOTBjcWcyM29LRGlpeG1xUFJJMWNsZTVfUG1qS29fNjJUd2NsTWIySTlfU1h4VHlQWVNhM1pWLWp3Y3hkSEpOYUppN0UtZ0RYQnFkekE5cU1vR0IyVmEzekNHWVVNUkdEcjJ3MVAwdENSQThQQXFLMDJuNjVoLXZNQmxzQnZyNUhKUE1MSmdrUko3Z1c2b3IzaVlGYXlMYmdXaFFFeGNJVWRRUG1qbWkyYXZRX29UZmZyZmxpV2JjSFdsaFRuTE1XWVE2WQ?oc=5",
@@ -1020,6 +1405,17 @@
     "source": "CBS Sports",
     "category": "basquetbol",
     "athlete": "Karim López",
+    "score": 0
+  },
+  {
+    "id": "df898f42fb04f0454f34b66e",
+    "title": "Aire de realidad con el Sr. González - En el chopo",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQlhoNDRKYnI5UThtWU1Oa0hjWXQ2Y2h0WFdNOFN3eHdFYlN2NUs0SkpiLWZ1NHEzTTdhQm5qNUozVHM5a1FDcUlnTFEzLTNrWnAxRy12S2FwdXkyTDdCdHNfd0wtWW1qU3V6Q2JTVGRmaVFURXRxLTZsY1FvRjFBbC1mVjZxS1l5OXV5Z1dkaDBfVTZzWS1Wa2NOTVZfQzMzX0hKTQ?oc=5",
+    "published": "2026-11-04T15:07:00+00:00",
+    "description": "Aire de realidad con el Sr. González - En el chopo La Jornada",
+    "source": "La Jornada",
+    "category": "futbol",
+    "athlete": "Javier Hernández",
     "score": 0
   },
   {
@@ -1122,6 +1518,17 @@
     "score": 0
   },
   {
+    "id": "6ee2236eafcec70444fc07cc",
+    "title": "In Canelo Alvarez's win over Christian Mbilli, old is new again",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRmNCaVRaZGpZTlZHT1lvZVdiSm00TDFMT01MZVhMNDhTbXpONEpSWnc1TVU2eUE5Zk1TOXNSRW5GUWhZY0hOWlFnUVNjNFpGdkJDdnRMSEhBb3BIUHZOMGsxQnl1TUMyM0NvOXZGMUZLVnR0dmQ3VThHZlJYYWgxT3RBUXQ0R1pxb2R1UjluNG9rZC1wU3RMSnhuM2VLNWc?oc=5",
+    "published": "2026-11-04T13:30:00+00:00",
+    "description": "In Canelo Alvarez's win over Christian Mbilli, old is new again BoxingScene",
+    "source": "BoxingScene",
+    "category": "boxeo",
+    "athlete": "Canelo Álvarez",
+    "score": 0
+  },
+  {
     "id": "655e8f2d80e0f316e3bfcfa0",
     "title": "Carlos Slim Domit califica de especulativas las cifras del contrato de Checo Pérez",
     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZjF2NGI1RTdLS1hiOWdhT0tZOFpGUVpoWTZyZVZvV1FwbmVOSlZHQXF2Ri0xY2VzdWlQVXpRVmVVeGs5aEF4VjdMX3pXcUdnZlpCM2hJUmxHUmtZNHBwOGlFTzNteXFDOUszS1o5cjM1clpheHpqNWJoM2prNTVQcmZOUTA0Z3dkTjViZ0V3d2lEZlFaOFhHZmlJTlhzeWg2Q2NUVldzdGI?oc=5",
@@ -1153,6 +1560,17 @@
     "category": "nfl",
     "athlete": "Fred Warner",
     "score": 3
+  },
+  {
+    "id": "8b2368b64d9c5b78b241e693",
+    "title": "Joven cereteano falleció luego de sufrir un accidente en la vía a Montería",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBSM0JUaUMxSFB5QnI5cDB5SVZDamE0NTAwNnpDal92S3FTM1lGZ21wV0NFZVJqRjV4NF9MV21Fb2pMdi05ZG92elF1OXZXM2JoVTEwcUtUV2xUNVoybmJacw?oc=5",
+    "published": "2026-11-04T12:42:59+00:00",
+    "description": "Joven cereteano falleció luego de sufrir un accidente en la vía a Montería Chica Noticias",
+    "source": "Chica Noticias",
+    "category": "futbol",
+    "athlete": "Javier Hernández",
+    "score": 0
   },
   {
     "id": "4566cb2ad53d6b6e58ff35ae",
@@ -1320,6 +1738,17 @@
     "score": 0
   },
   {
+    "id": "2109668b70465647cc81032c",
+    "title": "¡Se abrió la chequera! Skubal, Arozarena y las estrellas que pueden sacudir las Grandes Ligas",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMG5tcGlHbG9Xa3Rydkh0eXM4b1o0akVOSTNyN05oeW1OeDcyYzZsM3Y4Z05ReVZiUlpyeVkzVHpqdFZXUjJfWVlyX3VGaUlDdUNtNzlqd3Qyd1pvanRSQWRuLU5lamxYUGNiT0NQbW1rQjdmZlIzMFl1azZzY21HNHl3bC01RTRsVDlkYWZtY3A3TDRSTVl1SGIxZG5tZXNkempzamFqaElfOGhIZUxaZXZLMXZNa05QV1l0V28zTDRYY3U2WDlfaEcxTmFDNE9Ra29SNElaaFbSAd4BQVVfeXFMTnZMbW5MUFBZOFU3d19XUlhEbjBkMjVDb3Jta1VrNHo1QXRxcWRta043Yk5FLURxTzZUOUpkeDJjaktHSjlXMWhSbVB5R2F0MEdUQ0t5RVdaTFdKQlotNzNjemJhUXJRX3ZBR29qb1hNRkZPdmZhNGxYejNtNjNxbkJyWGRtOUJORUdPbVJZVEwwZmZPc0ZGenhLX3lJN0hPc3g3ZUdDNXMwakNYZnpzc3FpV2NZZWp0OC1ub0VKaWhoOUxvWlM4YmttNlRabldodmpSU2J5NmFTamd5d1dB?oc=5",
+    "published": "2026-11-04T09:55:00+00:00",
+    "description": "¡Se abrió la chequera! Skubal, Arozarena y las estrellas que pueden sacudir las Grandes Ligas El Informador",
+    "source": "El Informador",
+    "category": "mlb",
+    "athlete": "Ramón Urías",
+    "score": 0
+  },
+  {
     "id": "c14e7f74c2649c7f64e9d2fb",
     "title": "CA Sports incorpora a David Martínez-Aldama",
     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbDVjZTFRQVZmQ05hNU9KYXB1bi1CLXFXYnNBcHNDTTdpa0dmSWcwMG1Ibkg1WEZvdnVxRGlGVExVc0t4ZWZZSU5MYUZpcXRpZlZvajc4ZzN4OGc0WVA1ZjlHdVYtb0VpNjFqUlc2VEYtVEpoTERWdVNhYTVWb2ZYdTZIcWJmMFFaY1FYUjVCTldVR05VSDFjU2tJR0ZLMk4yaDZCbERqc3ZRQVplMUt4QVEwdDhXZzJvMm1WZXFhTkdYdTJYQUtZdDZ30gHKAUFVX3lxTE9sNWNlMVFBVmZDTmE1T0phcHVuLUItcVdic0Fwc0NNN2lrR2ZJZzAwbUhuSDVYRm92dXFEaUZUTFVzS3hlZllJTkxhRmlxdGlmVm9qNzhnM3g4ZzRZUDVmOUd1Vi1vRWk2MWpSVzZURi1USmhMRFZ1U2FhNVZvZlh1NkhxYmYwUVpjUVhSNUJOV1VHTlVIMWNTa0lHRksyTjJoNkJsRGpzdlFBWmUxS3hBUTB0OFdnMm8ybVZlcWFOR1h1MlhBS1l0Nnc?oc=5",
@@ -1405,6 +1834,17 @@
     "source": "Identidad Correntina",
     "category": "formula_1",
     "athlete": "Sergio Pérez",
+    "score": 0
+  },
+  {
+    "id": "2cd6716f8cae06699ab6039e",
+    "title": "Javier Assad seguirá con Cachorros; Jason Kanzler, mánager de Seattle",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUEpnYy1GSnZocDBXRDZCV1JVeHBDZnRzQ0E4cDk1bWxkV2dzc2J1Y2ZTTHQzNkhuZUM1Q0wwSGNUUkQ4Z3I0dGZkdTh2aU9qak5MOUllbzVZcWV1N0ZEVzRJRUdUUHQ5SE5VUGNnTG42MUxxQXlNNjV5TUROWkhXTVc1Qlp3X2FSOFBNdldGTEgxTS10bVdJdVdic2NFZlpDQUxHanFOLTVkTER0anM0Rm5iN1lKaVV3cW5VQUlkWmR4VFowZVHSAcYBQVVfeXFMTVBKZ2MtRkp2aHAwV0Q2QldSVXhwQ2Z0c0NBOHA5NW1sZFdnc3NidWNmU0x0MzZIbmVDNUNMMEhjVFJEOGdyNHRmZHU4dmlPampOTDlJZW81WXFldTdGRFc0SUVHVFB0OUhOVVBjZ0xuNjFMcUF5TTY1eU1ETlpIV01XNUJad19hUjhQTXZXRkxIMU0tdG1XSXVXYnNjRWZaQ0FMR2pxTi01ZExEdGpzNEZuYjdZSmlVd3FuVUFJZFpkeFRaMGVR?oc=5",
+    "published": "2026-11-04T09:04:03+00:00",
+    "description": "Javier Assad seguirá con Cachorros; Jason Kanzler, mánager de Seattle www.noroeste.com.mx",
+    "source": "www.noroeste.com.mx",
+    "category": "mlb",
+    "athlete": "Javier Assad",
     "score": 0
   },
   {
@@ -1562,6 +2002,28 @@
     "score": 0
   },
   {
+    "id": "6ee08872c09593431586bded",
+    "title": "Algodoneros, Big Leaguers mexicanos y Agustín Murillo – No Pasa Nada",
+    "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE8xaXNEby1Bc0pSdzRpelFfdEhTNXpTa0dUbkhZR2ZEZEwyNDJiSXFDQS1sbTZZTFpqT1Mw?oc=5",
+    "published": "2026-11-04T05:41:54+00:00",
+    "description": "Algodoneros, Big Leaguers mexicanos y Agustín Murillo – No Pasa Nada Howl.Link",
+    "source": "Howl.Link",
+    "category": "mlb",
+    "athlete": "Ramón Urías",
+    "score": 0
+  },
+  {
+    "id": "fd7149ffd7ce80c5969ceb03",
+    "title": "Cadillac to Investigate Valtteri Bottas' Crash in Mexico GP",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1NVTJNWWdpUDI2QWJsZVZvMmk4a1h5Tk9KeXNsdEtveDdPTFJmTElSSlY1VHdTemNlTWVNeXplSmhnNzFuN1FuV2ZKV0lQanRUSFUyY29RYVlUMU1MMUxud1RSVQ?oc=5",
+    "published": "2026-11-04T05:35:17+00:00",
+    "description": "Cadillac to Investigate Valtteri Bottas' Crash in Mexico GP FormulaRapida.net",
+    "source": "FormulaRapida.net",
+    "category": "formula_1",
+    "athlete": "Sergio Pérez",
+    "score": 0
+  },
+  {
     "id": "b4553d839c42f850f9dbcfc4",
     "title": "CA Sports ficha a David Martínez-Aldama, ex de Team Heretics y WOW FC",
     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPU2RSNnBISVhrenJzYTJ2ajhtWUF5LUZmVG9DZ3UyY0dHWW9fY1FvQUdvcDJvMzJiNWdBVWVmMzAwRE1GUTFwR0k1VUlxU0szSG9FX2trNXd6aXY2bVNhRDBmVTBqQXNDcWJBX0F0R3VwVDNmanF5c21oS0FIeVNVR1Z0SldKMEZld3ZlamJCY3FrRUtZNEFfRlZPUmFmMm9yWi1MeFJpdE1DX0E?oc=5",
@@ -1716,6 +2178,17 @@
     "score": 0
   },
   {
+    "id": "9803163d0e6d058375494741",
+    "title": "Analizamos a los agentes libres del 2026-2027 en cada equipo",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZE85UFBmaXdqMWFJcUxDN0pQSDhuUFFLR1hWNElJOUlrZEptd0RYTnNLQjhLcTZQSFlpOWZyN0VXODBhZEdfclVFV3FEYzlvdFZ6UGxYV2FwZEw4ZjhyU2k3c0UzV2tyTVRvTnE4bGhVWHRvaXg1NkNLd0ttZmFIZk1JMll0OGswdFhaU9IBjAFBVV95cUxQZE85UFBmaXdqMWFJcUxDN0pQSDhuUFFLR1hWNElJOUlrZEptd0RYTnNLQjhLcTZQSFlpOWZyN0VXODBhZEdfclVFV3FEYzlvdFZ6UGxYV2FwZEw4ZjhyU2k3c0UzV2tyTVRvTnE4bGhVWHRvaXg1NkNLd0ttZmFIZk1JMll0OGswdFhaUw?oc=5",
+    "published": "2026-11-04T03:00:05+00:00",
+    "description": "Analizamos a los agentes libres del 2026-2027 en cada equipo MLB.com",
+    "source": "MLB.com",
+    "category": "mlb",
+    "athlete": "Luis Urías",
+    "score": 0
+  },
+  {
     "id": "0f059eb40bde9a36ca2e525f",
     "title": "Manuel Rodríguez González, nuevo titular del Colegio de Bachilleres federal",
     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWVkzQVcxaGpaNXNMOW55MVNycF92dl9UcU5QLXloSHNuV1VGb2N0Y3puRVJjZnZTWW5hN0xqYnhsdTFPN0ZvSlZoREMzTExyN1RwMzVHZnF6MS1HUUV5d1E5VDhkTGJ4Rk1SUW8tdnctUVRwMnZDMF9XNVo4QnA1TmU1QjRDU0E0aGhSMmZjdnRZS2NBZmxXQXh6ZzhCZE53S2ZLcnhENkhLa3VPS0kwZFZZQnU3UUg3OVNn?oc=5",
@@ -1725,6 +2198,17 @@
     "category": "mlb",
     "athlete": "Manuel Rodríguez",
     "score": 0
+  },
+  {
+    "id": "161b9bae5508eed2ec9944ff",
+    "title": "Team-by-team breakdown of every free agent",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XWk8zTGVLY2NBSmVHeW9UU3Y3Y0I3QXRYdy1fUFgwVmowcV93SkZ6UVNubm85MG96aTcxTUx6ellzblZyVmpDVFNTMEoxQVBOVl9XZkVnNmZ3NzJEbkdUSFlwaTZCVWFfeHJWaWNlOFUtZnNTYWtXVk5rUjNaX2_SAX9BVV95cUxPV1pPM0xlS2NjQUplR3lvVFN2N2NCN0F0WHctX1BYMFZqMHFfd0pGelFTbm5vOTBvemk3MU1MenpZc25WclZqQ1RTUzBKMUFQTlZfV2ZFZzZmdzcyRG5HVEhZcGk2QlVhX3hyVmljZThVLWZzU2FrV1ZOa1IzWl9v?oc=5",
+    "published": "2026-11-04T02:54:22+00:00",
+    "description": "Team-by-team breakdown of every free agent MLB.com",
+    "source": "MLB.com",
+    "category": "mlb",
+    "athlete": "Luis Urías",
+    "score": 2
   },
   {
     "id": "a14bdf552237ee524c7945a9",
@@ -1747,6 +2231,17 @@
     "category": "formula_1",
     "athlete": "Sergio Pérez",
     "score": 4
+  },
+  {
+    "id": "107637860a04c8dbeb021d3d",
+    "title": "Los Cachorros aseguraron a Javier Assad para 2027",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSjQwT1B0Mkg3YVJ5Vm5ocjZ3S0tKcnhfbjZFeWM4Y3E2cHZaRWc1ZWx2YTZZZFhhcUk4ZUJIRFktanNKRnI1YVNMckt1OTE5Sm9HTmJEMWpjbHV0NndiQWZTbVJTX3dhcmVLYVFZeUxqX3hMR0tUcmhIOWtremgxTGpDMmpmTnVlNjVRTVJBRXV2dUdHWm9PVTZ6UGZtbTRnVld3dzUtY2JJVTJ5S25JSVpn?oc=5",
+    "published": "2026-11-04T02:39:26+00:00",
+    "description": "Los Cachorros aseguraron a Javier Assad para 2027 Líder en deportes",
+    "source": "Líder en deportes",
+    "category": "mlb",
+    "athlete": "Javier Assad",
+    "score": 0
   },
   {
     "id": "3f786f12403dfa5f65e0f952",
@@ -1823,6 +2318,17 @@
     "source": "La Jornada",
     "category": "formula_1",
     "athlete": "Sergio Pérez",
+    "score": 0
+  },
+  {
+    "id": "8d44f812f236b020025da6a2",
+    "title": "Los Cubs se echan para atrás con Javier Assad",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5jRzhtUmZuUEJ0UFZHaFplMzBNdmtiU0pVNWtvbzBCYjUtYlZRV0ltN1lXdTJLUzdzTm5sUUQ1YXl4ZXYyZExZNWtNVDdNencyQkJ6TVI5aUduWThfNDZPNWJTaks4NWM4clBJRHhzc2RDaDBtX2pSZ3NB0gF_QVVfeXFMTUNteEhqWWVwZ1R3YjJXcVc5YWVRbjlzR0RBYVBVbFNOc0xMR1JVQlFib1NVVEZVSl8tblFLRnJwcEkxUVVvYjBvTEJhbDBOY1RMZXlIUUZkVjltVnZ1aTBtbmdWSTV4WHZNT0JWRjVVcExoSTZCM01BbmY2S1Rmaw?oc=5",
+    "published": "2026-11-04T02:17:08+00:00",
+    "description": "Los Cubs se echan para atrás con Javier Assad Excélsior",
+    "source": "Excélsior",
+    "category": "mlb",
+    "athlete": "Javier Assad",
     "score": 0
   },
   {
@@ -2068,6 +2574,17 @@
     "score": 0
   },
   {
+    "id": "40d9dc805ecf3ec9c578223d",
+    "title": "Toronto Blue Jays Announce 25 Roster Moves After World Series",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbzJGcWxKa3FOWWZ4cjhqOUk3aDhpc1pqUFJjeEJvVFlySE9od2VxNTgzSlVqVTdJWVVhQVhXS3ZKMEtBMS1RSWd3V2lxWUc1Nko3Z3NwMU5wZ1ppanhkNDFqS19oRXE3NWJwa0lYdHd2NVlKaUh5bzdodzRIUHJLTS1xTlhfaTlyN2VoclNR?oc=5",
+    "published": "2026-11-04T00:20:00+00:00",
+    "description": "Toronto Blue Jays Announce 25 Roster Moves After World Series Heavy.com",
+    "source": "Heavy.com",
+    "category": "mlb",
+    "athlete": "Luis Urías",
+    "score": 0
+  },
+  {
     "id": "89048fc0ffae7adc612c5187",
     "title": "“El Viejo Sabroso” ya pertenece a Checo Pérez: IMPI le entregó su marca",
     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMml3RGFGaXk2N04zempxaW5hRml1UkNvTFpWbVdLOFM1YWVTUnBCQjZmMXNFMjg3MWg5aE9pcEdpT1hXYVlLaVZxQjBPbUxuWFhrTmVZalBSVy1MWnVrOVR5VXdDcFlQU0FhbmZ5Q1pSSkZWdXNYc0toZ3hCaDN4VkxRdUN2SkM5TUl2Ym1fSVV4WWs0YVpLeEladmlrV2xh?oc=5",
@@ -2107,6 +2624,17 @@
     "published": "2026-11-04T00:09:31+00:00",
     "description": "Benavidez criticó que Canelo Álvarez no fuera por el nocaut ante Mbilli: 'Si gana todo ese dinero, es lo que esperamos' Mediotiempo",
     "source": "Mediotiempo",
+    "category": "boxeo",
+    "athlete": "Canelo Álvarez",
+    "score": 0
+  },
+  {
+    "id": "3f3ac6a9d13d158357bb7884",
+    "title": "¿Juan Manuel Márquez destapa amaño en la pelea del Canelo? “Tenía que seguir un guion”",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaU1LQUlzblV3cTJSeWtDQXU2bDZtR2RKdXo4dFd4MkRfQjFSYmwzZUJYSGZBMXNwemprOWNBU0hPM1Rtakw5eFBfeHRLUHBBM0xYUVVZbWtpZFVmUldzV0RLdllYZmM3VE5SN1p1MDFkMDExbUhfOTdSdTBVOFY2VVh3aTlWM0lIcmtIeEdWM1M1Q1RzV0ZoU2sxQXd1TnVCZjVtN29seFVQMF93ZlZsMERPbzVGbC0yY2F3bXIyWnp5UHR6R1Jr0gHiAUFVX3lxTE5MSnRKUWJ1OGJvUlM1RDBGVlhTSmNLUzdNeTBKME12elJMNnV6dmxFVTh6aWNjc25VZE5pbmd6Sl9qdUFOMmdGcDl1T05lQklsODdHWkJ3c2t0LTl6clg2dTNSR3AwVHJjcHd1U3d0dDBGazZqMlgyZ0ZQWTdNZzY4Vm5OYkhsWEpWb2pCdk0yZ2t2akZadDhoSHBkTkdTUnZBT19rUGFpektwWWIybURqQ1pLUTZnMVgyNTJxTUFIV2pQaFZTOUxqX2Z4aVFHbmdLeERDSVFUc01FX1Y1SVRaVEE?oc=5",
+    "published": "2026-11-04T00:00:00+00:00",
+    "description": "¿Juan Manuel Márquez destapa amaño en la pelea del Canelo? “Tenía que seguir un guion” La Razón de México",
+    "source": "La Razón de México",
     "category": "boxeo",
     "athlete": "Canelo Álvarez",
     "score": 0
@@ -2230,6 +2758,17 @@
     "source": "Mediotiempo",
     "category": "formula_1",
     "athlete": "Sergio Pérez",
+    "score": 0
+  },
+  {
+    "id": "765323c15c34df31069b2917",
+    "title": "Report: Cubs decline Javier Assad's $3.3 million option for 2027",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONGpuN0pDV2w3Vzd1TW9CZkVuZEhMbGRfNXN6WkVoTUxTNWp2WWFzUkVwb3U3R2lIN2VIZ0w4Q3VGcllTMWhPdm1wYk9kSGhOc2dMR2I2aVY3cWdNOENvcU1DYUNhbFFmYU1peTU4YzhpZ0xZOV84b1dFVVlmUU8tQlhCWnp6aWlISmlZcWhZemtQTUpkUVlfUS1Mc2VhNkJnRFN2dGY2TUZMQ0d0OEE?oc=5",
+    "published": "2026-11-03T23:29:50+00:00",
+    "description": "Report: Cubs decline Javier Assad's $3.3 million option for 2027 CubsHQ",
+    "source": "CubsHQ",
+    "category": "mlb",
+    "athlete": "Javier Assad",
     "score": 0
   },
   {
@@ -2363,6 +2902,17 @@
     "category": "formula_1",
     "athlete": "Sergio Pérez",
     "score": 0
+  },
+  {
+    "id": "2e1027d2ad892d79ffe5f4b9",
+    "title": "MLB: Mexicanos aseguran contratos millonarios ante la amenaza del lockout",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWEt6cU80RU5fUzRIaWxxbk50LXFLdC0yaDk5UXNISnZRaktubURNaEZEekdHVC1lZ0lCVGRUSW54cHc4TEJqc3J6ckoyVVdiS0xsdVBOcFVkcWhkcW1sWkU4NDdHRUx2dnNCRnFqaThEOF80MmYyTklXVF9tUGJWM3p6TXZFOFI4cW5QMU1vdFhnYm5qN0E?oc=5",
+    "published": "2026-11-03T22:38:27+00:00",
+    "description": "MLB: Mexicanos aseguran contratos millonarios ante la amenaza del lockout Sports Illustrated",
+    "source": "Sports Illustrated",
+    "category": "mlb",
+    "athlete": "Randy Arozarena",
+    "score": 3
   },
   {
     "id": "115191861f9b07f910c69793",
@@ -2527,6 +3077,17 @@
     "source": "roundtable.io",
     "category": "basquetbol",
     "athlete": "Karim López",
+    "score": 0
+  },
+  {
+    "id": "78de95de571dddb5a2beacd3",
+    "title": "Emily Álvarez, hija de Canelo Álvarez, conmueve con emotivo mensaje a su papá: \"Gracias por hacerme sentir tan amada\"",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPRHZ4NWJadmxkYjRfYzJwVWlDbjJJWEEwWkdCQkoxTmNlR1RVbWZmVlpjWlpScFRydTdlb0p6QkhoVVFwM1d6WTJjZzBIREM4bGJZZXBtMXVYSlVnWnRmZDZPZWIzRHdWR0k0dTlKcXhVZHpVZlBFby14RnRCVThrRWNRVTRITXljS1l0eC1xNWk5MFRDZFd5ODRRajcwUGlTNkx2QjUyN3JYLTl0bFRueWo2eTNJdVlnS1ZyUFNseXY2YmZpUkdqX1hwTnFGMEw5U3lKZXdseDVSekVTZERSZWthdHJ1OW4xNUFzeg?oc=5",
+    "published": "2026-11-03T21:35:00+00:00",
+    "description": "Emily Álvarez, hija de Canelo Álvarez, conmueve con emotivo mensaje a su papá: \"Gracias por hacerme sentir tan amada\" EXA FM",
+    "source": "EXA FM",
+    "category": "boxeo",
+    "athlete": "Canelo Álvarez",
     "score": 0
   },
   {
@@ -2772,6 +3333,39 @@
     "score": 2
   },
   {
+    "id": "03dfacbc97db73b9f29d6c4e",
+    "title": "Cubs Decline Javier Assad’s $3.3M Option; He Remains Under Control",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeE05UGhqWUwwNjBBa3NHNUhfMXhnel9EcVRiODZtbHc2Y0xybEF6endrOHJ4YlF2bzNLaWdMWUtxcHlNeXo2VkF2QmZ0THg2ZS1yN0hScEpkSFNGSUlZTmQyVVNSYmZDQy1vSEJ3a1BnaG9wbXJlQ0VmYkJqcGlqcUJVXzhfTll4Rm40Z3dnSzVtWGg2OXJ5UFQ4NFZEQQ?oc=5",
+    "published": "2026-11-03T20:23:25+00:00",
+    "description": "Cubs Decline Javier Assad’s $3.3M Option; He Remains Under Control BVM Sports",
+    "source": "BVM Sports",
+    "category": "mlb",
+    "athlete": "Javier Assad",
+    "score": 0
+  },
+  {
+    "id": "4fab306698d75af91d6aa14e",
+    "title": "MLB: Cubs toma drástica decisión sobre el contrato del mexicano Javier Assad",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQR3VCdy0tQktoa1BtQWxDMEp0Si1QMzZFb2o0YjY1bTlta3dtVXd4UmxqTnhWbUlhQ0p4cld0elc3VC1icFdUNFdVX2xQWHh3SWs0LXQyUWk5MFpvMUpTLUkwdEdPRHZLVFBfVVlBZW5kSEFmTTBQckNmMDNMX0h1eU5vbTctdVBNRGZEcEhkalh3MmNQMEF1a2llcy1DbDhMdjhGNGVOMTJ4amZDRVBLTlllTVBsOVhuVmg1StIBwgFBVV95cUxQM2N1UzVWSGdkOG56UGoxRVdhVXptR1d4Vm9pTjd1ZnlxY0w2ZUtVVWFvNEZpcG1tYi1OM29DS2cyR09BelJVUzNlSEJJbmxxaVB0QXBNZXpwN1lTbUdKcDB0SXN4Uk5Ua2JGT1FtUW51Wkd6XzAwcElONkV6aWhBT1hxRFZLMmRVZHA4cUdNaXJvMi1BVGJFRWd6azdvMTdsN0FrR1hGd1NBeHhVSXVldDBwTFdEZ0Y4Qi13ZmVJN2pUUQ?oc=5",
+    "published": "2026-11-03T20:17:00+00:00",
+    "description": "MLB: Cubs toma drástica decisión sobre el contrato del mexicano Javier Assad Al Bat",
+    "source": "Al Bat",
+    "category": "mlb",
+    "athlete": "Javier Assad",
+    "score": 7
+  },
+  {
+    "id": "cc1ac82edde37d5384536ab1",
+    "title": "Javier Assad Has Option Declined, Remains Under Club Control Via Arbitration -",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZGV6RlpabmMyZ09sa0V1OVFSMHVGVlZySUJFSDlHLXdFc3ExRDZLRDU0SlJHQXR4UE9KNUxFVDdISE9BV3VmVUtFSUVIa2hiZVF2S1FYQ3Q5eldqYy1SUUVZOXJ5eDdYODdfaHRQV0ZXdHNMRTFFbEZKWmVzeFd5MzAtdV9aaV8xZnd6WEx1VkdZd2I5Mk9rblp3RDlRM0tma2ZOUk5FUnNaaU9PZWJkZ2F0UmJIUQ?oc=5",
+    "published": "2026-11-03T20:14:57+00:00",
+    "description": "Javier Assad Has Option Declined, Remains Under Club Control Via Arbitration - Cubs Insider",
+    "source": "Cubs Insider",
+    "category": "mlb",
+    "athlete": "Javier Assad",
+    "score": 0
+  },
+  {
     "id": "a63b67bad54b2118a8ebc22d",
     "title": "MLB: Top Insider Leaks League’s Bold New Salary Cap Proposal—Here’s the Scoop",
     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcUo4cUZqYkFPNmFJX3hNTEp4RWN5dnpIalNFSE15aE1OaVZUbVpDTEtHS2tQYzBNNDRiUlA3NDVJQTV3cVp6Y3p1d1Q0SU5aU21wemZOd2ZhV3JTNjJHbmp1b3B0czY0Mk9Yak5SZ2FUM0NqWTJsVFpkM0Z1VkFoMkR5ZktZMnhvOE1IZlNqT1NBSTVISndUdmlaUTJtblU3TmgwNFRvN1BWMTVlcWVZSkJDYVhyS1lJOXhPaEZn0gHDAUFVX3lxTE5DWVFEdTNDVWVSOWR6dllCWFZkbWhqdTNDblhNNUtsT0JkY2l0OUJ3ZEZxdXhBVmpHaHQzV2lTU2FHNjJCcHBMMnlpRnU0ajlKeGFpUEN2eUQyY2JHeFlOOFlHN0ItWjJ2OFFObmluWkxiaDdIcTB2dGFmd0xqYm82RGdYSkowMGdMVVJrVU5YWTlCRG1MblN5bFc3U1hfTHJZR2lGNVN5WWdwX2piM2pvanViWERtajhoYVI4bjMwZkNBUQ?oc=5",
@@ -2827,6 +3421,28 @@
     "score": 0
   },
   {
+    "id": "37715439754b0a54d56c6d03",
+    "title": "Tim Bradley revela qué aprendió Canelo de un ex campeón y cómo lo ejecutó ante Mbilli",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPakxaWGpMeTN4Wl83LXl0YnlfenJ4dkNRa3k2V2FPb2hxNDZORnJ1cmZObm1lclRBQkpIbkNZUnFCMjVIY1FBbFVwclo5dkhuQzlfVktxNjVNQW5oUzVzM3NZZUZrR3JhUTFraEVmOVItY3d6dGlZNml0OUM4eGRRdjg4WERKZDFtT05heW04SFFtSUFmY1pVOTRmTHVKV3VhOGRIaDNDcHdEUE1qLWx3MXVlc3p5bTc4dTBILW03b25HNUFyRmE0a01FcS1QLXdWYUU40gHYAUFVX3lxTE9MekJLTXl0YmdXd3VGbnRMNktOQm9LZFdXUl8xYVM3OENkdmNMRnZjY19qMFplMkRMTVA5MzRJNGN1Qll4X3h1dzZFZjJ5N1JCc2Jnclp5c1dUSjQwbFpDSzg1ZnB2N3d6T3RvbXJKMUFfYTNNTW9VMTEzb1RsbHBSSExRSnlveVhGbzlRVXFoWE41S09YRmd2VndlQ3BNUmxKSHNNTkVfam9LUlBsX3p5SUUtSHZsaWtlSXNDRV9zODZJVi1ialV2c20xMV8xOGliZXl5Wlowdg?oc=5",
+    "published": "2026-11-03T19:30:33+00:00",
+    "description": "Tim Bradley revela qué aprendió Canelo de un ex campeón y cómo lo ejecutó ante Mbilli Izquierdazo",
+    "source": "Izquierdazo",
+    "category": "boxeo",
+    "athlete": "Canelo Álvarez",
+    "score": 3
+  },
+  {
+    "id": "42a5d7cce8835677da91f883",
+    "title": "Report: Cubs decline Javier Assad’s option",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWHpjYnNxM3p0ZVdJc2tYdy1OTkpvTFhUZVZaTXlocl83TldOaXR4MFRmTDR3d1NDaXVubHJPMDZxUkdtU0FIam42SzdlT3RGVkpNYW93cHhTWUFwU2I0UUJYWWFxLXB0U2g5RVNLVTJ3OFFXTlg3T3ZtaXpuLXhWdHBXcHJPRF9SZ2g5bUNvQlozTDM5RVdrdDBRQmxRVHBubzNBdkdHWFNpUQ?oc=5",
+    "published": "2026-11-03T19:29:00+00:00",
+    "description": "Report: Cubs decline Javier Assad’s option NBC Sports",
+    "source": "NBC Sports",
+    "category": "mlb",
+    "athlete": "Javier Assad",
+    "score": 0
+  },
+  {
     "id": "1b1a0306dbbe96ed49f740d9",
     "title": "'Noto que tenía que seguir un guion': Juan Manuel Márquez señala accionar de Mbilli ante Canelo Álvarez",
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPa2laaE95QWN3bEozaHY1RnMxMlNDWlVjSE1fdGJwR3NQcWV2UVVmNGdfWlQzY2w5TndXeGVOMTBFN21wcTBBR2tQTFl3ZVlMMFpxT1pGVVN5endJTklLbDlRSmZSU1h3SEx2Wl96LVpUWXllal9NNHN6VHJyQk1IZVpsWVRRSzRTSk1JM0JvTGZGNmUwZjdhYm5Da1FyLURac1NWVNIBpAFBVV95cUxQX2VFVFJoN0FXb2hPNGtsRFFSaGVJWlpUTVVfRnBnc0luMkxJMHViT0Nxakhhbk4xdEY0LXlnRkRRc240MUhYak1lS25zc3hsTU53ajRjd2ZrUjBnVWQwaWJtelhIVWgyOWxLbFJ3cURFTnhQX2hKd194bUlqX0RjV2xzTXlvZHNwd3lfN2hYSjNjMzFUVE9SVjloUHZDWGhoeHVTNw?oc=5",
@@ -2835,6 +3451,17 @@
     "source": "Mediotiempo",
     "category": "boxeo",
     "athlete": "Canelo Álvarez",
+    "score": 0
+  },
+  {
+    "id": "efc54c083c995a32eda8d3dc",
+    "title": "Selección mexicana de Beisbol 5 conquista el tercer lugar en Dakar 2026",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQVREak5nZFJKQWswWHBEdEZ2dmowd0dCVk5wRG5YYndvcmQwRm9KSEltejFvWE1MMEZDR1cxMTNRN3BtVEVWeWl6U1pwOHpjU2NfUmtpQWVxeERSZ0V4Nm1WU1c1NTJrdnpmN25IVk44QklXQkdCOWpfYUVqOFJpTWRXZmJKTlhnZS1keFBoMEpEN3VSbm9kME1RTkh2dXd6RXdERk9FWVlmQ2FWTlQxTXVDZkVsOEU4UG1vUExFZVBUZXZxTDQ5b2t4YXhGMHZLbWJ2NndR?oc=5",
+    "published": "2026-11-03T19:17:43+00:00",
+    "description": "Selección mexicana de Beisbol 5 conquista el tercer lugar en Dakar 2026 El Sol de México",
+    "source": "El Sol de México",
+    "category": "mlb",
+    "athlete": "Ramón Urías",
     "score": 0
   },
   {
@@ -2847,6 +3474,28 @@
     "category": "ufc_mma",
     "athlete": "Alexa Grasso",
     "score": 2
+  },
+  {
+    "id": "53eb546240eae6d771633213",
+    "title": "Cubs' Javier Assad: Option declined, but staying put",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRHc3cXJfSHFqNS1IWkFsYU9sV3dkVUlZOTduZ0Q4b2txMUZPQkJmNHkzNEdoakkxOTNBeGRuaUdDSHJCeWItRGpwZm51ZF9waGlPLVlIUEdacVRjbEkxOW5QbTdGZy03WTd0MC1DNVBodlhNRm9VNm90SGlzVDQwQjU0dU9hNjlRUl9LSnhLdjlHZmltcUtTYW5wSkZwVkE?oc=5",
+    "published": "2026-11-03T19:07:37+00:00",
+    "description": "Cubs' Javier Assad: Option declined, but staying put CBS Sports",
+    "source": "CBS Sports",
+    "category": "mlb",
+    "athlete": "Javier Assad",
+    "score": 0
+  },
+  {
+    "id": "cc4e9382e49b6afc7253f505",
+    "title": "Javier Assad News: Option declined, but staying put",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQzk2UkI2QlVpbWxrSE9tZV9LVjdEZ2RaSzVHN1R5SUp4VUFfSzhFYWRxeDR2eVdsaWQyeFNGTENhbDJ4bThwVmQ4NVJmNHpzaHNtSjV3b3BrWHhPWDNPeXlfRGo2YXRDR0xueHBHajZfYXBlUUZ2Q2tGcDhhS0tOcDZTbkY4Q0FVWmpxOC1lSHVXd0dZaDllV25mdHkzak9yeDNJ?oc=5",
+    "published": "2026-11-03T19:07:37+00:00",
+    "description": "Javier Assad News: Option declined, but staying put RotoWire",
+    "source": "RotoWire",
+    "category": "mlb",
+    "athlete": "Javier Assad",
+    "score": 0
   },
   {
     "id": "86580aa76fda91280df4f546",
@@ -2869,6 +3518,17 @@
     "category": "boxeo",
     "athlete": "Canelo Álvarez",
     "score": 0
+  },
+  {
+    "id": "33f4be58eb605b93380b966c",
+    "title": "Cubs Decline Javier Assad’s Option; Assad Remains Under Team Control",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUEFQNUowSkl5YTZpMnhha0VmQzdERmpIc1JhUGVOWk9qajNHWlpfUFVvSmlHSk9hcWpuUmU1Q3JRU3Fuckp4dmpzQU1GS0p6Ukc1dHdyQzNVdHdBY3FJamlRVFVhd1ROR3RLU2VNNG8tc2s3ZGFobVlsWkctOE4yQ0FLdUd4T0VVRHVXRmJzdkljZmhJRmJoUEFvVUUxUlFaOVdqU29B?oc=5",
+    "published": "2026-11-03T18:58:35+00:00",
+    "description": "Cubs Decline Javier Assad’s Option; Assad Remains Under Team Control MLB Trade Rumors",
+    "source": "MLB Trade Rumors",
+    "category": "mlb",
+    "athlete": "Javier Assad",
+    "score": 5
   },
   {
     "id": "776c83dc5b2365a0b88af1da",
@@ -2935,6 +3595,17 @@
     "category": "formula_1",
     "athlete": "Sergio Pérez",
     "score": 2
+  },
+  {
+    "id": "e0236c173a5481ba9f05876e",
+    "title": "Terrible Morales revela preocupación por boxeo mexicano actual",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV0FOTXllZ0Q4SWhiNG1hT2F4dHJzdlJXOTFzTWhIblpzMnZuWkJVZ3hiaVVvYkZ6Qjk4dEJSR3QxT0NjbllINER4bDM5cVF6eFNTdWwtbGlzeDZzSzk4MVh3b0g5Vkp4LXJmZlRERU9YMmJSQlV2Z2ZNSlR5dkcybGJkNnNRdnVSN1Q2Qm4zR3hGUTF5UWZ6bVVhTi1iMWozSkEwQWhTVGR2cFJ3UjdsM2E4RG7SAboBQVVfeXFMTm52V3kxQTV6djBtVGVxcGt5TDU0bXlxb2VnUTdPdFBVNGpDczhuV3pTdnFHMmlpaUgzWDRya2RYbDJaVlRrcEFhWFJ0Tmp0Y0FfaDhjRHUwNmpHWWg1R0UwYlg4em93Vjl6emtXVHhHQVJKWHhnc3RCYnQ0Z2JzdmhOeG5YeDRqMnlJQnB5QWhhbFF5MFRKT2REMjJOMEdWcTFGQ1BMWnRNSzBfd2lBcTQ0S3I0SU81b3F3?oc=5",
+    "published": "2026-11-03T18:39:46+00:00",
+    "description": "Terrible Morales revela preocupación por boxeo mexicano actual Izquierdazo",
+    "source": "Izquierdazo",
+    "category": "boxeo",
+    "athlete": "Canelo Álvarez",
+    "score": 3
   },
   {
     "id": "9aae380ee829f65f52786697",
@@ -3011,6 +3682,17 @@
     "source": "Al Bat",
     "category": "formula_1",
     "athlete": "Sergio Pérez",
+    "score": 0
+  },
+  {
+    "id": "8ebe2407987826046b457325",
+    "title": "Luis Cessa domina desde la lomita y responde con Tomateros en la temporada de la LMP",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNGYzc0hvalB0R25ybDh2MkFQY3NoQ2hVZFRYcmtjT3NlUzhnREhBVDJ1N3dWd1pQZFh4eU1Ia3I3bnkxdENZX20xdDBxZE8wM0xOZUQxRmtsR2RPa1ZJMTlQSDR1SGNyclVGZThERFUxMkJQbGFvUUZrcGk3dUlvQVNTRzBmc01RUTFISWFjNk9nTnBuTk13RWw5NEhKTmk4ZGlzbHI3VUNWVjdXWmp2OWRqR3hpM1NwVHVvLWFwZnNSYlBBYWp5R1hYSlNnd2NxSkhUMEt4Ry02TVp3U0d4ZmhEdVlZUQ?oc=5",
+    "published": "2026-11-03T18:17:35+00:00",
+    "description": "Luis Cessa domina desde la lomita y responde con Tomateros en la temporada de la LMP El Sol de México",
+    "source": "El Sol de México",
+    "category": "mlb",
+    "athlete": "Ramón Urías",
     "score": 0
   },
   {
@@ -3141,6 +3823,17 @@
     "published": "2026-11-03T17:30:15+00:00",
     "description": "MLB: Leaving Atlanta? The Braves’ Wild Plan to Avoid Losing Ronald Acuña Jr. for Nothing Al Bat",
     "source": "Al Bat",
+    "category": "boxeo",
+    "athlete": "Canelo Álvarez",
+    "score": 0
+  },
+  {
+    "id": "3bdeb2ff2fbfa1424ebdb3cf",
+    "title": "Canelo Álvarez recupera el título supermediano del CMB y planea tres peleas en 2027",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUTVMSTlGZWc2aEV0RTlwcmstUU1JeXo3cG5sWlhSeF8tUWNyS0ktdmFGOFpvSXZmcTlmWUxjZm1oRDJCeE8xb3A1Qk84aDZLc3lXWEthVnJMdzRVdDVneHN2RUR6VE94U19MbGx1aEJLMzVBZG1XLTNxa3l5UXFucGc4c0RqWW85Q19OS1pNTW5PTHNEemhySURn?oc=5",
+    "published": "2026-11-03T17:26:51+00:00",
+    "description": "Canelo Álvarez recupera el título supermediano del CMB y planea tres peleas en 2027 Columna Digital",
+    "source": "Columna Digital",
     "category": "boxeo",
     "athlete": "Canelo Álvarez",
     "score": 0
@@ -3586,6 +4279,17 @@
     "score": 0
   },
   {
+    "id": "e5c79873187b8d752b1a1b1e",
+    "title": "Elephant Rumblings: Free Agency Officially On",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaDFLekh2dTRURGxKWEpjQ3FNUmtDNGNIeUdSSG5oeXhFQzUyemVDN0JLMFlwYXNZTnZiS2NpLV91RW14SHF3U2lfNV9lcWRKQXkzbGJCRE9GSUtOSi1zUktTR2JySmYwZHdlZ3doYURmYS1mRU43UTJrV29Wb1d1VURpVnZkQmpqOVg1ZGFlTi1kVGMt?oc=5",
+    "published": "2026-11-03T15:10:30+00:00",
+    "description": "Elephant Rumblings: Free Agency Officially On Yahoo Sports",
+    "source": "Yahoo Sports",
+    "category": "mlb",
+    "athlete": "Luis Urías",
+    "score": 0
+  },
+  {
     "id": "50d256a4011939837d0aec91",
     "title": "Cadillac, equipo de Checo Pérez en Fórmula 1 estaría a la venta por 3 mil mdd",
     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObGlCaV82WTZmS3h2VE5qeUFZdEdiS1ZSa2xRR2ZNWEZRMWdnV3dDTl84ek1nSUxkVk9uMUlEcFdhckthRHFHQXFrU3dIaGcxYXJqUEQ5cXlTeGhGTHJwenZOaTIzWTRCTEs5VjJKb1p4UC1BUk1fMVhiQkhTd1lpbEZHNDdFNHl3MDRYRmM2dVZGU1JpZlRxZnE4NDBFUQ?oc=5",
@@ -3817,6 +4521,17 @@
     "score": 3
   },
   {
+    "id": "16d7869ae756339a0b9b1766",
+    "title": "Randy Arozarena y otros reciben ofertas calificadas de $23.15 millones en MLB",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPY3NsSHVCM2VqaGxHaVR0V0FRQXg2SVpPOTZ4LS1PeE9fQjJjNEFOanRWUDhJWFNtd0lDX2JZQ1FHbTV3dzJmMUgtMFFYOHNiY1pzRXZvZGlwM1Q4Rml2N3phajlNQnRRUnJFa183WEdkLUxVa0VsdXNDZ2FiTE91dzRORklKdDJwUllVeWpWUjdzUFFqRm4tc2VZc0tuUDY2STNLeDdUQQ?oc=5",
+    "published": "2026-11-03T11:42:15+00:00",
+    "description": "Randy Arozarena y otros reciben ofertas calificadas de $23.15 millones en MLB ESPN Guatemala",
+    "source": "ESPN Guatemala",
+    "category": "mlb",
+    "athlete": "Randy Arozarena",
+    "score": 0
+  },
+  {
     "id": "a2a76a4661835a2d07e5a860",
     "title": "Relive the action as Canelo Alvarez becomes world champ",
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMnZLU21GZ19WS1VJd3pCZmRCdE4wa3FTY3FjQzNhRFdfX1E5aGdVRjFNSzI1ZmV1ZTQ0d2xER0UtZGZVQTYydVJQMGlkSERDcy1WSUNCYUstR2pfRzJzV2R0U0xRUmdsNzhNNVpPSTNhZzdaX2d1V2xtajA3eXFBaGZJNDBrSHNYRXNBMWNQTlczYUZzQlBtcXpIdk41X1BvMTM5Y1ByU3RoRndwOTRBZUdR?oc=5",
@@ -3836,6 +4551,17 @@
     "source": "IDLprocycling.com",
     "category": "ciclismo",
     "athlete": "Isaac del Toro",
+    "score": 0
+  },
+  {
+    "id": "e006f3c68a40a6b94d6271ff",
+    "title": "Canelo Álvarez derrota a Mbilli y recupera el cinturón supermediano del CMB en Riad",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMlBhV0xfZlJrd0FZZkdrQ3hyR19MN182MWFDVU1CemxHN1JIUk5hRVdEQV8tN0tUdlN1YTFfNU5taUlxY0JVZzF5ejFmSmpEME5fanlFQUxuN0dKT1FBZEM4ZE5NeFRKOXY3dFBjWmJBZElrYzJ2TEdRYlBwYkM1VGw4QU9YUVowaXhmeTFncDZScHJXWmxaOFd5TnZta29rRklud29xN21udDN4aEU0Mm9UTjXSAcgBQVVfeXFMTmlsNEZGUHh1cjB0U2tTT1JLS085OTQzNkNPa2IySDc0YUpBYmZYUW1NMXhTVy1CUThJb3Btd2o4TlBWemp2cDE5ajY4ZWt0WXN5dGVCT0U0V0NvaDZ1ekhjZzlsQVU0eFozUlJnQlN2TlBGSHdSZ0xTaWpsT3lIWV8xbmdVUk01bF9IWk81LU10S1FZUmtNSkIxSzNmQ2VJR1k1NXA4ODZSeXN3WXQ5T1RyZGdiaW1hVTZVMXNtOHVBeFdzQ0N4UDA?oc=5",
+    "published": "2026-11-03T10:04:24+00:00",
+    "description": "Canelo Álvarez derrota a Mbilli y recupera el cinturón supermediano del CMB en Riad De10 Sports",
+    "source": "De10 Sports",
+    "category": "boxeo",
+    "athlete": "Canelo Álvarez",
     "score": 0
   },
   {
@@ -4056,6 +4782,17 @@
     "source": "El Vigía",
     "category": "basquetbol",
     "athlete": "Karim López",
+    "score": 0
+  },
+  {
+    "id": "75561a9c6eb039703dc4d109",
+    "title": "Tracking every team's offseason moves",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcDlhU0kzU1BxMG0wQmRPYlpMbGw0U1R3MnVmbUUxWFl4U3M3X3UxWHpPcVZmaVk5a01DWGhHWERCMTlXUlpiU1M1RXdrRHJIellGWUFBdFAzaTlTZnZ3Qmlvak1CRnplYkZ3eUVjNkpQQ25ZUVV3aDlMdkpqT2ozNTZJQ01aOVJraF9QcTQ4RmrSAZwBQVVfeXFMT3gzTkQxaDlDeXRUbjVYT0QzRXhuN0RkVjZOU2RrWFU1S2NOem1SOWxBeHc1c1hMa0pXVHpRSm9vV1A0emRYNlBManlhUVVHaFk4UHBJN2VWTjlEWkd5cmRQWVJkOFRIcndEY18tRXdnNXAwaVAtQXRyT3J1ZUdfS0NoUVFUeDFrWjlFWmJMQjJRWGkwQkIyZXhZdFp6?oc=5",
+    "published": "2026-11-03T08:00:00+00:00",
+    "description": "Tracking every team's offseason moves MLB.com",
+    "source": "MLB.com",
+    "category": "mlb",
+    "athlete": "Luis Urías",
     "score": 0
   },
   {
@@ -14712,17 +15449,6 @@
     "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxOWjFHeS1wQjNLcnJyNHB0WkVHVmhrZHhOcXVURlNPUnlSY0FKYm1fbGlZbzAzTi1iMEJKWk9SZFEwSWZSWmc2X0g2clJNN1V5ektoQTNqTEVTTk9CUmZmblE5a3F5TFdYLUtuNEJhWF9LWFVMVzNJR2dOSGVTTWhFSXpWTnE2VWJ2aEFfM2ZJd2RsNXlvMEpRNExrN3JRZ09wcjBEVEEtbWtVdHo3S25vSEo0QmZtZWZyaFNibS00aUtZOUtjWDZYU2lNSTVQNkVJWTZjVW12VTFSR1JTU0xFRlpBQUNxNnFrZjhEcXNXUURWZXlHMzN4dHp3OVFpZ1dXSUYtb0lBdjdVV01ER3JHdmpCemZiZlFtdEdacUdMNk1GNmVHRGlLaDJ1czhmZlg4NktSX3pWb05VclJJWmJWRzc1MnIyQWdYUTZwQ3BYaHlHSXU4NFVvSXNRT0tVQllUZ2p5dGc0b3ozMThVeENBb2xpNlBsUnl4TjF0V3ZERzRCZ05wTVQ3Sjc1VmxDWHpZeUU3OVIwemtsbUk?oc=5",
     "published": "2026-10-31T11:46:08+00:00",
     "description": "~#[NA ŻYWO!]%^ Canelo Álvarez kontra Christian Mbilli – na żywo HS Football 2026 Port of Rotterdam",
-    "source": "Port of Rotterdam",
-    "category": "boxeo",
-    "athlete": "Canelo Álvarez",
-    "score": 0
-  },
-  {
-    "id": "6be7df70a741be32d8470ccd",
-    "title": "(Transmisión en vivo) ver pelea Canelo Álvarez vs. Christian Mbilli EN VIVO GRATIS por TV",
-    "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPWDFpYnN0SjlvOWhZMG1OdVdvc3dkdXl4S0c2S0J2U3otalc1T1ItdnFINEJwVnR4aHdEeWUyb09xbnhyZjl3Q1FmVDBObm01cXEwTmFFaEgzVHNkZW5QeHU0NVJJMWJacmdzRkpaQTd5SG1wNEdSSWs3cjhqVW9wV2ZkU2ZTVTBUbEJDM29PWnNVTjlBZ3VHaXBNS0ZjMy0yOVF4OTM2MG1NTzlMazU4UXctT1pHR2JDelp5eE9RMXRMZEZqQnM5NWczcFVJeEpjYUwxcThYQktyVFQtem5ZRkpJN250S1VCeGVsR3FCMWFwNnVZSEk4eVM4SnVWWUNhRUlmVjhaOEdyYmgxNm55Z1IzVmhLTTRTYXM1c1JHQ205bTRpdlRXWEs0RENFZ01ybnNZbUhfWDJfSHA1bzVsUGRUR3dtcXNXdXN5aEU4UXgxc1h1WU1EQ1FCWlFyWEM0WnEtT3g3X0xTWDdhUmtkX0FKQnFtNmJJMmF4Uw?oc=5",
-    "published": "2026-10-31T11:42:56+00:00",
-    "description": "(Transmisión en vivo) ver pelea Canelo Álvarez vs. Christian Mbilli EN VIVO GRATIS por TV Port of Rotterdam",
     "source": "Port of Rotterdam",
     "category": "boxeo",
     "athlete": "Canelo Álvarez",
