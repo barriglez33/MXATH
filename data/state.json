@@ -1,11 +1,11 @@
 {
-  "cursor": 6,
-  "last_run": "2026-11-11T00:38:28.372936+00:00",
+  "cursor": 34,
+  "last_run": "2026-11-11T07:11:28.551411+00:00",
   "last_stats": {
     "profiles_total": 47,
     "requests": 11,
-    "entries_seen": 311,
+    "entries_seen": 309,
     "accepted": 80,
-    "duplicates": 164
+    "duplicates": 194
   }
 }
